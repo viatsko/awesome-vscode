@@ -11,6 +11,8 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Base16 Ocean Kit](#base16-ocean-kit)
  - [Seti](#seti)
 - [Uncategorized](#uncategorized)
+ - [Align](#align)
+ - [beautify](#beautify)
  - [Debugger for Chrome](#debugger-for-chrome)
  - [Project Manager](#project-manager)
 
@@ -61,6 +63,14 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 ![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
 
 ## Uncategorized
+
+### [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align)
+
+> Align text in vscode like the atom-alignment package
+
+### [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
+> Beautify code in place for VS Code
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
