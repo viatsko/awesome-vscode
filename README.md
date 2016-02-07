@@ -11,6 +11,12 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 
 ## Syntax
 
+Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
+
+- [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- [React JSX](https://marketplace.visualstudio.com/items?itemName=TwentyChung.jsx)
+- [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
+
 ## Lint
 
 ## Themes
