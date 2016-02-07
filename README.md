@@ -8,6 +8,8 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 - [Lint](#lint)
 - [Themes](#themes)
 - [Uncategorized](#uncategorized)
+ - [Debugger for Chrome](#debugger-for-chrome)
+ - [Project Manager](#project-manager)
 
 ## Syntax
 
