@@ -51,3 +51,9 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 ![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
 
 ## Uncategorized
+
+[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+> A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
+
+![](https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/screenshot.png)
