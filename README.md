@@ -42,4 +42,8 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ### Syntax
 
+[Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+![](https://cloud.githubusercontent.com/assets/376065/12876148/12607198-cdfb-11e5-96d0-db87feb95b01.png)
+
 ## Uncategorized
