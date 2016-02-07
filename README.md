@@ -57,3 +57,9 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
 ![](https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/screenshot.png)
+
+[Project Manager](https://marketplace.visualstudio.com/items?itemName=Shan.project-manager)
+
+> Create and open projects instantly by saving the workspace folder in VSCode.
+
+![](https://cloud.githubusercontent.com/assets/376065/12876200/691a69b6-cdfc-11e5-9c89-0af18acd965b.png)
