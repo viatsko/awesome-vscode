@@ -46,4 +46,8 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876148/12607198-cdfb-11e5-96d0-db87feb95b01.png)
 
+[Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
+
+![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
+
 ## Uncategorized
