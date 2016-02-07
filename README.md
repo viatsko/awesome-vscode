@@ -32,6 +32,8 @@ Here are some useful linters and IntelliSense extensions:
 - [JavaScript](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - eslint
 - [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
 
+![](https://github.com/shinnn/vscode-stylelint/raw/master/screenshot.png)
+
 ## Themes
 
 ### UI
