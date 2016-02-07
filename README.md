@@ -36,9 +36,9 @@ Here are some useful linters and IntelliSense extensions:
 
 ## Themes
 
-UI packages can change your VS Code editor's appearance.
-
 ### UI
+
+Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/Microsoft/vscode/issues/1833
 
 ### Syntax
 
