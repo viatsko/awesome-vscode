@@ -16,6 +16,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Bookmarks](#bookmarks)
  - [Debugger for Chrome](#debugger-for-chrome)
  - [ftp-sync](#ftp-sync)
+ - [join-lines](#join-lines)
  - [Project Manager](#project-manager)
  - [Sort Lines](#sort-lines)
 
@@ -94,6 +95,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > Auto sync your work to remote FTP server
 
 ![](http://i.imgur.com/W9h4pwW.gif)
+
+### [join-lines](https://marketplace.visualstudio.com/items?itemName=wmaurer.join-lines)
+
+> Use Ctrl+j/Cmd+j to join lines, just like in Atom and similar to Sublime Text.
+
+![](https://cloud.githubusercontent.com/assets/2899448/11255751/36ee036a-8e48-11e5-8e1f-8889bf2df026.gif)
 
 ### [Project Manager](https://marketplace.visualstudio.com/items?itemName=Shan.project-manager)
 
