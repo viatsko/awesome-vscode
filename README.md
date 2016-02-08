@@ -117,7 +117,7 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 > Highlight web colors in your editor
 
-![](https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/color-highlight/1.1.6/assetbyname/Microsoft.VisualStudio.Services.Icons.Default)
+![](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 
 ### [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash)
 
