@@ -31,6 +31,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Sort Lines](#sort-lines)
  - [Yo](#yo)
 - [Resources for extension developers](#resources-for-extension-developers)
+ - [Utilities](#utilities)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -181,7 +182,13 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
+
 ## Resources for extension developers
+
+### Utilities
+
+- [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
+
 
 ## Contribute
 
