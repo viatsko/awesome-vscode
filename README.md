@@ -18,6 +18,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [ftp-sync](#ftp-sync)
  - [join-lines](#join-lines)
  - [Project Manager](#project-manager)
+ - [Runner](#runner)
  - [Sort Lines](#sort-lines)
 
 ## Syntax
@@ -107,6 +108,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > Create and open projects instantly by saving the workspace folder in VSCode.
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876200/691a69b6-cdfc-11e5-9c89-0af18acd965b.png)
+
+### [Runner](https://marketplace.visualstudio.com/items?itemName=mattn.Runner)
+
+> Run various scripts right from VS Code
+
+![](https://raw.githubusercontent.com/mattn/vscode-runner/master/images/screenshot.gif)
 
 ### [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 
