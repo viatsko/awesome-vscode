@@ -105,6 +105,10 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/screenshot.png)
 
+### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscodeEditorConfig)
+
+> Editor Config for VS Code
+
 ### [ftp-sync](https://marketplace.visualstudio.com/items?itemName=lukasz-wronski.ftp-sync)
 
 > Auto sync your work to remote FTP server
