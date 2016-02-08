@@ -24,6 +24,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Project Manager](#project-manager)
  - [Runner](#runner)
  - [Sort Lines](#sort-lines)
+ - [Yo](#yo)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -146,6 +147,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > Sorts lines of text in specific order
 
 ![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
+
+### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
+
+> Scaffold projects using [Yeoman](http://yeoman.io/)
+
+![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif).
 
 
 ## Contribute
