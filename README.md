@@ -101,6 +101,8 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 > Align text in vscode like the atom-alignment package
 
+![](https://cdn-images-1.medium.com/max/1600/1*U0MbxS9dVaRRJibCoyVS9g.png)
+
 ### [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
 > Beautify code in place for VS Code
