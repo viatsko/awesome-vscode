@@ -14,6 +14,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Align](#align)
  - [beautify](#beautify)
  - [Bookmarks](#bookmarks)
+ - [Color Highlight](#color-highlight)
  - [Debugger for Chrome](#debugger-for-chrome)
  - [ftp-sync](#ftp-sync)
  - [join-lines](#join-lines)
@@ -84,6 +85,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 ![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-commands.png)
 
 ![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
+
+### [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+> Highlight web colors in your editor
+
+![](https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/color-highlight/1.1.6/assetbyname/Microsoft.VisualStudio.Services.Icons.Default)
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
