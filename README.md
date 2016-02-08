@@ -47,8 +47,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
 
 #### React JSX
-
-Please note that in order to make JSX working correctly in .js files, you'll need [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx) extension, mentioned above, and one of the linters with JSX support (*eslint* is recommended) from Lint and IntelliSense section below.
+> Please note that to make JSX working correctly in .js files, you'll need [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx) extension mentioned above, and one of the linters with JSX support (*eslint* recommended) from Lint and IntelliSense section below.
 
 ## Lint and IntelliSense
 
