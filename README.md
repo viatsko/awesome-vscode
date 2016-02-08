@@ -6,6 +6,11 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 
 - [Syntax](#syntax)
 - [Lint and IntelliSense](#lint-and-intellisense)
+ - [C++](#c++)
+ - [CSS](#css)
+ - [Go](#go)
+ - [JavaScript](#javascript)
+ - [Python](#python)
 - [Themes](#themes)
  - [Material-theme](#material-theme)
  - [Base16 Ocean Kit](#base16-ocean-kit)
@@ -28,6 +33,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 - [Contribute](#contribute)
 - [License](#license)
 
+
 ## Syntax
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
@@ -37,6 +43,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [React JSX](https://marketplace.visualstudio.com/items?itemName=TwentyChung.jsx)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
 
+
 ## Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
@@ -44,15 +51,28 @@ In case the awesome nirvana that is linting has not yet been unleashed upon you:
 
 Unlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, [Languages](https://code.visualstudio.com/Docs/languages/overview) section.
 
-Here are some useful linters and IntelliSense extensions:
+## Lint and IntelliSense
 
-- [C++](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - GNU Global tags
-- [CSS](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - stylelint
-- [Go](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go) - Go
-- [JavaScript](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - eslint
-- [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
+### C++
 
-![](https://github.com/shinnn/vscode-stylelint/raw/master/screenshot.png)
+- [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
+
+### CSS
+
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS.
+
+### Go
+
+- [Go](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go) - Rich language support for the Go language.
+
+### JavaScript
+
+- [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
+
+### Python
+
+- [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+
 
 ## Themes
 
@@ -152,7 +172,7 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 > Scaffold projects using [Yeoman](http://yeoman.io/)
 
-![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif).
+![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
 
 ## Contribute
