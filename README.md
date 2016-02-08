@@ -5,7 +5,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 # Table of Content
 
 - [Syntax](#syntax)
-- [Lint](#lint)
+- [Lint and IntelliSense](#lint-and-intellisense)
 - [Themes](#themes)
  - [Material-theme](#material-theme)
  - [Base16 Ocean Kit](#base16-ocean-kit)
