@@ -17,6 +17,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Color Highlight](#color-highlight)
  - [Dash](#dash)
  - [Debugger for Chrome](#debugger-for-chrome)
+ - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
  - [join-lines](#join-lines)
  - [Project Manager](#project-manager)
