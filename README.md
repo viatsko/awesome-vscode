@@ -22,6 +22,8 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Project Manager](#project-manager)
  - [Runner](#runner)
  - [Sort Lines](#sort-lines)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Syntax
 
