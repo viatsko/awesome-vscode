@@ -13,6 +13,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 - [Uncategorized](#uncategorized)
  - [Align](#align)
  - [beautify](#beautify)
+ - [Bookmarks](#bookmarks)
  - [Debugger for Chrome](#debugger-for-chrome)
  - [Project Manager](#project-manager)
 
@@ -71,6 +72,14 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 ### [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
 > Beautify code in place for VS Code
+
+### [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+
+> Mark lines and jump to them
+
+![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-commands.png)
+
+![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
