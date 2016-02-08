@@ -40,6 +40,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 - [Elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
+- [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 - [React JSX](https://marketplace.visualstudio.com/items?itemName=TwentyChung.jsx)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
 
