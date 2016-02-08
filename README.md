@@ -97,8 +97,6 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 > Dash integration in Visual Studio Code
 
-![](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash)
-
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
