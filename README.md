@@ -17,6 +17,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Debugger for Chrome](#debugger-for-chrome)
  - [ftp-sync](#ftp-sync)
  - [Project Manager](#project-manager)
+ - [Sort Lines](#sort-lines)
 
 ## Syntax
 
@@ -99,3 +100,9 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > Create and open projects instantly by saving the workspace folder in VSCode.
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876200/691a69b6-cdfc-11e5-9c89-0af18acd965b.png)
+
+### [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+
+> Sorts lines of text in specific order
+
+![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
