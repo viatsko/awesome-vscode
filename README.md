@@ -185,6 +185,10 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ## Resources for extension developers
 
+### Tools
+
+- [Yo Code - Extension Generator](https://code.visualstudio.com/docs/tools/yocode)
+
 ### Utilities
 
 - [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
