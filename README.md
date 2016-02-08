@@ -31,6 +31,8 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Sort Lines](#sort-lines)
  - [Yo](#yo)
 - [Resources for extension developers](#resources-for-extension-developers)
+ - [Documentation](#documentation)
+ - [Tools](#tools)
  - [Utilities](#utilities)
 - [Contribute](#contribute)
 - [License](#license)
@@ -184,6 +186,10 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 
 ## Resources for extension developers
+
+### Documentation
+
+- [Extending Visual Studio Code](https://code.visualstudio.com/docs/extensions/overview) section of [Official Documentation](https://code.visualstudio.com/docs)
 
 ### Tools
 
