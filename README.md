@@ -15,6 +15,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [beautify](#beautify)
  - [Bookmarks](#bookmarks)
  - [Debugger for Chrome](#debugger-for-chrome)
+ - [ftp-sync](#ftp-sync)
  - [Project Manager](#project-manager)
 
 ## Syntax
@@ -86,6 +87,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
 ![](https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/screenshot.png)
+
+### [ftp-sync](https://marketplace.visualstudio.com/items?itemName=lukasz-wronski.ftp-sync)
+
+> Auto sync your work to remote FTP server
+
+![](http://i.imgur.com/W9h4pwW.gif)
 
 ### [Project Manager](https://marketplace.visualstudio.com/items?itemName=Shan.project-manager)
 
