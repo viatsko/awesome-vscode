@@ -132,3 +132,15 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > Sorts lines of text in specific order
 
 ![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Valerii Iatsko](http://codingbox.io) has waived all copyright and related or neighboring rights to this work.
