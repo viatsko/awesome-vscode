@@ -17,6 +17,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
  - [Color Highlight](#color-highlight)
  - [Dash](#dash)
  - [Debugger for Chrome](#debugger-for-chrome)
+ - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
  - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
  - [join-lines](#join-lines)
@@ -105,6 +106,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
 ![](https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/screenshot.png)
+
+### [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
+
+> Transform quotes of ECMAScript string literals
+
+![](https://cloud.githubusercontent.com/assets/970430/10563944/4cc04462-75d1-11e5-984b-41e0a21a72c3.gif)
 
 ### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscodeEditorConfig)
 
