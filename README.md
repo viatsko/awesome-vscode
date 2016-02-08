@@ -69,6 +69,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### JavaScript
 
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
+- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/sindresorhus/xo).
 
 ### Python
 
