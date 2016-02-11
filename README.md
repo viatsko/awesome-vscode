@@ -49,7 +49,10 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
 
 #### React JSX
-> Please note that to make JSX working correctly in .js files, you'll need [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx) extension mentioned above, and one of the linters with JSX support (*eslint* recommended) from Lint and IntelliSense section below.
+Please note that to make JSX working correctly in .js files, you'll need [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx) extension mentioned above, and one of the linters with JSX support (*eslint* recommended) from Lint and IntelliSense section below.
+
+### Salsa Preview
+Alternatively, instead of JS to JSX + ESLint, for javascript, since the January release, you can use *[Salsa Preview](https://github.com/Microsoft/TypeScript/issues/4789)*. [Follow the official documentation](https://github.com/Microsoft/vscode-docs/blob/master/release-notes/latest.md#enabling-salsa) in order to enable it.
 
 ## Lint and IntelliSense
 
