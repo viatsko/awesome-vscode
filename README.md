@@ -42,11 +42,20 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
+- [Arduino](https://marketplace.visualstudio.com/items?itemName=moozzyk.Arduino)
+- [Dart](https://marketplace.visualstudio.com/items?itemName=kevinplatel.dart)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 - [Elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
+- [Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)
 - [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
+- [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx)
+- [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
+- [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
+- [Scala](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
+- [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
+- [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 
 #### React JSX
 Please note that to make JSX working correctly in .js files, you'll need [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx) extension mentioned above, and one of the linters with JSX support (*eslint* recommended) from Lint and IntelliSense section below.
