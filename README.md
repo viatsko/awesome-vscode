@@ -43,6 +43,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=moozzyk.Arduino)
+- [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=kevinplatel.dart)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 - [EJS](https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support)
@@ -54,7 +55,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
-- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal)
+- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
