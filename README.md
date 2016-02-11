@@ -45,13 +45,19 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=moozzyk.Arduino)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=kevinplatel.dart)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- [EJS](https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support)
 - [Elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
 - [Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)
+- [Erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
 - [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
+- [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
+- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal)
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
+- [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
+- [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - [Scala](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
@@ -90,6 +96,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/sindresorhus/xo).
+
+### PHP
+
+- [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
 
 ### Python
 
