@@ -224,6 +224,7 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ### Tools
 
+- [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/tools/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/tools/yocode)
 
 
