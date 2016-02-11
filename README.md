@@ -82,6 +82,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go) - Rich language support for the Go language.
 
+### Haskell
+
+- [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
+
 ### JavaScript
 
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
