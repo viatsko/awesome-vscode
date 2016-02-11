@@ -6,7 +6,7 @@ A curated list of delightful VS Code packages and resources. For more awesomenes
 
 - [Syntax](#syntax)
 - [Lint and IntelliSense](#lint-and-intellisense)
- - [C++](#c++)
+ - [C++](#c)
  - [CSS](#css)
  - [Go](#go)
  - [JavaScript](#javascript)
