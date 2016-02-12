@@ -4,6 +4,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 # Table of Content
 
+- [Official](#official)
 - [Syntax](#syntax)
 - [Lint and IntelliSense](#lint-and-intellisense)
  - [C++](#c)
@@ -37,6 +38,13 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Contribute](#contribute)
 - [License](#license)
 
+## Official
+
+- [Official website](https://code.visualstudio.com/)
+- [Source code](https://github.com/microsoft/vscode) on GitHub
+- [Releases (stable channel)](http://code.visualstudio.com/download)
+- [Releases (insiders channel)](http://code.visualstudio.com/insiders)
+- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
 
 ## Syntax
 
