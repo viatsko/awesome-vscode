@@ -62,6 +62,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx)
+- [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
