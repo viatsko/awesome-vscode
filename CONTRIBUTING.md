@@ -9,7 +9,7 @@ To submit a package to this list, please do the following:
 Submit your package in the specific form:
 
 ```gfm
-#### [Title of the package](https://marketplace.visualstudio.com/items?itemName=NAME)
+#### [Title of the package](https://s3.amazonaws.com/extend.brackets/NAME/NAME-VERSION.zip)
 > A short description of what this package does and why is it awesome.
 
 ![title of the package](link to the .gif file that explains its functionality)
