@@ -181,7 +181,7 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://cloud.githubusercontent.com/assets/970430/10563944/4cc04462-75d1-11e5-984b-41e0a21a72c3.gif)
 
-### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscodeEditorConfig)
+### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 > Editor Config for VS Code
 
