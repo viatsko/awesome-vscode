@@ -11,6 +11,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [CSS](#css)
  - [Go](#go)
  - [JavaScript](#javascript)
+ - [Markdown](#markdown)
  - [Python](#python)
 - [Themes](#themes)
  - [Material-theme](#material-theme)
@@ -107,6 +108,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/sindresorhus/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/sindresorhus/ava).
+
+### Markdown
+
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
 
 ### PHP
 
