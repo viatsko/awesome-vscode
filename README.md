@@ -17,6 +17,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Material-theme](#material-theme)
  - [Base16 Ocean Kit](#base16-ocean-kit)
  - [Seti](#seti)
+ - [Atom One Dark Syntax Theme ](#Atom One Dark Syntax Theme )
 - [Uncategorized](#uncategorized)
  - [Align](#align)
  - [beautify](#beautify)
@@ -141,6 +142,10 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 #### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
+
+#### [Atom One Dark Syntax Theme ](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
+
+![](https://raw.github.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
 
 ## Uncategorized
 
