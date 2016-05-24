@@ -63,7 +63,6 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
-- [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
@@ -74,12 +73,6 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
-
-#### React JSX
-Please note that to make JSX working correctly in .js files, you'll need [JS is JSX](https://marketplace.visualstudio.com/items?itemName=eg2.js-is-jsx) extension mentioned above, and one of the linters with JSX support (*eslint* recommended) from Lint and IntelliSense section below.
-
-### Salsa Preview
-Alternatively, instead of JS to JSX + ESLint, for javascript, since the January release, you can use *[Salsa Preview](https://github.com/Microsoft/TypeScript/issues/4789)*. [Follow the official documentation](https://github.com/Microsoft/vscode-docs/blob/master/release-notes/latest.md#enabling-salsa) in order to enable it.
 
 ## Lint and IntelliSense
 
