@@ -219,6 +219,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
 
+### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+> Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+
+![](https://github.com/VSCodeVim/Vim/raw/master/images/screen.png)
+
 ### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
 > Scaffold projects using [Yeoman](http://yeoman.io/)
