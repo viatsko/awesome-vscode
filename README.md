@@ -88,6 +88,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### CSS
 
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS.
+- [vscode-caniuse](https://marketplace.visualstudio.com/items?itemName=agauniyal.vscode-caniuse) - Check compatiblity of properties across browsers.
 
 ### Go
 
