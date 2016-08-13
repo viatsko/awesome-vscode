@@ -83,7 +83,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### C++
 
-- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) by [Microsoft](https://microsoft.com) - Preview C/C++ extension by Microsoft, read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
+- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 
 ### CSS
