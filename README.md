@@ -33,6 +33,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Runner](#runner)
  - [Sort Lines](#sort-lines)
  - [Yo](#yo)
+ - [Git History] (#githistory)
+ - [Path IntelliSense] (#path-intellisense)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
  - [Libraries](#libraries)
@@ -230,6 +232,19 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > Scaffold projects using [Yeoman](http://yeoman.io/)
 
 ![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
+
+### [Git History] (https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+> View git log, file or line History
+
+![] (https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/fileHistoryCommand.gif)
+
+### [Path Intellisense] (https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+> Visual Studio Code plugin that autocompletes filenames
+
+![] (https://i.giphy.com/iaHeUiDeTUZuo.gif)
+
 
 
 ## Resources for extension developers
