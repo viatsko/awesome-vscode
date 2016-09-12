@@ -33,8 +33,9 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Runner](#runner)
  - [Sort Lines](#sort-lines)
  - [Yo](#yo)
- - [Git History] (#githistory)
- - [Path IntelliSense] (#path-intellisense)
+ - [Git History](#git-history)
+ - [Path IntelliSense](#path-intellisense)
+ - [Slack](#slack)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
  - [Libraries](#libraries)
@@ -245,6 +246,11 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![] (https://i.giphy.com/iaHeUiDeTUZuo.gif)
 
+### [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack)
+
+> Send messages and code snippets, upload files to Slack
+
+![](https://github.com/sozercan/vscode-slack/raw/master/slack-send.gif)
 
 
 ## Resources for extension developers
