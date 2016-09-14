@@ -33,7 +33,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Runner](#runner)
  - [Sort Lines](#sort-lines)
  - [Yo](#yo)
- - [Git History] (#githistory)
+ - [Git History] (#git-history)
  - [Path IntelliSense] (#path-intellisense)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
