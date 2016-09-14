@@ -33,8 +33,9 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Runner](#runner)
  - [Sort Lines](#sort-lines)
  - [Yo](#yo)
- - [Git History] (#git-history)
- - [Path IntelliSense] (#path-intellisense)
+ - [Git History](#git-history)
+ - [Path IntelliSense](#path-intellisense)
+ - [Slack](#slack)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
  - [Libraries](#libraries)
@@ -245,6 +246,11 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![] (https://i.giphy.com/iaHeUiDeTUZuo.gif)
 
+### [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack)
+
+> Send messages and code snippets, upload files to Slack
+
+![](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
 
 ## Resources for extension developers
@@ -261,7 +267,8 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/tools/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/tools/yocode)
-
+- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
 ## Contribute
 
