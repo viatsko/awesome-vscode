@@ -250,7 +250,7 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 > Send messages and code snippets, upload files to Slack
 
-![](https://github.com/sozercan/vscode-slack/raw/master/slack-send.gif)
+![](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
 
 ## Resources for extension developers
