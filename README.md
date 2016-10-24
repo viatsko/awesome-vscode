@@ -30,8 +30,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Project Manager](#project-manager)
  - [Yo](#yo)
 - [Formatting/Beautification](#formatting-beautification)
- - [Auto Rename Tag](#auto-rename-tag)
  - [Align](#align)
+ - [Auto Rename Tag](#auto-rename-tag)
  - [beautify](#beautify)
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
  - [join-lines](#join-lines)
@@ -210,15 +210,15 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ## Formatting & Beautification
 
-### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
-> Auto rename paired HTML/XML tags
-
 ### [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align)
 
 > Align text in vscode like the atom-alignment package
 
 ![](https://cdn-images-1.medium.com/max/1600/1*U0MbxS9dVaRRJibCoyVS9g.png)
+
+### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+> Auto rename paired HTML/XML tags
 
 ### [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
