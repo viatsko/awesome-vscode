@@ -19,23 +19,31 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Seti](#seti)
  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
  - [An Old Hope Theme](#an-old-hope-theme)
-- [Uncategorized](#uncategorized)
- - [Align](#align)
- - [beautify](#beautify)
+- [Productivity](#productivity)
  - [Bookmarks](#bookmarks)
+ - [Copy Relative Path](#copy-relative-path)
+ - [Git History](#git-history)
+ - [Git Project Manager](#git-project-manager)
+ - [Icon Fonts](#icon-fonts)
+ - [Multiple clipboards](#multiple-clipboards)
+ - [Path IntelliSense](#path-intellisense)
+ - [Project Manager](#project-manager)
+ - [Yo](#yo)
+- [Formatting/Beautification](#formatting-beautification)
+ - [Align](#align)
+ - [Auto Rename Tag](#auto-rename-tag)
+ - [beautify](#beautify)
+ - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+ - [join-lines](#join-lines)
+ - [Sort Lines](#sort-lines)
+- [Uncategorized](#uncategorized)
  - [Color Highlight](#color-highlight)
  - [Dash](#dash)
  - [Debugger for Chrome](#debugger-for-chrome)
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
  - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
- - [join-lines](#join-lines)
- - [Project Manager](#project-manager)
  - [Runner](#runner)
- - [Sort Lines](#sort-lines)
- - [Yo](#yo)
- - [Git History](#git-history)
- - [Path IntelliSense](#path-intellisense)
  - [Slack](#slack)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
@@ -150,17 +158,7 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
 
-## Uncategorized
-
-### [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align)
-
-> Align text in vscode like the atom-alignment package
-
-![](https://cdn-images-1.medium.com/max/1600/1*U0MbxS9dVaRRJibCoyVS9g.png)
-
-### [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
-
-> Beautify code in place for VS Code
+## Productivity
 
 ### [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
@@ -169,6 +167,82 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 ![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-commands.png)
 
 ![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
+
+### [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
+
+> Copy Relative Path from a File
+
+### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+> View git log, file or line History
+
+![](https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/fileHistoryCommand.gif)
+
+### [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
+
+> Automatically indexes your git projects and lets you easily toggle between them
+
+### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
+
+> Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+
+### [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
+
+> Override the regular Copy and Cut commands to keep selections in a clipboard ring
+
+### [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+> Visual Studio Code plugin that autocompletes filenames
+
+![](https://i.giphy.com/iaHeUiDeTUZuo.gif)
+
+### [Project Manager](https://marketplace.visualstudio.com/items?itemName=Shan.project-manager)
+
+> Create and open projects instantly by saving the workspace folder in VSCode.
+
+![](https://cloud.githubusercontent.com/assets/376065/12876200/691a69b6-cdfc-11e5-9c89-0af18acd965b.png)
+
+### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
+
+> Scaffold projects using [Yeoman](http://yeoman.io/)
+
+![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
+
+## Formatting & Beautification
+
+### [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align)
+
+> Align text in vscode like the atom-alignment package
+
+![](https://cdn-images-1.medium.com/max/1600/1*U0MbxS9dVaRRJibCoyVS9g.png)
+
+### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+> Auto rename paired HTML/XML tags
+
+### [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
+> Beautify code in place for VS Code
+
+### [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
+
+> Transform quotes of ECMAScript string literals
+
+![](https://cloud.githubusercontent.com/assets/970430/10563944/4cc04462-75d1-11e5-984b-41e0a21a72c3.gif)
+
+### [join-lines](https://marketplace.visualstudio.com/items?itemName=wmaurer.join-lines)
+
+> Use Ctrl+j/Cmd+j to join lines, just like in Atom and similar to Sublime Text.
+
+![](https://cloud.githubusercontent.com/assets/2899448/11255751/36ee036a-8e48-11e5-8e1f-8889bf2df026.gif)
+
+### [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+
+> Sorts lines of text in specific order
+
+![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
+
+## Uncategorized
 
 ### [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
@@ -188,33 +262,15 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/screenshot.png)
 
-### [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
-
-> Transform quotes of ECMAScript string literals
-
-![](https://cloud.githubusercontent.com/assets/970430/10563944/4cc04462-75d1-11e5-984b-41e0a21a72c3.gif)
-
 ### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 > Editor Config for VS Code
 
 ### [ftp-sync](https://marketplace.visualstudio.com/items?itemName=lukasz-wronski.ftp-sync)
 
-> Auto sync your work to remote FTP server
+> Auto-sync your work to remote FTP server
 
 ![](http://i.imgur.com/W9h4pwW.gif)
-
-### [join-lines](https://marketplace.visualstudio.com/items?itemName=wmaurer.join-lines)
-
-> Use Ctrl+j/Cmd+j to join lines, just like in Atom and similar to Sublime Text.
-
-![](https://cloud.githubusercontent.com/assets/2899448/11255751/36ee036a-8e48-11e5-8e1f-8889bf2df026.gif)
-
-### [Project Manager](https://marketplace.visualstudio.com/items?itemName=Shan.project-manager)
-
-> Create and open projects instantly by saving the workspace folder in VSCode.
-
-![](https://cloud.githubusercontent.com/assets/376065/12876200/691a69b6-cdfc-11e5-9c89-0af18acd965b.png)
 
 ### [Runner](https://marketplace.visualstudio.com/items?itemName=mattn.Runner)
 
@@ -222,35 +278,11 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://raw.githubusercontent.com/mattn/vscode-runner/master/images/screenshot.gif)
 
-### [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
-
-> Sorts lines of text in specific order
-
-![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
-
 ### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
 > Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
 
 ![](https://github.com/VSCodeVim/Vim/raw/master/images/screen.png)
-
-### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
-
-> Scaffold projects using [Yeoman](http://yeoman.io/)
-
-![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
-
-### [Git History] (https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-
-> View git log, file or line History
-
-![] (https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/fileHistoryCommand.gif)
-
-### [Path Intellisense] (https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-
-> Visual Studio Code plugin that autocompletes filenames
-
-![] (https://i.giphy.com/iaHeUiDeTUZuo.gif)
 
 ### [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack)
 
