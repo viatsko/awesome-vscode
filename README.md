@@ -22,6 +22,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Productivity](#productivity)
  - [Bookmarks](#bookmarks)
  - [Copy Relative Path](#copy-relative-path)
+ - [Gi](#gi)
  - [Git History](#git-history)
  - [Git Project Manager](#git-project-manager)
  - [Icon Fonts](#icon-fonts)
@@ -171,6 +172,11 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 ### [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 
 > Copy Relative Path from a File
+
+#### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
+> Generating .gitignore files made easy.
+
+![](https://github.com/hasit/vscode-gi/raw/master/assets/gi.gif)
 
 ### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
