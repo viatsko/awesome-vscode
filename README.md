@@ -20,6 +20,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
  - [An Old Hope Theme](#an-old-hope-theme)
 - [Productivity](#productivity)
+ - [Azure IoT Toolkit](#azure-iot-toolkit)
  - [Bookmarks](#bookmarks)
  - [Copy Relative Path](#copy-relative-path)
  - [Gi](#gi)
@@ -32,12 +33,14 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Yo](#yo)
 - [Formatting/Beautification](#formatting-beautification)
  - [Align](#align)
+ - [Auto Close Tag](#auto-close-tag)
  - [Auto Rename Tag](#auto-rename-tag)
  - [beautify](#beautify)
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
  - [join-lines](#join-lines)
  - [Sort Lines](#sort-lines)
 - [Uncategorized](#uncategorized)
+ - [Code Runner](#code-runner)
  - [Color Highlight](#color-highlight)
  - [Dash](#dash)
  - [Debugger for Chrome](#debugger-for-chrome)
@@ -161,6 +164,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ## Productivity
 
+### [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=formulahendry.azure-iot-toolkit)
+
+> Everything you need for the Azure IoT development: Interact with Azure IoT Hub; IoT Device Management; Discover Ethernet, USB serial, WiFi connected devices
+
+![](https://raw.githubusercontent.com/formulahendry/vscode-azure-iot-toolkit/master/images/monitor.gif)
+
 ### [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
 > Mark lines and jump to them
@@ -222,9 +231,17 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 ![](https://cdn-images-1.medium.com/max/1600/1*U0MbxS9dVaRRJibCoyVS9g.png)
 
+### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+> Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
+
+![](https://raw.githubusercontent.com/formulahendry/vscode-auto-close-tag/master/images/usage.gif)
+
 ### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 > Auto rename paired HTML/XML tags
+
+![](https://raw.githubusercontent.com/formulahendry/vscode-auto-rename-tag/master/images/usage.gif)
 
 ### [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
@@ -249,6 +266,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 ![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
 
 ## Uncategorized
+
+### [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+> Run code snippet or code file for multiple languages: C, C++, Java, JavaScript, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, C# Script, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script
+
+![](https://raw.githubusercontent.com/formulahendry/vscode-code-runner/master/images/usage.gif)
 
 ### [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
