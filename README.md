@@ -30,6 +30,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Multiple clipboards](#multiple-clipboards)
  - [Path IntelliSense](#path-intellisense)
  - [Project Manager](#project-manager)
+ - [REST Client](#rest-client)
  - [Yo](#yo)
 - [Formatting/Beautification](#formatting-beautification)
  - [Align](#align)
@@ -216,6 +217,12 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 > Create and open projects instantly by saving the workspace folder in VSCode.
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876200/691a69b6-cdfc-11e5-9c89-0af18acd965b.png)
+
+### [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+> Allows you to send HTTP request and view the response in Visual Studio Code directly.
+
+![](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
 ### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
