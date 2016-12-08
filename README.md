@@ -27,6 +27,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Gi](#gi)
  - [Git History](#git-history)
  - [Git Project Manager](#git-project-manager)
+ - [GitLink](#gitlink)
  - [Icon Fonts](#icon-fonts)
  - [Multiple clipboards](#multiple-clipboards)
  - [Path IntelliSense](#path-intellisense)
@@ -205,6 +206,12 @@ However, this extension allow you to do it by patching VS code, until it's imple
 ### [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 
 > Automatically indexes your git projects and lets you easily toggle between them
+
+### [GitLink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink)
+
+> GoTo current file's online link in browser and Copy the link in clipboard.
+
+![](https://raw.githubusercontent.com/qinezh/vscode-gitlink/master/images/how_to_use_it.gif)
 
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
