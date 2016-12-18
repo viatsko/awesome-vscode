@@ -14,6 +14,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Markdown](#markdown)
  - [Python](#python)
 - [Themes](#themes)
+ - [Custom theme for VS code](#custom-theme-for-vs-code)
  - [Material-theme](#material-theme)
  - [Base16 Ocean Kit](#base16-ocean-kit)
  - [Seti](#seti)
@@ -140,6 +141,13 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### UI
 
 Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/Microsoft/vscode/issues/1833
+
+However, this extension allow you to do it by patching VS code, until it's implemented as a default feature :
+
+#### [Custom theme for VS code](https://marketplace.visualstudio.com/items?itemName=bentx.vscode-custom-theme)
+> Customize your Visual Studio Code experience, use your own colors.
+
+![](https://raw.githubusercontent.com/bentx/vscode-custom-theme/master/images/screen.gif)
 
 ### Syntax
 
