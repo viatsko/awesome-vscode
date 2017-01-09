@@ -213,6 +213,12 @@ However, this extension allow you to do it by patching VS code, until it's imple
 
 ![](https://raw.githubusercontent.com/qinezh/vscode-gitlink/master/images/how_to_use_it.gif)
 
+### [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+> Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
+
+![](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/preview-gitlens.gif)
+
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
