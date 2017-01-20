@@ -110,7 +110,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
-  >Parse CSS,SCSS, LESS and add vendor prefixes automatically.
+  Parse CSS,SCSS, LESS and add vendor prefixes automatically.
   ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
 
 ### Go
