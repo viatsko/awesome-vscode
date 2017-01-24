@@ -233,11 +233,11 @@ However, this extension allow you to do it by patching VS code, until it's imple
 
 ![](https://i.giphy.com/iaHeUiDeTUZuo.gif)
 
-### [Project Manager](https://marketplace.visualstudio.com/items?itemName=Shan.project-manager)
+### [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
-> Create and open projects instantly by saving the workspace folder in VSCode.
+> Easily switch between projects.
 
-![](https://cloud.githubusercontent.com/assets/376065/12876200/691a69b6-cdfc-11e5-9c89-0af18acd965b.png)
+![](https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/project-manager-commands.png)
 
 ### [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
