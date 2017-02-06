@@ -150,6 +150,11 @@ However, this extension allow you to do it by patching VS code, until it's imple
 
 ![](https://raw.githubusercontent.com/bentx/vscode-custom-theme/master/images/screen.gif)
 
+If you're feeling brave, there are at least two custom UIs for VS Code:
+
+- [Essence](https://github.com/flagello/Essence)
+- [Pragmatic Essence](https://github.com/orta/Essence) 
+
 ### Syntax
 
 #### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
