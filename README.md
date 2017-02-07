@@ -51,6 +51,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
  - [Runner](#runner)
+ - [SVG Viewer](#svg-viewer)
  - [Slack](#slack)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
@@ -339,6 +340,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Run various scripts right from VS Code
 
 ![](https://raw.githubusercontent.com/mattn/vscode-runner/master/images/screenshot.gif)
+
+#### [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+
+> View an SVG in the editor and export it as data URI scheme or PNG.
+
+![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
 
 ### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
