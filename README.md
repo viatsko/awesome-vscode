@@ -53,6 +53,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Runner](#runner)
  - [SVG Viewer](#svg-viewer)
  - [Slack](#slack)
+ - [Vim Mode](#vim-mode)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
  - [Libraries](#libraries)
@@ -342,18 +343,17 @@ However, this extension allow you to do it by patching VS code, until it's imple
 
 ![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
 
-### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-
-> Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
-
-![](https://github.com/VSCodeVim/Vim/raw/master/images/screen.png)
-
 ### [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack)
 
 > Send messages and code snippets, upload files to Slack
 
 ![](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
+### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+> Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+
+![](https://github.com/VSCodeVim/Vim/raw/master/images/screen.png)
 
 ## Resources for extension developers
 
