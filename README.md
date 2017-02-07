@@ -51,8 +51,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
  - [Runner](#runner)
- - [SVG Viewer](#svg-viewer)
  - [Slack](#slack)
+ - [SVG Viewer](#svg-viewer)
  - [Vim Mode](#vim-mode)
 - [Resources for extension developers](#resources-for-extension-developers)
  - [Documentation](#documentation)
@@ -337,17 +337,17 @@ However, this extension allow you to do it by patching VS code, until it's imple
 
 ![](https://raw.githubusercontent.com/mattn/vscode-runner/master/images/screenshot.gif)
 
-#### [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
-
-> View an SVG in the editor and export it as data URI scheme or PNG.
-
-![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
-
 ### [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack)
 
 > Send messages and code snippets, upload files to Slack
 
 ![](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
+
+### [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+
+> View an SVG in the editor and export it as data URI scheme or PNG.
+
+![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
 
 ### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
