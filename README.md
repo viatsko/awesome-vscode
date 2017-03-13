@@ -85,6 +85,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
+- [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
