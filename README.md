@@ -170,7 +170,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 #### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
-![](https://cloud.githubusercontent.com/assets/376065/12876148/12607198-cdfb-11e5-96d0-db87feb95b01.png)
+![](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
 
 #### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
 
