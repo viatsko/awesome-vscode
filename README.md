@@ -13,6 +13,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [JavaScript](#javascript)
  - [Markdown](#markdown)
  - [Python](#python)
+ - [Rust](#rust)
 - [Themes](#themes)
  - [Custom theme for VS code](#custom-theme-for-vs-code)
  - [Material-theme](#material-theme)
@@ -140,6 +141,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+
+### Rust
+
+- [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
 
 
 ## Themes
