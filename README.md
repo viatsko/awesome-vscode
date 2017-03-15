@@ -370,7 +370,8 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ### Libraries
 
-- [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A set of helpers for simple setting and getting the editor text. Useful for unit tests.
+- [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
+- [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
 ### Tools
 
