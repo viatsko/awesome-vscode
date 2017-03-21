@@ -29,6 +29,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Git History](#git-history)
  - [Git Project Manager](#git-project-manager)
  - [GitLink](#gitlink)
+ - [GitLens](#gitlens)
  - [Icon Fonts](#icon-fonts)
  - [Multiple clipboards](#multiple-clipboards)
  - [Path IntelliSense](#path-intellisense)
