@@ -41,6 +41,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Auto Rename Tag](#auto-rename-tag)
  - [beautify](#beautify)
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+ - [Paste and Indent](#paste-and-indent)
  - [Sort Lines](#sort-lines)
 - [Uncategorized](#uncategorized)
  - [Code Runner](#code-runner)
@@ -295,6 +296,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Transform quotes of ECMAScript string literals
 
 ![](https://cloud.githubusercontent.com/assets/970430/10563944/4cc04462-75d1-11e5-984b-41e0a21a72c3.gif)
+
+### [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
+
+> Paste code with "correct" indentation
+
+![](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/pasteandindent.gif)
 
 ### [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 
