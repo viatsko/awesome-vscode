@@ -52,6 +52,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
  - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
+ - [View In Browser](#view-in-browser)
  - [Runner](#runner)
  - [Slack](#slack)
  - [SVG Viewer](#svg-viewer)
@@ -345,6 +346,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Auto-sync your work to remote FTP server
 
 ![](http://i.imgur.com/W9h4pwW.gif)
+
+### [View In Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser)
+
+> view a html file in system's default browser
+
+![](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/open-in-browser.png)
 
 ### [Runner](https://marketplace.visualstudio.com/items?itemName=mattn.Runner)
 
