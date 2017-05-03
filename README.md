@@ -51,6 +51,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
  - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
+ - [Quokka](#quokka)
  - [Runner](#runner)
  - [Slack](#slack)
  - [SVG Viewer](#svg-viewer)
@@ -337,6 +338,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Auto-sync your work to remote FTP server
 
 ![](http://i.imgur.com/W9h4pwW.gif)
+
+### [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
+> Rapid prototyping playground for JavaScript and TypeScript in VS Code, with access to your project's files, inline reporting, code coverage and rich output formatting.
+
+![](https://quokkajs.com/assets/img/vsc1.gif)
 
 ### [Runner](https://marketplace.visualstudio.com/items?itemName=mattn.Runner)
 
