@@ -159,7 +159,7 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
 - [Essence](https://github.com/flagello/Essence)
-- [Pragmatic Essence](https://github.com/orta/Essence) 
+- [Pragmatic Essence](https://github.com/orta/Essence)
 
 ### Syntax
 
