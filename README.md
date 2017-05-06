@@ -177,7 +177,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 #### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 
-![](https://raw.github.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
+![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
 
 #### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
@@ -195,9 +195,9 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > Mark lines and jump to them
 
-![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-commands.png)
+![](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-commands.png)
 
-![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
+![](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
 
 ### [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 
@@ -206,7 +206,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 #### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
 
-![](https://github.com/hasit/vscode-gi/raw/master/assets/gi.gif)
+![](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
 
 ### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
@@ -302,7 +302,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > Sorts lines of text in specific order
 
-![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
+![](https://raw.githubusercontent.com/Tyriar/vscode-sort-lines/master/images/usage-animation.gif)
 
 ## Uncategorized
 
@@ -328,7 +328,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
-![](https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/screenshot.png)
+![](https://raw.githubusercontent.com/Microsoft/vscode-chrome-debug/master/images/screenshot.png)
 
 ### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
