@@ -368,8 +368,6 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
 
-![](https://github.com/VSCodeVim/Vim/raw/master/images/screen.png)
-
 ## Resources for extension developers
 
 ### Documentation
