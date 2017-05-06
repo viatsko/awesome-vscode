@@ -94,7 +94,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - [Scala](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
-- [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
+- [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 
