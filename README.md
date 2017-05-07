@@ -42,6 +42,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Path IntelliSense](#path-intellisense)
  - [Project Manager](#project-manager)
  - [REST Client](#rest-client)
+ - [Settings Sync](#settings-sync)
  - [Yo](#yo)
 - [Formatting/Beautification](#formatting-beautification)
  - [Align](#align)
@@ -263,6 +264,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Allows you to send HTTP request and view the response in Visual Studio Code directly.
 
 ![](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
+
+### [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+
+> Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using Github Gist
+
+![Settings Sync](http://i.imgur.com/QZtaBca.gif)
 
 ### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
