@@ -60,6 +60,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
  - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
+ - [PlatformIO](#platformio)
  - [Quokka](#quokka)
  - [Runner](#runner)
  - [Slack](#slack)
@@ -354,6 +355,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Auto-sync your work to remote FTP server
 
 ![](http://i.imgur.com/W9h4pwW.gif)
+
+### [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
+
+> An open source ecosystem for IoT development: supports 350+ embedded boards, 20+ development platforms, 10+ frameworks. Arduino and ARM mbed compatible.
+
+![](https://raw.githubusercontent.com/formulahendry/vscode-platformio/master/images/build.gif)
 
 ### [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
