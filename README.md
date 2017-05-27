@@ -214,6 +214,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > Copy Relative Path from a File
 
+### [Deploy](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy)
+
+> Commands for upload or copy files of a workspace to a destination.
+
+![](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
+
 #### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
 
