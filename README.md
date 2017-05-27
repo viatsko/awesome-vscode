@@ -32,6 +32,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Azure IoT Toolkit](#azure-iot-toolkit)
  - [Bookmarks](#bookmarks)
  - [Copy Relative Path](#copy-relative-path)
+ - [Deploy](#deploy)
  - [Gi](#gi)
  - [Git History](#git-history)
  - [Git Project Manager](#git-project-manager)
