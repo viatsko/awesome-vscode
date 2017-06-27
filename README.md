@@ -24,6 +24,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Python](#python)
  - [Rust](#rust)
 - [Themes](#themes)
+ - [Atom One Dark Theme](#atom-one-dark-theme)
+ - [Atom One Light Theme](#atom-one-light-theme)
  - [Material-theme](#material-theme)
  - [Base16 Ocean Kit](#base16-ocean-kit)
  - [Seti](#seti)
@@ -178,6 +180,18 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 - [Pragmatic Essence](https://github.com/orta/Essence)
 
 ### Syntax
+
+#### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+
+Features full workbench theming
+
+![](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
+
+#### [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+
+Features full workbench theming
+
+![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
 
 #### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
