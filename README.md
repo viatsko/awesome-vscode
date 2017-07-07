@@ -44,7 +44,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [REST Client](#rest-client)
  - [Settings Sync](#settings-sync)
  - [Yo](#yo)
-- [Formatting/Beautification](#formatting-beautification)
+- [Formatting/Beautification](#formatting--beautification)
  - [Align](#align)
  - [Auto Close Tag](#auto-close-tag)
  - [Auto Rename Tag](#auto-rename-tag)
