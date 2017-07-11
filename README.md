@@ -22,6 +22,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Markdown](#markdown)
 - [Python](#python)
 - [Rust](#rust)
+- [Typescript](#typescript)
 - [Themes](#themes)
 - [Material-theme](#material-theme)
 - [Base16 Ocean Kit](#base16-ocean-kit)
@@ -160,6 +161,9 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
 
+### TypeScript
+
+- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
 
 ## Themes
 
