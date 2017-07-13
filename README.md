@@ -56,6 +56,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Uncategorized](#uncategorized)
  - [Code Runner](#code-runner)
  - [Color Highlight](#color-highlight)
+ - [Output Colorizer](#output-colorizer)
  - [Dash](#dash)
  - [Debugger for Chrome](#debugger-for-chrome)
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
@@ -338,6 +339,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Highlight web colors in your editor
 
 ![](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
+
+
+#### [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+> Syntax highlighting for the VS Code Output Panel and log files
+
+![IBM.output-colorizer](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
 
 ### [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash)
 
