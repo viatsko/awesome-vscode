@@ -337,7 +337,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 ![](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 
 
-#### [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+### [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 > Syntax highlighting for the VS Code Output Panel and log files
 
 ![IBM.output-colorizer](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
