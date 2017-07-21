@@ -19,10 +19,10 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [CSS](#css)
  - [Go](#go)
  - [JavaScript](#javascript)
+ - [Typescript](#typescript)
  - [Markdown](#markdown)
  - [Python](#python)
  - [Rust](#rust)
- - [Typescript](#typescript)
 - [Themes](#themes)
  - [Material-theme](#material-theme)
  - [Base16 Ocean Kit](#base16-ocean-kit)
@@ -145,6 +145,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/esbenp/prettier-vscode).
 
+### TypeScript
+
+- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
+
 ### Markdown
 
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
@@ -160,10 +164,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### Rust
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
-
-### TypeScript
-
-- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
 
 ## Themes
 
