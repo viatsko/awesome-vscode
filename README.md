@@ -31,6 +31,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Seti](#seti)
  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
  - [An Old Hope Theme](#an-old-hope-theme)
+ - [Monokai Extended](#monokai-extended)
 - [Productivity](#productivity)
  - [Azure IoT Toolkit](#azure-iot-toolkit)
  - [Bookmarks](#bookmarks)
@@ -212,6 +213,10 @@ Features full workbench theming
 #### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
 ![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
+
+#### [Monokai Extended](https://marketplace.visualstudio.com/items?itemName=SuperPaintman.monokai-extended)
+
+![](https://raw.githubusercontent.com/SuperPaintman/vscode-monokai-extended/master/README/screenshot-typescript.png)
 
 ## Productivity
 
