@@ -87,6 +87,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Dash](#dash)
   - [Debugger for Chrome](#debugger-for-chrome)
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
   - [PlatformIO](#platformio)
@@ -530,6 +531,12 @@ Features full workbench theming
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
 ![](https://raw.githubusercontent.com/Microsoft/vscode-chrome-debug/master/images/screenshot.png)
+
+### [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
+
+> Levarage your favourite shell commands to edit text
+
+![Edit with Shell Command](https://raw.githubusercontent.com/ryu1kn/vscode-edit-with-shell/master/images/animations/public.gif)
 
 ### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
