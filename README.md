@@ -42,6 +42,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitLens](#gitlens)
   - [Icon Fonts](#icon-fonts)
   - [Multiple clipboards](#multiple-clipboards)
+  - [Partial Diff](#partial-diff)
   - [Path IntelliSense](#path-intellisense)
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
@@ -267,6 +268,12 @@ Features full workbench theming
 ### [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 
 > Override the regular Copy and Cut commands to keep selections in a clipboard ring
+
+### [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
+
+> Compare (diff) text selections within a file, across different files, or to the clipboard
+
+![Partial Diff](https://raw.githubusercontent.com/ryu1kn/vscode-partial-diff/master/images/public.gif)
 
 ### [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
