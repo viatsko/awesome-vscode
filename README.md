@@ -85,6 +85,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Slack](#slack)
   - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
+  - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [Vim Mode](#vim-mode)
 - [Themes](#themes)
   - [An Old Hope Theme](#an-old-hope-theme)
@@ -582,6 +583,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > View an SVG in the editor and export it as data URI scheme or PNG.
 
 ![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
+
+## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
+
+> Highlight all occurences of selected text. Whole word, case (in)sensitive and regex matching supported.
+
+![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
 ## [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
