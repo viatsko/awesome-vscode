@@ -25,6 +25,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Rust](#rust)
 - [Themes](#themes)
  - [An Old Hope Theme](#an-old-hope-theme)
+ - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
  - [Atom One Dark Theme](#atom-one-dark-theme)
  - [Atom One Light Theme](#atom-one-light-theme)
  - [Base16 Ocean Kit](#base16-ocean-kit)
@@ -186,6 +187,10 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 #### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
 ![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
+
+#### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
+
+![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
 
 #### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
