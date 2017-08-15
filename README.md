@@ -29,13 +29,15 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Python](#python)
   - [Rust](#rust)
 - [Themes](#themes)
-  - [Atom One Dark Theme](#atom-one-dark-theme)
-  - [Atom One Light Theme](#atom-one-light-theme)
-  - [Material-theme](#material-theme)
-  - [Base16 Ocean Kit](#base16-ocean-kit)
-  - [Seti](#seti)
-  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
-  - [An Old Hope Theme](#an-old-hope-theme)
+ - [An Old Hope Theme](#an-old-hope-theme)
+ - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
+ - [Atom One Dark Theme](#atom-one-dark-theme)
+ - [Atom One Light Theme](#atom-one-light-theme)
+ - [Base16 Ocean Kit](#base16-ocean-kit)
+ - [Dracula](#dracula)
+ - [Material-theme](#material-theme)
+ - [Nord](#nord)
+ - [Seti](#seti)
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
@@ -211,6 +213,14 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ### Syntax
 
+#### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+
+![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
+
+#### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
+
+![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
+
 #### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
 Features full workbench theming
@@ -223,25 +233,25 @@ Features full workbench theming
 
 ![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
 
-#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
-![](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
-
 #### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
 
+#### [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+
+![Dracula Theme for VS Code](https://camo.githubusercontent.com/d695efd1815607a9056ea5817501adc0a63632ca/68747470733a2f2f64726163756c617468656d652e636f6d2f6173736574732f696d672f73637265656e73686f74732f7673636f64652e706e67)
+
+#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+![](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
+
+#### [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+
+![Nord Theme for VS Code](https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/assets/scrot-preview.png)
+
 #### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
-
-#### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
-
-![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
-
-#### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
-
-![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
 
 ## Productivity
 
