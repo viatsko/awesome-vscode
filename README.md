@@ -14,63 +14,79 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 - [Official](#official)
 - [Syntax](#syntax)
+- [Editor Keymaps](#editor-keymaps)
+  - [Migrating from Atom](#migrating-from-atom)
+  - [Migrating from Sublime Text](#migrating-from-sublime-text)
+  - [Migrating from Visual Studio](#migrating-from-visual-studio)
+  - [Migrating from Vim](#migrating-from-vim)
 - [Lint and IntelliSense](#lint-and-intellisense)
- - [C++](#c)
- - [CSS](#css)
- - [Go](#go)
- - [JavaScript](#javascript)
- - [Markdown](#markdown)
- - [Python](#python)
- - [Rust](#rust)
+  - [C++](#c)
+  - [CSS](#css)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+  - [Typescript](#typescript)
+  - [Markdown](#markdown)
+  - [Python](#python)
+  - [Rust](#rust)
 - [Themes](#themes)
- - [Material-theme](#material-theme)
- - [Base16 Ocean Kit](#base16-ocean-kit)
- - [Seti](#seti)
- - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
  - [An Old Hope Theme](#an-old-hope-theme)
+ - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
+ - [Atom One Dark Theme](#atom-one-dark-theme)
+ - [Atom One Light Theme](#atom-one-light-theme)
+ - [Base16 Ocean Kit](#base16-ocean-kit)
+ - [Dracula](#dracula)
+ - [Material-theme](#material-theme)
+ - [Nord](#nord)
+ - [Seti](#seti)
 - [Productivity](#productivity)
- - [Azure IoT Toolkit](#azure-iot-toolkit)
- - [Bookmarks](#bookmarks)
- - [Copy Relative Path](#copy-relative-path)
- - [Deploy](#deploy)
- - [Gi](#gi)
- - [Git History](#git-history)
- - [Git Project Manager](#git-project-manager)
- - [GitLink](#gitlink)
- - [GitLens](#gitlens)
- - [Icon Fonts](#icon-fonts)
- - [Multiple clipboards](#multiple-clipboards)
- - [Path IntelliSense](#path-intellisense)
- - [Project Manager](#project-manager)
- - [REST Client](#rest-client)
- - [Settings Sync](#settings-sync)
- - [Yo](#yo)
-- [Formatting/Beautification](#formatting-beautification)
- - [Align](#align)
- - [Auto Close Tag](#auto-close-tag)
- - [Auto Rename Tag](#auto-rename-tag)
- - [beautify](#beautify)
- - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
- - [Paste and Indent](#paste-and-indent)
- - [Sort Lines](#sort-lines)
+  - [Azure IoT Toolkit](#azure-iot-toolkit)
+  - [Bookmarks](#bookmarks)
+  - [Copy Relative Path](#copy-relative-path)
+  - [Deploy](#deploy)
+  - [Gi](#gi)
+  - [Git History](#git-history)
+  - [Git Project Manager](#git-project-manager)
+  - [GitLink](#gitlink)
+  - [GitLens](#gitlens)
+  - [Icon Fonts](#icon-fonts)
+  - [Multiple clipboards](#multiple-clipboards)
+  - [npm Intellisense](#npm-intellisense)
+  - [Partial Diff](#partial-diff)
+  - [Path IntelliSense](#path-intellisense)
+  - [Project Manager](#project-manager)
+  - [REST Client](#rest-client)
+  - [Settings Sync](#settings-sync)
+  - [Yo](#yo)
+- [Formatting/Beautification](#formatting--beautification)
+  - [Align](#align)
+  - [Auto Close Tag](#auto-close-tag)
+  - [Auto Rename Tag](#auto-rename-tag)
+  - [beautify](#beautify)
+  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Paste and Indent](#paste-and-indent)
+  - [Sort Lines](#sort-lines)
+- [Explorer Icons](#explorer-icons)
+  - [VSCode Icons](#vscode-icons)
+  - [Seti-UI](#seti-icons)
 - [Uncategorized](#uncategorized)
- - [Code Runner](#code-runner)
- - [Color Highlight](#color-highlight)
- - [Dash](#dash)
- - [Debugger for Chrome](#debugger-for-chrome)
- - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
- - [Editor Config for VS Code](#editor-config-for-vs-code)
- - [ftp-sync](#ftp-sync)
- - [PlatformIO](#platformio)
- - [Quokka](#quokka)
- - [Runner](#runner)
- - [Slack](#slack)
- - [SVG Viewer](#svg-viewer)
- - [Vim Mode](#vim-mode)
+  - [Code Runner](#code-runner)
+  - [Color Highlight](#color-highlight)
+  - [Output Colorizer](#output-colorizer)
+  - [Dash](#dash)
+  - [Debugger for Chrome](#debugger-for-chrome)
+  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Editor Config for VS Code](#editor-config-for-vs-code)
+  - [ftp-sync](#ftp-sync)
+  - [PlatformIO](#platformio)
+  - [Quokka](#quokka)
+  - [Runner](#runner)
+  - [Slack](#slack)
+  - [SVG Viewer](#svg-viewer)
+  - [Vim Mode](#vim-mode)
 - [Resources for extension developers](#resources-for-extension-developers)
- - [Documentation](#documentation)
- - [Libraries](#libraries)
- - [Tools](#tools)
+  - [Documentation](#documentation)
+  - [Libraries](#libraries)
+  - [Tools](#tools)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -109,6 +125,22 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 
+## Editor Keymaps
+
+The VSCode team provides keymaps from popular editors, making the transition to VSCode almost seamless and easy.
+
+### [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
+
+> Popular Atom keybindings for Visual Studio Code
+
+### [Migrating from Sublime Text](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+
+> Popular Sublime Text keybindings for VS Code.
+
+### [Migrating from Visual Studio](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
+
+> Popular Visual Studio keybindings for VS Code.
+
 ## Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
@@ -130,6 +162,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
   Parse CSS,SCSS, LESS and add vendor prefixes automatically.
   ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
 
+- [Intellisense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace. Also supports React's className attribute.
+
+  ![Intellisense CSS class names](http://i.imgur.com/5crMfTj.gif)
+
 ### Go
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go) - Rich language support for the Go language.
@@ -143,7 +179,11 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/sindresorhus/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/esbenp/prettier-vscode).
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
+
+### TypeScript
+
+- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
 
 ### Markdown
 
@@ -161,7 +201,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
 
-
 ## Themes
 
 ### UI
@@ -175,25 +214,45 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ### Syntax
 
-#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+#### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
-![](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
-
-#### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
-
-![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
-
-#### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
-
-![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
+![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
 
 #### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 
 ![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
 
-#### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+#### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
-![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
+Features full workbench theming
+
+![](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
+
+#### [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+
+Features full workbench theming
+
+![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
+
+#### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
+
+![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
+
+#### [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+
+![Dracula Theme for VS Code](https://camo.githubusercontent.com/d695efd1815607a9056ea5817501adc0a63632ca/68747470733a2f2f64726163756c617468656d652e636f6d2f6173736574732f696d672f73637265656e73686f74732f7673636f64652e706e67)
+
+#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+![](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
+
+#### [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+
+![Nord Theme for VS Code](https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/assets/scrot-preview.png)
+
+#### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
+
+![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
 
 ## Productivity
 
@@ -255,6 +314,19 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 ### [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 
 > Override the regular Copy and Cut commands to keep selections in a clipboard ring
+
+### [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+> Visual Studio Code plugin that autocompletes npm modules in import statements.
+
+![npm-intellisense](https://raw.githubusercontent.com/ChristianKohler/NpmIntellisense/master/images/auto_complete.gif)
+
+
+### [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
+
+> Compare (diff) text selections within a file, across different files, or to the clipboard
+
+![Partial Diff](https://raw.githubusercontent.com/ryu1kn/vscode-partial-diff/master/images/public.gif)
 
 ### [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
@@ -328,6 +400,16 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ![](https://raw.githubusercontent.com/Tyriar/vscode-sort-lines/master/images/usage-animation.gif)
 
+## Explorer Icons
+
+- [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+
+![VSCode Icons](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
+
+- [Seti Icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
+
+![Seti Icons](https://raw.githubusercontent.com/hellopao/vscode-seti-icons/master/screenshot.png)
+
 ## Uncategorized
 
 ### [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
@@ -341,6 +423,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Highlight web colors in your editor
 
 ![](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
+
+
+### [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+> Syntax highlighting for the VS Code Output Panel and log files
+
+![IBM.output-colorizer](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
 
 ### [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash)
 
