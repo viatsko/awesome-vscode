@@ -42,6 +42,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
   - [Copy Relative Path](#copy-relative-path)
+  - [Deploy](#deploy)
   - [Gi](#gi)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
@@ -272,6 +273,12 @@ Features full workbench theming
 ### [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 
 > Copy Relative Path from a File
+
+### [Deploy](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy)
+
+> Commands for upload or copy files of a workspace to a destination.
+
+![](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
 
 #### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
