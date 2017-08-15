@@ -14,6 +14,11 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 - [Official](#official)
 - [Syntax](#syntax)
+- [Editor Keymaps](#editor-keymaps)
+  - [Migrating from Atom](#migrating-from-atom)
+  - [Migrating from Sublime Text](#migrating-from-sublime-text)
+  - [Migrating from Visual Studio](#migrating-from-visual-studio)
+  - [Migrating from Vim](#migrating-from-vim)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [C++](#c)
   - [CSS](#css)
@@ -42,6 +47,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitLens](#gitlens)
   - [Icon Fonts](#icon-fonts)
   - [Multiple clipboards](#multiple-clipboards)
+  - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
   - [Path IntelliSense](#path-intellisense)
   - [Project Manager](#project-manager)
@@ -56,6 +62,9 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
   - [Paste and Indent](#paste-and-indent)
   - [Sort Lines](#sort-lines)
+- [Explorer Icons](#explorer-icons)
+  - [VSCode Icons](#vscode-icons)
+  - [Seti-UI](#seti-icons)
 - [Uncategorized](#uncategorized)
   - [Code Runner](#code-runner)
   - [Color Highlight](#color-highlight)
@@ -113,6 +122,22 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 
+## Editor Keymaps
+
+The VSCode team provides keymaps from popular editors, making the transition to VSCode almost seamless and easy.
+
+### [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
+
+> Popular Atom keybindings for Visual Studio Code
+
+### [Migrating from Sublime Text](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+
+> Popular Sublime Text keybindings for VS Code.
+
+### [Migrating from Visual Studio](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
+
+> Popular Visual Studio keybindings for VS Code.
+
 ## Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
@@ -133,6 +158,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   Parse CSS,SCSS, LESS and add vendor prefixes automatically.
   ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
+
+- [Intellisense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace. Also supports React's className attribute.
+
+  ![Intellisense CSS class names](http://i.imgur.com/5crMfTj.gif)
 
 ### Go
 
@@ -269,6 +298,13 @@ Features full workbench theming
 
 > Override the regular Copy and Cut commands to keep selections in a clipboard ring
 
+### [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+> Visual Studio Code plugin that autocompletes npm modules in import statements.
+
+![npm-intellisense](https://raw.githubusercontent.com/ChristianKohler/NpmIntellisense/master/images/auto_complete.gif)
+
+
 ### [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 
 > Compare (diff) text selections within a file, across different files, or to the clipboard
@@ -346,6 +382,16 @@ Features full workbench theming
 > Sorts lines of text in specific order
 
 ![](https://raw.githubusercontent.com/Tyriar/vscode-sort-lines/master/images/usage-animation.gif)
+
+## Explorer Icons
+
+- [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+
+![VSCode Icons](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
+
+- [Seti Icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
+
+![Seti Icons](https://raw.githubusercontent.com/hellopao/vscode-seti-icons/master/screenshot.png)
 
 ## Uncategorized
 
