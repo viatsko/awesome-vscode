@@ -260,7 +260,7 @@ Features full workbench theming
 
 > Everything you need for the Azure IoT development: Interact with Azure IoT Hub, manage devices connected to Azure IoT Hub, and develop with code snippets for Azure IoT Hub
 
-![](https://github.com/formulahendry/vscode-azure-iot-toolkit/raw/master/images/device-explorer.png)
+![](https://raw.githubusercontent.com/formulahendry/vscode-azure-iot-toolkit/master/images/device-explorer.png)
 
 ### [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
