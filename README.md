@@ -37,6 +37,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Dracula](#dracula)
  - [Material-theme](#material-theme)
  - [Nord](#nord)
+ - [Plastic](#plastic)
  - [Seti](#seti)
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
@@ -249,6 +250,12 @@ Features full workbench theming
 #### [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 
 ![Nord Theme for VS Code](https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/assets/scrot-preview.png)
+
+#### [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic)
+
+Features full workbench theming
+
+![](http://wstone.io/images/plastic/screenshot.png)
 
 #### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
 
