@@ -33,6 +33,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
   - [Atom One Dark Theme](#atom-one-dark-theme)
   - [Atom One Light Theme](#atom-one-light-theme)
+  - [Ayu](#ayu)
   - [Base16 Ocean Kit](#base16-ocean-kit)
   - [Dracula](#dracula)
   - [Material-theme](#material-theme)
@@ -234,6 +235,12 @@ Features full workbench theming
 Features full workbench theming
 
 ![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
+
+#### [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+
+![dark theme](https://user-images.githubusercontent.com/353888/28989654-114a64b6-7977-11e7-9e4e-9190bc2fae5b.png)
+
+![mirage theme](https://user-images.githubusercontent.com/353888/28989655-114d577a-7977-11e7-8646-757b1e8541a2.png)
 
 #### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
 
