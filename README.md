@@ -35,6 +35,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Atom One Light Theme](#atom-one-light-theme)
   - [Ayu](#ayu)
   - [Base16 Ocean Kit](#base16-ocean-kit)
+  - [Cobalt2 by Wes Bos](#cobalt2-theme-official-by-wes-bos)
   - [Dracula](#dracula)
   - [Material-theme](#material-theme)
   - [Nord](#nord)
@@ -250,6 +251,12 @@ Features full workbench theming
 #### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
+
+#### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+
+Includes some great tips on CSS modifications for an "extra sweet editor."
+
+![Cobalt 2](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
 
 #### [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
