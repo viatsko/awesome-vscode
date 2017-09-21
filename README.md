@@ -143,6 +143,10 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 > Popular Visual Studio keybindings for VS Code.
 
+### [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
+
+> Popular Intellij IDEA keybindings for VS Code.
+
 ## Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
