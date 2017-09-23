@@ -250,8 +250,6 @@ Features full workbench theming
 
 #### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
-Includes some great tips on CSS modifications for an "extra sweet editor."
-
 ![Cobalt 2](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
 
 #### [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
