@@ -51,6 +51,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
+  - [GitHub](#github)
   - [Icon Fonts](#icon-fonts)
   - [Multiple clipboards](#multiple-clipboards)
   - [npm Intellisense](#npm-intellisense)
@@ -334,6 +335,8 @@ Features full workbench theming
 ### [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
 > Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
+
+> Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
 
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
