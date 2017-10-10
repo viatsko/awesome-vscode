@@ -52,6 +52,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
+  - [Git Indicators](#gitindicators)
   - [GitHub](#github)
   - [Icon Fonts](#icon-fonts)
   - [Multiple clipboards](#multiple-clipboards)
@@ -338,6 +339,15 @@ Features full workbench theming
 > Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
 
 ![](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/gitlens-preview1.gif)
+
+### [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
+
+> Atom like git indicators on active panel
+
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
+
 
 ### [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
