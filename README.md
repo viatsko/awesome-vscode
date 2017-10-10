@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/logo.ico">
+  <img width="380px" src="./awesome-vscode-logo.png">
 </p>
 <br/>
 
