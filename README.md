@@ -245,6 +245,10 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > Atom like git indicators on active panel
 
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
+
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
