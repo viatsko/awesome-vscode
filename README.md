@@ -245,6 +245,10 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/0d6b1508a2fbf27c86d92da0040a2549b6150552/dark.png)
 
+#### [Ariake Dark Color Theme](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
+
+![](https://raw.githubusercontent.com/a-wart/ariake-dark/master/misc/ariake_dark_github.png)
+
 #### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 
 ![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
