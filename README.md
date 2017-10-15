@@ -221,6 +221,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Themes
 
+Create your own theme for VS Code (and your other tools) using [themer](https://themer.mjswensen.com).
+
 ### UI
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
