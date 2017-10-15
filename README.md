@@ -223,8 +223,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### UI
 
-Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/Microsoft/vscode/issues/1833
-
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
 - [Essence](https://github.com/flagello/Essence)
