@@ -221,8 +221,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Themes
 
-Create your own theme for VS Code (and your other tools) using [themer](https://themer.mjswensen.com).
-
 ### UI
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
@@ -558,6 +556,7 @@ Features full workbench theming
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
+- [Themer](https://themer.mjswensen.com) - Easily create your own theme for VS Code (and matching ones for your other tools).
 
 ## Contribute
 
