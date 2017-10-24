@@ -55,6 +55,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Indicators](#gitindicators)
   - [GitHub](#github)
   - [Icon Fonts](#icon-fonts)
+  - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
@@ -192,7 +193,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### JavaScript
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`). 
+- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/sindresorhus/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
@@ -356,6 +357,12 @@ Features full workbench theming
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+
+### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+> Launch a development local Server with live reload feature for static & dynamic pages.
+
+![live-server](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 
 ### [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 
