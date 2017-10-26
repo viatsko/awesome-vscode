@@ -232,7 +232,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 #### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
-![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
+![](https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/palette.jpg)
 
 #### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 
