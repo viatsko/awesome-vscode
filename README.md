@@ -11,7 +11,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 </div>
 <br/>
 
-# Table of Content
+# Table of Contents
 
 - [Official](#official)
 - [Syntax](#syntax)
@@ -121,6 +121,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
