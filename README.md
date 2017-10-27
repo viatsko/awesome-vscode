@@ -38,8 +38,9 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Base16 Ocean Kit](#base16-ocean-kit)
   - [Cobalt2 by Wes Bos](#cobalt2-theme-official-by-wes-bos)
   - [Dracula](#dracula)
-  - [Material-theme](#material-theme)
+  - [Material Theme](#material-theme)
   - [Nord](#nord)
+  - [One Dark Pro](#one-dark-pro)
   - [Plastic](#plastic)
   - [Seti](#seti)
 - [Productivity](#productivity)
@@ -233,7 +234,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 #### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
-![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
+![](https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/palette.jpg)
 
 #### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 
@@ -269,13 +270,17 @@ Features full workbench theming
 
 ![Dracula Theme for VS Code](https://camo.githubusercontent.com/d695efd1815607a9056ea5817501adc0a63632ca/68747470733a2f2f64726163756c617468656d652e636f6d2f6173736574732f696d672f73637265656e73686f74732f7673636f64652e706e67)
 
-#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+#### [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 
-![](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
+![Material Theme For VS Code](https://raw.githubusercontent.com/athahersirnaik/vsc-material-theme/master/assets/default%20theme.png)
 
 #### [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 
 ![Nord Theme for VS Code](https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/assets/scrot-preview.png)
+
+#### [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+![One Dark Pro For VS Code](https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/screenshot1.png)
 
 #### [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic)
 
