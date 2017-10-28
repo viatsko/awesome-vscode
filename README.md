@@ -65,7 +65,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Settings Sync](#settings-sync)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
-  - [Align](#align)
+  - [Better Align](#better-align)
   - [Auto Close Tag](#auto-close-tag)
   - [Auto Rename Tag](#auto-rename-tag)
   - [beautify](#beautify)
@@ -417,11 +417,13 @@ Features full workbench theming
 
 ## Formatting & Beautification
 
-### [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align)
+### [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
-> Align text in vscode like the atom-alignment package
+> Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
+>
+> And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
 
-![](https://cdn-images-1.medium.com/max/1600/1*U0MbxS9dVaRRJibCoyVS9g.png)
+![Better Align](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)
 
 ### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
