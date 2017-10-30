@@ -208,6 +208,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### PHP
 
+- [php-intellisense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - PHP IntelliSense
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
 
 ### Python
