@@ -551,7 +551,7 @@ Features full workbench theming
 
 > A Visual Studio Code extension that creates sweet melodies based on what you type.
 
-![Aural Coding](https://github.com/jengjeng/aural-coding-vscode/blob/master/images/icon.jpg?raw=true)
+![Aural Coding](https://github.com/jengjeng/aural-coding-vscode/raw/master/images/icon.jpg)
 
 ## Resources for extension developers
 
