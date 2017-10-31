@@ -91,6 +91,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
   - [Vim Mode](#vim-mode)
+  - [Aural Coding (Keyboard sounds)](#aural-coding-keyboard-sounds)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
