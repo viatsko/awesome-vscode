@@ -546,6 +546,12 @@ Features full workbench theming
 
 > Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
 
+### [Aural Coding (Keyboard sounds)](https://marketplace.visualstudio.com/items?itemName=jeng.aural-coding-vscode)
+
+> A Visual Studio Code extension that creates sweet melodies based on what you type.
+
+![Aural Coding](https://github.com/jengjeng/aural-coding-vscode/blob/master/images/icon.jpg?raw=true)
+
 ## Resources for extension developers
 
 ### Documentation
