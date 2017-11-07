@@ -122,6 +122,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
@@ -133,6 +134,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
+- [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
 
 ## Editor Keymaps
 
