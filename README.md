@@ -63,6 +63,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
   - [Settings Sync](#settings-sync)
+  - [VS Notes](#vs-notes)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
   - [Better Align](#better-align)
@@ -408,6 +409,11 @@ Features full workbench theming
 > Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using Github Gist
 
 ![Settings Sync](http://i.imgur.com/QZtaBca.gif)
+
+### [VS Notes](https://marketplace.visualstudio.com/items?itemName=patricklee.vsnotes)
+> Simple VS Code extension for plain text note taking.
+
+![VS Notes](https://github.com/patleeman/VSNotes/raw/master/img/vsnotes_commands.png)
 
 ### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
