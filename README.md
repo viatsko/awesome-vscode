@@ -223,6 +223,9 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
 
+### Ruby
+- [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - Wisely add "end" in Ruby
+
 ## Themes
 
 ### UI
