@@ -116,6 +116,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+- [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
