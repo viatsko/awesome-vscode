@@ -74,6 +74,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
   - [Paste and Indent](#paste-and-indent)
   - [Sort Lines](#sort-lines)
+  - [Wrap Selection](#wrap-selection)
 - [Explorer Icons](#explorer-icons)
   - [VSCode Icons](#vscode-icons)
   - [Seti-UI](#seti-icons)
@@ -460,6 +461,12 @@ Features full workbench theming
 > Sorts lines of text in specific order
 
 ![](https://raw.githubusercontent.com/Tyriar/vscode-sort-lines/master/images/usage-animation.gif)
+
+### [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection)
+
+> Wraps selection or multiple selections with symbol or multiple symbols
+
+![](https://github.com/gko/wrap/blob/master/features.gif)
 
 ## Explorer Icons
 
