@@ -31,6 +31,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [PHP](#php)
   - [Python](#python)
   - [Rust](#rust)
+  - [Twig](#twig)
 - [Themes](#themes)
   - [An Old Hope Theme](#an-old-hope-theme)
   - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
@@ -224,6 +225,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### Rust
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
+
+### Twig
+
+- [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language) - Snippets, Syntax Highlighting, Hover, and Formatting for Twig.
 
 ## Themes
 
