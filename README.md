@@ -143,6 +143,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
+- [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 ## Editor Keymaps
 
