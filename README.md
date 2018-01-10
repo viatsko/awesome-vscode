@@ -62,6 +62,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Multiple clipboards](#multiple-clipboards)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
+  - [Paste JSON as Code](#paste-json-as-code)
   - [Path IntelliSense](#path-intellisense)
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
@@ -391,6 +392,12 @@ Features full workbench theming
 > Compare (diff) text selections within a file, across different files, or to the clipboard
 
 ![Partial Diff](https://raw.githubusercontent.com/ryu1kn/vscode-partial-diff/master/images/public.gif)
+
+#### [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+
+> Infer the structure of JSON and paste is as types in many programming languages
+
+![Paste JSON as Code](https://raw.githubusercontent.com/quicktype/quicktype-vscode/master/media/demo.gif)
 
 ### [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
