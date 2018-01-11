@@ -129,6 +129,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
+- [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
