@@ -22,6 +22,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
   - [C++](#c)
+  - [C#](#c)
   - [CSS](#css)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -184,6 +185,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+
+### C#
+
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - Preview C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 
 ### CSS
 
