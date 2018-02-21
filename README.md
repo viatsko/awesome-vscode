@@ -58,6 +58,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitLens](#gitlens)
   - [Git Indicators](#gitindicators)
   - [GitHub](#github)
+  - [Glyphs and Ligatures](#glyphs-and-ligatures)
   - [Icon Fonts](#icon-fonts)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
@@ -381,6 +382,12 @@ Features full workbench theming
 > Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
 
 > Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
+
+### Glyphs and Ligatures
+
+> Enable ligatures for more expressive and compact coding.
+
+> [Install instructions for Fira Code font](https://github.com/tonsky/FiraCode/wiki)
 
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
