@@ -308,7 +308,7 @@ Features full workbench theming
 
 Features full workbench theming
 
-![](https://wstone.io/images/plastic/screenshot.png)
+![](https://will-stone.github.io/plastic/screenshot-min.png)
 
 #### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
 
