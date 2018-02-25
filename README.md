@@ -316,6 +316,12 @@ Features full workbench theming
 
 ## Productivity
 
+### [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
+
+> Browse your Mongo DB collections and documents inside the vs code editor
+
+![](https://media.giphy.com/media/fnK9fzP80e7YfO7JAq/giphy.gif)
+
 ### [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
 
 > Everything you need for the Azure IoT development: Interact with Azure IoT Hub, manage devices connected to Azure IoT Hub, and develop with code snippets for Azure IoT Hub
