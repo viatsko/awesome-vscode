@@ -318,7 +318,7 @@ Features full workbench theming
 
 ### [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 
-> Browse your Mongo DB collections and documents inside the vs code editor
+> Browse your database inside the vs code editor
 
 ![](https://media.giphy.com/media/fnK9fzP80e7YfO7JAq/giphy.gif)
 
