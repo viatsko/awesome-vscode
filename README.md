@@ -288,6 +288,10 @@ Features full workbench theming
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
 
+#### [Captain Sweetheart](https://marketplace.visualstudio.com/items?itemName=ultradracula.captain-sweetheart)
+
+![](https://raw.githubusercontent.com/mashaal/code-captain-sweetheart/master/preview.png)
+
 #### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
 ![Cobalt 2](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
