@@ -46,6 +46,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Nord](#nord)
   - [Plastic](#plastic)
   - [Seti](#seti)
+  - [Monokai Pro](#monokai-pro)
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
@@ -313,6 +314,10 @@ Features full workbench theming
 #### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
+
+#### [Monokai Pro](https://www.monokai.pro/vscode)
+
+![](https://www.monokai.pro/assets/img/vscode/1079cc76.png)
 
 ## Productivity
 
