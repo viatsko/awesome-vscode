@@ -98,6 +98,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
   - [Vim Mode](#vim-mode)
+  - [Aural Coding (Keyboard sounds)](#aural-coding-keyboard-sounds)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
@@ -598,6 +599,12 @@ Features full workbench theming
 ### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
 > Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+
+### [Aural Coding (Keyboard sounds)](https://marketplace.visualstudio.com/items?itemName=jeng.aural-coding-vscode)
+
+> A Visual Studio Code extension that creates sweet melodies based on what you type.
+
+![Aural Coding](https://raw.githubusercontent.com/jengjeng/aural-coding-vscode/master/images/icon.jpg)
 
 ## Resources for extension developers
 
