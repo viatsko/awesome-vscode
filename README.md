@@ -198,6 +198,11 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## CSS
 
+#### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+> Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
+
+![CSS Peek](https://github.com/pranaygp/vscode-css-peek/blob/master/working.gif)
+
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   Parse CSS,SCSS, LESS and add vendor prefixes automatically.
