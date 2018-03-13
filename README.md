@@ -19,6 +19,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Atom](#migrating-from-atom)
   - [Migrating from Sublime Text](#migrating-from-sublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
+  - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
   - [C++](#c)
