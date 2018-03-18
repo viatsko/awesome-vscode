@@ -143,7 +143,6 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Scala](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
-- [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
 - [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
