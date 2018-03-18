@@ -216,7 +216,11 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### JavaScript
 
-- [Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode#overview) - Babel extension ported from Sublime Text
+- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
+- [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode#overview) - Babel extension ported from Sublime Text
+
+See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
+
 - [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
