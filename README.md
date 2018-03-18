@@ -129,6 +129,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
 - [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
+- [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
