@@ -33,7 +33,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [PHP](#php)
   - [Python](#python)
   - [Rust](#rust)
-  - [Twig](#twig)
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
@@ -230,6 +229,12 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
 
+#### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+> A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
+
+![](https://raw.githubusercontent.com/Microsoft/vscode-chrome-debug/master/images/screenshot.png)
+
 ### TypeScript
 
 - [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
@@ -249,9 +254,12 @@ These extensions provide slightly different sets of features. While the first on
 
 #### Other extensions
 
+- [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
+- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - XDebug extension for Visual Studio Code
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
 - [phpfmt](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) - phpfmt for Visual Studio Code
+- [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 
 ### Python
 
@@ -260,10 +268,6 @@ These extensions provide slightly different sets of features. While the first on
 ### Rust
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
-
-### Twig
-
-- [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language) - Snippets, Syntax Highlighting, Hover, and Formatting for Twig.
 
 ## Productivity
 
@@ -487,12 +491,6 @@ These extensions provide slightly different sets of features. While the first on
 > Dash integration in Visual Studio Code
 
 ![](https://cdn-images-1.medium.com/max/2000/1*sqGllC-pgXNaEBfB-cxG9Q.png)
-
-### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-
-> A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
-
-![](https://raw.githubusercontent.com/Microsoft/vscode-chrome-debug/master/images/screenshot.png)
 
 ### [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
 
