@@ -33,19 +33,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Python](#python)
   - [Rust](#rust)
   - [Twig](#twig)
-- [Themes](#themes)
-  - [An Old Hope Theme](#an-old-hope-theme)
-  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
-  - [Atom One Dark Theme](#atom-one-dark-theme)
-  - [Atom One Light Theme](#atom-one-light-theme)
-  - [Ayu](#ayu)
-  - [Base16 Ocean Kit](#base16-ocean-kit)
-  - [Cobalt2 by Wes Bos](#cobalt2-theme-official-by-wes-bos)
-  - [Dracula](#dracula)
-  - [Material-theme](#material-theme)
-  - [Nord](#nord)
-  - [Plastic](#plastic)
-  - [Seti](#seti)
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
@@ -98,6 +85,19 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
   - [Vim Mode](#vim-mode)
+- [Themes](#themes)
+  - [An Old Hope Theme](#an-old-hope-theme)
+  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
+  - [Atom One Dark Theme](#atom-one-dark-theme)
+  - [Atom One Light Theme](#atom-one-light-theme)
+  - [Ayu](#ayu)
+  - [Base16 Ocean Kit](#base16-ocean-kit)
+  - [Cobalt2 by Wes Bos](#cobalt2-theme-official-by-wes-bos)
+  - [Dracula](#dracula)
+  - [Material-theme](#material-theme)
+  - [Nord](#nord)
+  - [Plastic](#plastic)
+  - [Seti](#seti)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
@@ -250,77 +250,6 @@ These extensions provide slightly different sets of features. While the first on
 ### Twig
 
 - [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language) - Snippets, Syntax Highlighting, Hover, and Formatting for Twig.
-
-## Themes
-
-### UI
-
-If you're feeling brave, there are at least two custom UIs for VS Code:
-
-- [Essence](https://github.com/flagello/Essence)
-- [Pragmatic Essence](https://github.com/orta/Essence)
-
-### Syntax
-
-#### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
-
-![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/0d6b1508a2fbf27c86d92da0040a2549b6150552/dark.png)
-
-#### [Ariake Dark Color Theme](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
-
-![](https://raw.githubusercontent.com/a-wart/ariake-dark/master/misc/ariake_dark_github.png)
-
-#### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
-
-![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
-
-#### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
-
-Features full workbench theming
-
-![](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
-
-#### [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
-
-Features full workbench theming
-
-![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
-
-#### [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
-
-![dark theme](https://user-images.githubusercontent.com/353888/28989654-114a64b6-7977-11e7-9e4e-9190bc2fae5b.png)
-
-![mirage theme](https://user-images.githubusercontent.com/353888/28989655-114d577a-7977-11e7-8646-757b1e8541a2.png)
-
-#### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
-
-![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
-
-#### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
-
-![Cobalt 2](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
-
-#### [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-
-![Dracula Theme for VS Code](https://camo.githubusercontent.com/d695efd1815607a9056ea5817501adc0a63632ca/68747470733a2f2f64726163756c617468656d652e636f6d2f6173736574732f696d672f73637265656e73686f74732f7673636f64652e706e67)
-
-#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-
-![](https://image.ibb.co/mGCtnn/Material_Theme.gif)
-
-#### [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
-
-![Nord Theme for VS Code](https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/assets/scrot-preview.png)
-
-#### [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic)
-
-Features full workbench theming
-
-![](https://will-stone.github.io/plastic/screenshot-min.png)
-
-#### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
-
-![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
 
 ## Productivity
 
@@ -606,6 +535,77 @@ Features full workbench theming
 ### [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
 > Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+
+## Themes
+
+### UI
+
+If you're feeling brave, there are at least two custom UIs for VS Code:
+
+- [Essence](https://github.com/flagello/Essence)
+- [Pragmatic Essence](https://github.com/orta/Essence)
+
+### Syntax
+
+#### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+
+![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/0d6b1508a2fbf27c86d92da0040a2549b6150552/dark.png)
+
+#### [Ariake Dark Color Theme](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
+
+![](https://raw.githubusercontent.com/a-wart/ariake-dark/master/misc/ariake_dark_github.png)
+
+#### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
+
+![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
+
+#### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+
+Features full workbench theming
+
+![](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
+
+#### [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+
+Features full workbench theming
+
+![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
+
+#### [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+
+![dark theme](https://user-images.githubusercontent.com/353888/28989654-114a64b6-7977-11e7-9e4e-9190bc2fae5b.png)
+
+![mirage theme](https://user-images.githubusercontent.com/353888/28989655-114d577a-7977-11e7-8646-757b1e8541a2.png)
+
+#### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
+
+![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
+
+#### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+
+![Cobalt 2](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
+
+#### [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+
+![Dracula Theme for VS Code](https://camo.githubusercontent.com/d695efd1815607a9056ea5817501adc0a63632ca/68747470733a2f2f64726163756c617468656d652e636f6d2f6173736574732f696d672f73637265656e73686f74732f7673636f64652e706e67)
+
+#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+
+![](https://image.ibb.co/mGCtnn/Material_Theme.gif)
+
+#### [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+
+![Nord Theme for VS Code](https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/assets/scrot-preview.png)
+
+#### [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic)
+
+Features full workbench theming
+
+![](https://will-stone.github.io/plastic/screenshot-min.png)
+
+#### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
+
+![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
 
 ## Resources for extension developers
 
