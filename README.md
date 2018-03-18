@@ -215,6 +215,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
+- [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
+
 ### JavaScript
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
