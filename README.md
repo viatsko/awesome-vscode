@@ -516,6 +516,13 @@ These extensions provide slightly different sets of features. While the first on
 
 ![](https://raw.githubusercontent.com/formulahendry/vscode-platformio/master/images/build.gif)
 
+
+### [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+
+> Polaroid for your code 📸.
+
+![](https://github.com/octref/polacode/raw/master/demo/usage.gif)
+
 ### [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
 > Rapid prototyping playground for JavaScript and TypeScript in VS Code, with access to your project's files, inline reporting, code coverage and rich output formatting.
