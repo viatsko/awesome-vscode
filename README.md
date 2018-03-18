@@ -281,7 +281,10 @@ These extensions provide slightly different sets of features. While the first on
 
 > Commands for upload or copy files of a workspace to a destination.
 
-![](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
+<details>
+  <summary>Demo</summary>
+  ![](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
+</details>
 
 #### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
