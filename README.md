@@ -304,9 +304,9 @@ Features full workbench theming
 
 ![Dracula Theme for VS Code](https://camo.githubusercontent.com/d695efd1815607a9056ea5817501adc0a63632ca/68747470733a2f2f64726163756c617468656d652e636f6d2f6173736574732f696d672f73637265656e73686f74732f7673636f64652e706e67)
 
-#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+#### [Material-theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 
-![](https://raw.githubusercontent.com/Binaryify/Material-Theme-vscode/master/static/screenshot1.png)
+![](https://image.ibb.co/mGCtnn/Material_Theme.gif)
 
 #### [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 
