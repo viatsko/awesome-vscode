@@ -252,6 +252,21 @@ These extensions provide slightly different sets of features. While the first on
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 - [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
 
+
+#### Twig
+
+- [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
+
+To enable Emmet support in .twig files, you'll need to have the following in your settings:
+
+```json
+{
+  "emmet.includeLanguages": {
+    "twig": "html"
+  }
+}
+```
+
 #### Other extensions
 
 - [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
@@ -259,7 +274,6 @@ These extensions provide slightly different sets of features. While the first on
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
 - [phpfmt](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) - phpfmt for Visual Studio Code
-- [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 
 ### Python
 
