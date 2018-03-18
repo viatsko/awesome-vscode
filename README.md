@@ -521,7 +521,7 @@ These extensions provide slightly different sets of features. While the first on
 
 > Polaroid for your code 📸.
 
-![](https://github.com/octref/polacode/raw/master/demo/usage.gif)
+![](https://raw.githubusercontent.com/octref/polacode/master/demo/usage.gif )
 
 ### [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
