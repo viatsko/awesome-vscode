@@ -192,7 +192,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
-![C# Extensions](https://github.com/jchannon/csharpextensions/raw/master/featureimages/fullpropfromctor.gif)
+![C# Extensions](https://raw.githubusercontent.com/jchannon/csharpextensions/master/featureimages/fullpropfromctor.gif)
 
 ## CSS
 
