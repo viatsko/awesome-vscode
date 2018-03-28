@@ -97,6 +97,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Material-theme](#material-theme)
   - [Nord](#nord)
   - [Plastic](#plastic)
+  - [Shades of Purple](#shades-of-purple)
   - [Seti](#seti)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
@@ -643,6 +644,12 @@ Features full workbench theming
 Features full workbench theming
 
 ![](https://will-stone.github.io/plastic/screenshot-min.png)
+
+### [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+
+A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.
+
+![](https://dha4w82d62smt.cloudfront.net/items/032R3i0B353Q3a3u2B3F/Screen%20Recording%202018-03-29%20at%2002.07%20AM.gif)
 
 ### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
 
