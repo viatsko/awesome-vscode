@@ -485,7 +485,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![](https://github.com/gko/wrap/blob/master/features.gif)
 
-# Explorer Icons
+## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
+
+> Allows you to toggle your formatter on and off with a simple click
+
+## Explorer Icons
 
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
