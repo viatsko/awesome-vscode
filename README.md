@@ -263,7 +263,6 @@ These extensions provide slightly different sets of features. While the first on
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 - [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
 
-
 ### Twig
 
 - [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
@@ -632,6 +631,10 @@ Features full workbench theming
 ### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
+
+### [Captain Sweetheart](https://marketplace.visualstudio.com/items?itemName=ultradracula.captain-sweetheart)
+
+![](https://raw.githubusercontent.com/mashaal/code-captain-sweetheart/master/preview.png)
 
 ### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
