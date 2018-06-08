@@ -215,7 +215,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Go
 
-- [Go](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go) - Rich language support for the Go language.
+- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
 
 ## Haskell
 
