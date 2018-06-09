@@ -47,6 +47,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Indicators](#gitindicators)
   - [GitHub](#github)
   - [Icon Fonts](#icon-fonts)
+  - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [npm Intellisense](#npm-intellisense)
@@ -377,6 +378,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+
+## [Kanban](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
+
+![kanban](https://raw.githubusercontent.com/mkloubert/vscode-kanban/master/img/demo1.gif)
+
+> Simple Kanban board for use in Visual Studio Code, with time tracking and Markdown support.
 
 ## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
