@@ -44,7 +44,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
-  - [Git Indicators](#gitindicators)
+  - [Git Indicators](#git-indicators)
   - [GitHub](#github)
   - [Icon Fonts](#icon-fonts)
   - [Live Server](#live-server)
