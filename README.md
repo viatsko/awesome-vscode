@@ -70,6 +70,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
   - [Paste and Indent](#paste-and-indent)
   - [Sort Lines](#sort-lines)
+  - [Surround](#surround)
   - [Wrap Selection](#wrap-selection)
   - [html2pug](#html2pug)
 - [Explorer Icons](#explorer-icons)
@@ -496,6 +497,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Sorts lines of text in specific order
 
 ![](https://raw.githubusercontent.com/Tyriar/vscode-sort-lines/master/images/usage-animation.gif)
+
+## [Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround)
+
+> A simple yet powerful extension to add wrapper templates around your code blocks.
+
+![](https://raw.githubusercontent.com/yatki/vscode-surround/master/images/demo.gif)
 
 ## [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection)
 
