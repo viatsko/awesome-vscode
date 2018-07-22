@@ -66,6 +66,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Paste and Indent](#paste-and-indent)
   - [Sort Lines](#sort-lines)
   - [Wrap Selection](#wrap-selection)
+  - [html2pug](#html2pug)
 - [Explorer Icons](#explorer-icons)
   - [VSCode Icons](#vscode-icons)
   - [Seti-UI](#seti-icons)
@@ -500,6 +501,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 - [Seti Icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
 
 ![Seti Icons](https://raw.githubusercontent.com/hellopao/vscode-seti-icons/master/screenshot.png)
+
+## [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
+
+> Transform html to pug inside your Visual Studio Code, forget about using an external page anymore.
 
 # Uncategorized
 
