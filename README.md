@@ -274,11 +274,11 @@ These extensions provide slightly different sets of features. While the first on
 ### Laravel
 - [Laravel 5 Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - Laravel 5 snippets for Visual Studio Code
 - [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) - Laravel blade snippets and syntax highlight support
-![](https://github.com/onecentlin/laravel-blade-snippets-vscode/raw/master/images/screenshot.gif)
+![](https://raw.githubusercontent.com/onecentlin/laravel-blade-snippets-vscode/master/images/screenshot.gif)
 - [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) - Laravel Artisan commands within Visual Studio Code
-![](https://github.com/TheColorRed/vscode-laravel-artisan/raw/master/images/screens/make-controller.gif)
+![](https://raw.githubusercontent.com/TheColorRed/vscode-laravel-artisan/master/images/screens/make-controller.gif)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax
-![](https://github.com/mikestead/vscode-dotenv/raw/master/images/screenshot.png)
+![](https://raw.githubusercontent.com/mikestead/vscode-dotenv/master/images/screenshot.png)
 
 ### Twig
 
