@@ -96,19 +96,20 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [Vim Mode](#vim-mode)
 - [Themes](#themes)
-  - [An Old Hope Theme](#an-old-hope-theme)
-  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
-  - [Atom One Dark Theme](#atom-one-dark-theme)
-  - [Atom One Light Theme](#atom-one-light-theme)
-  - [Ayu](#ayu)
-  - [Base16 Ocean Kit](#base16-ocean-kit)
-  - [Cobalt2 by Wes Bos](#cobalt2-theme-official-by-wes-bos)
-  - [Dracula](#dracula)
-  - [Material-theme](#material-theme)
-  - [Nord](#nord)
-  - [Plastic](#plastic)
-  - [Shades of Purple](#shades-of-purple)
-  - [Seti](#seti)
+  - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
+  - [Ariake Dark by wart](#ariake-dark-by-wart)
+  - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
+  - [Ayu by teabyii](#ayu-by-teabyii)
+  - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
+  - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
+  - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
+  - [Eva Theme by fisheva](#eva-theme-by-fisheva)
+  - [Github Theme by Thomas Pink](#github-theme-by-thomas-pink)
+  - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
+  - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
+  - [Plastic by Will Stone](#plastic-by-will-stone)
+  - [Nord by arcticicestudio](#nord-by-arcticicestudio)
+  - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
@@ -233,7 +234,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-  ![Debugger for Java](https://raw.githubusercontent.com/Microsoft/vscode-java-pack/master/vscode-java-debug.gif)
+  ![Debugger for Java](https://raw.githubusercontent.com/Microsoft/vscode-java-pack/master/vscode-java-debug.gif)
 - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
 - [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
@@ -640,75 +641,89 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ## Syntax
 
-### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+### [An Old Hope Theme by Dustin Sanders](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
-![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/0d6b1508a2fbf27c86d92da0040a2549b6150552/dark.png)
+VSCode theme inspired by a galaxy far far away...
 
-### [Ariake Dark Color Theme](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
+<img src="./themes/screenshots/dustinsanders.an-old-hope-theme-vscode.png" width="600" />
 
-![](https://raw.githubusercontent.com/a-wart/ariake-dark/master/misc/ariake_dark_github.png)
+### [Ariake Dark by wart](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
 
-### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
+Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago.
 
-![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
+<img src="./themes/screenshots/wart.ariake-dark.png" width="600" />
 
-### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+### [Atom One Dark Theme by Mahmoud Ali](https://vscodethemes.com/e/akamud.vscode-theme-onedark)
 
-Features full workbench theming
+One Dark Theme based on Atom.
 
-![](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
+<img src="./themes/screenshots/akamud.vscode-theme-onedark.png" width="600" />
 
-### [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+### [Ayu by teabyii](https://vscodethemes.com/e/teabyii.ayu)
 
-Features full workbench theming
+A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
 
-![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
+<img src="./themes/screenshots/teabyii.ayu.png" width="600" />
 
-### [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+### [Captain Sweetheart by ultradracula](https://vscodethemes.com/e/ultradracula.captain-sweetheart)
 
-![dark theme](https://user-images.githubusercontent.com/353888/28989654-114a64b6-7977-11e7-9e4e-9190bc2fae5b.png)
+Tuff but sweet theme.
 
-![mirage theme](https://user-images.githubusercontent.com/353888/28989655-114d577a-7977-11e7-8646-757b1e8541a2.png)
+<img src="./themes/screenshots/ultradracula.captain-sweetheart.png" width="600" />
 
-### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
+### [Cobalt2 Theme Official by Wes Bos](https://vscodethemes.com/e/wesbos.theme-cobalt2)
 
-![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
+🔥 Official theme by Wes Bos.
 
-### [Captain Sweetheart](https://marketplace.visualstudio.com/items?itemName=ultradracula.captain-sweetheart)
+<img src="./themes/screenshots/wesbos.theme-cobalt2.png" width="600" />
 
-![](https://raw.githubusercontent.com/mashaal/code-captain-sweetheart/master/preview.png)
+### [Dracula Official by Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
-### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+Official Dracula Theme. A dark theme for many editors, shells, and more.
 
-![Cobalt 2](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
+<img src="./themes/screenshots/dracula-theme.theme-dracula.png" width="600" />
 
-### [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+### [Eva Theme by fisheva](https://vscodethemes.com/e/fisheva.eva-theme)
 
-![Dracula Theme for VS Code](https://camo.githubusercontent.com/d695efd1815607a9056ea5817501adc0a63632ca/68747470733a2f2f64726163756c617468656d652e636f6d2f6173736574732f696d672f73637265656e73686f74732f7673636f64652e706e67)
+A colorful and semantic coloring code theme.
 
-### [Material-theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+<img src="./themes/screenshots/fisheva.eva-theme.png" width="600" />
 
-![](https://image.ibb.co/mGCtnn/Material_Theme.gif)
+### [Github Theme by Thomas Pink](https://vscodethemes.com/e/thomaspink.theme-github)
 
-### [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+GitHub Theme for Visual Studio Code.
 
-![Nord Theme for VS Code](https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/assets/scrot-preview.png)
+<img src="./themes/screenshots/thomaspink.theme-github.png" width="600" />
 
-### [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic)
+### [Material Palenight Theme by whizkydee](https://vscodethemes.com/e/whizkydee.material-palenight-theme)
 
-Features full workbench theming
+An elegant and juicy material-like theme for Visual Studio Code.
 
-![](https://will-stone.github.io/plastic/screenshot-min.png)
+<img src="./themes/screenshots/whizkydee.material-palenight-theme.png" width="600" />
 
-### [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+### [Material Theme by Mattia Astorino](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 
-A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.
+The most epic theme now for Visual Studio Code.
 
-![](https://dha4w82d62smt.cloudfront.net/items/032R3i0B353Q3a3u2B3F/Screen%20Recording%202018-03-29%20at%2002.07%20AM.gif)
+<img src="./themes/screenshots/Equinusocio.vsc-material-theme.png" width="600" />
 
-### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
+### [Plastic by Will Stone](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic)
 
-![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
+A simple theme.
+
+<img src="./themes/screenshots/will-stone.plastic.png" width="600" />
+
+### [Nord by arcticicestudio](https://vscodethemes.com/e/arcticicestudio.nord-visual-studio-code)
+
+An arctic, north-bluish clean and elegant Visual Studio Code theme.
+
+<img src="./themes/screenshots/arcticicestudio.nord-visual-studio-code.png" width="600" />
+
+### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
+
+⚡ A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.
+
+<img src="./themes/screenshots/ahmadawais.shades-of-purple.png" width="600" />
 
 # Resources for extension developers
 
