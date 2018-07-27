@@ -1,0 +1,9 @@
+{
+  "name": "awesome-vscode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:viatsko/awesome-vscode.git",
+  "author": "Valerii Iatsko <viatsko@viatsko.me>",
+  "license": "CC0-1.0",
+  "private": true
+}
