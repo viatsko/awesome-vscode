@@ -43,6 +43,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
   - [Copy Relative Path](#copy-relative-path)
+  - [Create tests](#create-tests)
   - [Deploy](#deploy)
   - [Gi](#gi)
   - [Git History](#git-history)
@@ -344,6 +345,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 
 > Copy Relative Path from a File
+
+## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
+
+> An extension to quickly generate test files.
+
+![](https://media.giphy.com/media/1iqPhENd8SLd9SggeX/giphy.gif)
 
 ## [Deploy](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy)
 
