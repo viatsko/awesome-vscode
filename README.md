@@ -132,6 +132,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
 - [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
+- [Bolt](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
