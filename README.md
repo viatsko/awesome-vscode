@@ -656,19 +656,19 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ## Syntax
 
-### [An Old Hope Theme by Dustin Sanders](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+### [An Old Hope Theme by Dustin Sanders](https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode)
 
 VSCode theme inspired by a galaxy far far away...
 
-<a href="https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode">
+<a href="https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode">
   <img src="./themes/screenshots/dustinsanders.an-old-hope-theme-vscode.png" width="600" />
 </a>
 
-### [Ariake Dark by wart](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
+### [Ariake Dark by wart](https://vscodethemes.com/e/wart.ariake-dark)
 
 Dark VSCode theme inspired by Japanese traditional colors and the poetry composed 1000 years ago.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark">
+<a href="https://vscodethemes.com/e/wart.ariake-dark">
   <img src="./themes/screenshots/wart.ariake-dark.png" width="600" />
 </a>
 
@@ -704,11 +704,11 @@ Tuff but sweet theme.
   <img src="./themes/screenshots/wesbos.theme-cobalt2.png" width="600" />
 </a>
 
-### [Dracula Official by Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+### [Dracula Official by Dracula Theme](https://vscodethemes.com/e/dracula-theme.theme-dracula)
 
 Official Dracula Theme. A dark theme for many editors, shells, and more.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula">
+<a href="https://vscodethemes.com/e/dracula-theme.theme-dracula">
   <img src="./themes/screenshots/dracula-theme.theme-dracula.png" width="600" />
 </a>
 
@@ -736,19 +736,19 @@ An elegant and juicy material-like theme for Visual Studio Code.
   <img src="./themes/screenshots/whizkydee.material-palenight-theme.png" width="600" />
 </a>
 
-### [Material Theme by Mattia Astorino](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+### [Material Theme by Mattia Astorino](https://vscodethemes.com/e/Equinusocio.vsc-material-theme)
 
 The most epic theme now for Visual Studio Code.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme">
+<a href="https://vscodethemes.com/e/Equinusocio.vsc-material-theme">
   <img src="./themes/screenshots/Equinusocio.vsc-material-theme.png" width="600" />
 </a>
 
-### [Plastic by Will Stone](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic)
+### [Plastic by Will Stone](https://vscodethemes.com/e/will-stone.plastic)
 
 A simple theme.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=will-stone.plastic">
+<a href="https://vscodethemes.com/e/will-stone.plastic">
   <img src="./themes/screenshots/will-stone.plastic.png" width="600" />
 </a>
 
