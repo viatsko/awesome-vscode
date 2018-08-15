@@ -64,6 +64,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
   - [Settings Sync](#settings-sync)
+  - [VSCode to Hastebin](#vscode-to-hastebin)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
   - [Better Align](#better-align)
@@ -469,6 +470,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using Github Gist
 
 ![Settings Sync](http://i.imgur.com/QZtaBca.gif)
+
+## [VSCode to Hastebin](https://marketplace.visualstudio.com/items?itemName=HamzaAnis.vscode-to-hastebin)
+
+> Share your code using [hastebin](https://hastebin.com/) server
+
+![](https://raw.githubusercontent.com/HamzaAnis/vscode-to-hastebin/master/image/extension.gif)
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
