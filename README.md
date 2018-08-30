@@ -224,7 +224,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Intellisense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace. Also supports React's className attribute.
 
-  ![Intellisense CSS class names](http://i.imgur.com/5crMfTj.gif)
+  ![Intellisense CSS class names](https://i.imgur.com/5crMfTj.gif)
 
 ## Go
 
@@ -469,7 +469,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using Github Gist
 
-![Settings Sync](http://i.imgur.com/QZtaBca.gif)
+![Settings Sync](https://i.imgur.com/QZtaBca.gif)
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
@@ -597,7 +597,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Auto-sync your work to remote FTP server
 
-![](http://i.imgur.com/W9h4pwW.gif)
+![](https://i.imgur.com/W9h4pwW.gif)
 
 ## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
 
