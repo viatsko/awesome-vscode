@@ -76,6 +76,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Surround](#surround)
   - [Wrap Selection](#wrap-selection)
   - [html2pug](#html2pug)
+  -[Bracket Pair Colorizer](#Bracket-Pair-Colorizer)
 - [Explorer Icons](#explorer-icons)
   - [VSCode Icons](#vscode-icons)
   - [Seti-UI](#seti-icons)
@@ -475,6 +476,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Scaffold projects using [Yeoman](http://yeoman.io/)
 
 ![](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
+
+##[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+> This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
+![Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair/raw/master/images/example.png)
 
 # Formatting & Beautification
 
