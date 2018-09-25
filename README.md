@@ -543,6 +543,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Bracket Pair Colorizer](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
 
+## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+> Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
+
+![Auto import](https://gifyu.com/images/autoimport.gif)
+
 ## Explorer Icons
 
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
