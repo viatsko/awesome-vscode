@@ -64,6 +64,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
   - [Settings Sync](#settings-sync)
+  - [Todo tree](#todo-tree)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
   - [Better Align](#better-align)
@@ -470,6 +471,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using Github Gist
 
 ![Settings Sync](https://i.imgur.com/QZtaBca.gif)
+
+## [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+> Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
+
+![Todo Tree](https://thumbs.gfycat.com/PowerlessWindyCivet-size_restricted.gif)
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
