@@ -790,7 +790,7 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
 # Resources for extension developers
 
 ## Documentation
-
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - The Better Comments extension will help you create more human-friendly comments in your code.
 - [Extending Visual Studio Code](https://code.visualstudio.com/docs/extensions/overview) section of [Official Documentation](https://code.visualstudio.com/docs)
 
 ## Libraries
