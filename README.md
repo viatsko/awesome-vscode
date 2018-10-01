@@ -93,6 +93,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ftp-sync](#ftp-sync)
   - [PlatformIO](#platformio)
   - [Quokka](#quokka)
+  - [Remote Workspace](#remote-workspace)
   - [Runner](#runner)
   - [Slack](#slack)
   - [Spotify](#spotify)
@@ -629,6 +630,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Rapid prototyping playground for JavaScript and TypeScript in VS Code, with access to your project's files, inline reporting, code coverage and rich output formatting.
 
 ![](https://quokkajs.com/assets/img/vsc1.gif)
+
+## [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
+
+> Multi protocol support for things, like Azure blobs, S3 buckets, Dropbox, (S)FTP or WebDAV files, by using new [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider), especially for accessing resources like local files and folders in the editor as [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
+
+![](https://raw.githubusercontent.com/mkloubert/vscode-remote-workspace/master/img/demo1.gif)
 
 ## [Runner](https://marketplace.visualstudio.com/items?itemName=mattn.Runner)
 
