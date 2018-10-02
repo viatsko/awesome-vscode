@@ -106,6 +106,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
   - [Ayu by teabyii](#ayu-by-teabyii)
   - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
+  - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
   - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
   - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
   - [Eva Theme by fisheva](#eva-theme-by-fisheva)
@@ -728,6 +729,14 @@ Tuff but sweet theme.
 
 <a href="https://vscodethemes.com/e/wesbos.theme-cobalt2">
   <img src="./themes/screenshots/wesbos.theme-cobalt2.png" width="600" />
+</a>
+
+### [City Lights by Yummygumm](https://vscodethemes.com/e/Yummygum.city-lights-theme)
+
+🏙 Yummygum's Official City Lights suite
+
+<a href="http://citylights.xyz">
+  <img src="./themes/screenshots/city-lights-yummygum.png" width="600" />
 </a>
 
 ### [Dracula Official by Dracula Theme](https://vscodethemes.com/e/dracula-theme.theme-dracula)
