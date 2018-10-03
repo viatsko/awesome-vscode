@@ -57,6 +57,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
+  - [.NET Core Test Explorer](#dotnet-core-test-explorer)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
   - [Paste JSON as Code](#paste-json-as-code)
@@ -431,7 +432,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Override the regular Copy and Cut commands to keep selections in a clipboard ring
 
-## [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+## [Dotnet Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 
 > View and run your .NET Core tests directly in the editor.
 
