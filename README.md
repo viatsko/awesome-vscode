@@ -150,6 +150,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
+- [Hive SQL](https://marketplace.visualstudio.com/items?itemName=josephtbradley.hive-sql)
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
