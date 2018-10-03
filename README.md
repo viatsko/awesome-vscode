@@ -80,6 +80,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [html2pug](#html2pug)
   - [Bracket Pair Colorizer](#bracket-pair-colorizer)
 - [Explorer Icons](#explorer-icons)
+  - [City Lights Icons](#city-lights-icons)
   - [VSCode Icons](#vscode-icons)
   - [Seti-UI](#seti-icons)
 - [Uncategorized](#uncategorized)
@@ -566,6 +567,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Auto import](https://gifyu.com/images/autoimport.gif)
 
 ## Explorer Icons
+
+- [City Lights Icons](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
+
+![City Lights Icons](https://raw.githubusercontent.com/yummygum/city-lights-icons-vsc/master/city-lights-icon-preview.gif)
 
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
