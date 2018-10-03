@@ -431,6 +431,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Override the regular Copy and Cut commands to keep selections in a clipboard ring
 
+## [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+
+> View and run your .NET Core tests directly in the editor.
+
+![](https://github.com/formulahendry/vscode-dotnet-test-explorer/raw/master/images/test-explorer.gif)
+
 ## [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
 > Visual Studio Code plugin that autocompletes npm modules in import statements.
