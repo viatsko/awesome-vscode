@@ -116,6 +116,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Github Theme by Thomas Pink](#github-theme-by-thomas-pink)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
+  - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
@@ -797,6 +798,14 @@ The most epic theme now for Visual Studio Code.
 
 <a href="https://vscodethemes.com/e/Equinusocio.vsc-material-theme">
   <img src="./themes/screenshots/Equinusocio.vsc-material-theme.png" width="600" />
+</a>
+
+### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
+
+A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+
+<a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
+  <img src="./themes/screenshots/night-owl.png" width=600 />
 </a>
 
 ### [Plastic by Will Stone](https://vscodethemes.com/e/will-stone.plastic)
