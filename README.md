@@ -113,7 +113,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
   - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
   - [Eva Theme by fisheva](#eva-theme-by-fisheva)
-  - [Github Theme by Thomas Pink](#github-theme-by-thomas-pink)
+  - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
@@ -481,7 +481,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-> Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using Github Gist
+> Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using GitHub Gist
 
 ![Settings Sync](https://i.imgur.com/QZtaBca.gif)
 
@@ -776,7 +776,7 @@ A colorful and semantic coloring code theme.
   <img src="./themes/screenshots/fisheva.eva-theme.png" width="600" />
 </a>
 
-### [Github Theme by Thomas Pink](https://vscodethemes.com/e/thomaspink.theme-github)
+### [GitHub Theme by Thomas Pink](https://vscodethemes.com/e/thomaspink.theme-github)
 
 GitHub Theme for Visual Studio Code.
 
