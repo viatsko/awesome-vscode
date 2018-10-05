@@ -84,6 +84,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [City Lights Icons](#city-lights-icons)
   - [VSCode Icons](#vscode-icons)
   - [Seti-UI](#seti-icons)
+  - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
   - [Code Runner](#code-runner)
   - [Color Highlight](#color-highlight)
