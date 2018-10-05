@@ -95,7 +95,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
-  - [Highlight JSX/HTML tags](#highlight-jsx/html-tags)
+  - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [PlatformIO](#platformio)
   - [Quokka](#quokka)
   - [Remote Workspace](#remote-workspace)
