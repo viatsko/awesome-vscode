@@ -588,6 +588,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Seti Icons](https://raw.githubusercontent.com/hellopao/vscode-seti-icons/master/screenshot.png)
 
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
+
 ## [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
 > Transform html to pug inside your Visual Studio Code, forget about using an external page anymore.
