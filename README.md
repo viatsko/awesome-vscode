@@ -84,6 +84,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [City Lights Icons](#city-lights-icons)
   - [VSCode Icons](#vscode-icons)
   - [Seti-UI](#seti-icons)
+  - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
   - [Code Runner](#code-runner)
   - [Color Highlight](#color-highlight)
@@ -589,6 +590,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 - [Seti Icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
 
 ![Seti Icons](https://raw.githubusercontent.com/hellopao/vscode-seti-icons/master/screenshot.png)
+
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 ## [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
