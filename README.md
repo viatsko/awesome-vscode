@@ -115,6 +115,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
   - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
   - [Eva Theme by fisheva](#eva-theme-by-fisheva)
+  - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
   - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
@@ -122,7 +123,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
-  - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
@@ -789,6 +789,14 @@ A colorful and semantic coloring code theme.
   <img src="./themes/screenshots/fisheva.eva-theme.png" width="600" />
 </a>
 
+### [Fairy Floss by nopjmp and sailorhg](https://marketplace.visualstudio.com/items?itemName=nopjmp.fairyfloss)
+
+A fun, purple-based pastel/candy/daydream fairyfloss theme made by sailorhg.
+
+<a href="https://vscodethemes.com/e/nopjmp.fairyfloss">
+  <img src="./themes/screenshots/nopjmp.fairyfloss.png" width="600" />
+</a>
+
 ### [GitHub Theme by Thomas Pink](https://vscodethemes.com/e/thomaspink.theme-github)
 
 GitHub Theme for Visual Studio Code.
@@ -843,14 +851,6 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
 
 <a href="https://vscodethemes.com/e/ahmadawais.shades-of-purple">
   <img src="./themes/screenshots/ahmadawais.shades-of-purple.png" width="600" />
-</a>
-
-### [Fairy Floss by nopjmp and sailorhg](https://marketplace.visualstudio.com/items?itemName=nopjmp.fairyfloss)
-
-A fun, purple-based pastel/candy/daydream fairyfloss theme made by sailorhg.
-
-<a href="https://vscodethemes.com/e/nopjmp.fairyfloss">
-  <img src="./themes/screenshots/nopjmp.fairyfloss.png" width="600" />
 </a>
 
 # Resources for extension developers
