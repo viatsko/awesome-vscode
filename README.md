@@ -38,6 +38,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Other extensions](#other-extensions)
     - [Read more](#read-more)
   - [Python](#python)
+  - [ReasonML](#reasonml)
   - [Rust](#rust)
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
@@ -329,6 +330,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+
+## ReasonML
+
+- [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
 
 ## Rust
 
