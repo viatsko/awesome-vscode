@@ -113,6 +113,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
   - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
   - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
+  - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
   - [Eva Theme by fisheva](#eva-theme-by-fisheva)
   - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
