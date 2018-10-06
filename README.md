@@ -122,7 +122,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
-  - [Fairyfloss by nopjmp and sailorhg](#Fairy-Floss-by-nopjmp-and-sailorhg)
+  - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
