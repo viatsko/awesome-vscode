@@ -42,7 +42,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
-  - [Cacher Code Snippets](#cacher---code-snippets)
+  - [Cacher - Code Snippets](#cacher---code-snippets)
   - [Copy Relative Path](#copy-relative-path)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
@@ -359,7 +359,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Cacher - Code Snippets](https://marketplace.visualstudio.com/items?itemName=Cacher.cacher-vscode)
 
-> Cacher is the code snippet organizer for pro developers. It is a cross-platform, cloud-based app used to curate a snippet library for you and your team.
+> Cacher is the code snippet organizer for pro developers. It is a cross-platform, cloud-based app used to curate a snippet library for you and your team. Package requires a Pro or Team plan subscription.
 
 ![](https://cdn.cacher.io/vscode/vscode-cacher-demo.gif)
 
