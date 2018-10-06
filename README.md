@@ -42,7 +42,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
-  - [Cacher Code Snippets](#cacher-code-snippets)
+  - [Cacher Code Snippets](#cacher---code-snippets)
   - [Copy Relative Path](#copy-relative-path)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
