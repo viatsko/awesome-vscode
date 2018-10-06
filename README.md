@@ -114,6 +114,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
   - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
   - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
+  - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
   - [Eva Theme by fisheva](#eva-theme-by-fisheva)
   - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
@@ -778,6 +779,14 @@ Official Dracula Theme. A dark theme for many editors, shells, and more.
 
 <a href="https://vscodethemes.com/e/dracula-theme.theme-dracula">
   <img src="./themes/screenshots/dracula-theme.theme-dracula.png" width="600" />
+</a>
+
+### [Edge by Bogdan Lazar](https://vscodethemes.com/e/bogdanlazar.edge)
+
+A simple theme with bright colors in three variants — Night Sky, Serene and Ocean for all day long comfortable work.
+
+<a href="https://vscodethemes.com/e/bogdanlazar.edge">
+  <img src="./themes/screenshots/bogdanlazar.edge-theme.png" width="600" />
 </a>
 
 ### [Eva Theme by fisheva](https://vscodethemes.com/e/fisheva.eva-theme)
