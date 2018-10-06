@@ -844,6 +844,14 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
   <img src="./themes/screenshots/ahmadawais.shades-of-purple.png" width="600" />
 </a>
 
+### [Fairy Floss](https://marketplace.visualstudio.com/items?itemName=nopjmp.fairyfloss)
+
+A fun, purple-based pastel/candy/daydream fairyfloss theme made by sailorhg.
+
+<a href="https://vscodethemes.com/e/nopjmp.fairyfloss">
+  <img src="./themes/screenshots/fairy-floss.png" width="600" />
+</a>
+
 # Resources for extension developers
 
 ## Documentation
