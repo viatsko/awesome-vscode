@@ -775,6 +775,14 @@ Official Dracula Theme. A dark theme for many editors, shells, and more.
   <img src="./themes/screenshots/dracula-theme.theme-dracula.png" width="600" />
 </a>
 
+### [Edge by Bogdan Lazar](https://vscodethemes.com/e/bogdanlazar.edge)
+
+A simple theme with bright colors in three variants — Night Sky, Serene and Ocean for all day long comfortable work.
+
+<a href="https://vscodethemes.com/e/bogdanlazar.edge">
+  <img src="./themes/screenshots/bogdanlazar.edge-theme.png" width="600" />
+</a>
+
 ### [Eva Theme by fisheva](https://vscodethemes.com/e/fisheva.eva-theme)
 
 A colorful and semantic coloring code theme.
