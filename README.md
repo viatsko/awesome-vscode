@@ -849,7 +849,7 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
 A fun, purple-based pastel/candy/daydream fairyfloss theme made by sailorhg.
 
 <a href="https://vscodethemes.com/e/nopjmp.fairyfloss">
-  <img src="./themes/screenshots/fairy-floss.png" width="600" />
+  <img src="./themes/screenshots/nopjmp.fairyfloss.png" width="600" />
 </a>
 
 # Resources for extension developers
