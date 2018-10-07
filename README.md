@@ -46,7 +46,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Copy Relative Path](#copy-relative-path)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
-  - [ES7 React/Redux/GraphQL/React-Native snippets](#ES7 React/Redux/GraphQL/React-Native snippets)
+  - [ES7 React/Redux/GraphQL/React-Native snippets](#ES7-React/Redux/GraphQL/React-Native-snippets)
   - [Gi](#gi)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
