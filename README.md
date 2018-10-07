@@ -46,7 +46,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Copy Relative Path](#copy-relative-path)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
-  - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
+- [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
   - [Gi](#gi)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
@@ -385,7 +385,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-> Provides Javascript and React/Redux snippets in ES7 with babel plugins features
+> Provides Javascript and React/Redux snippets in ES7
 
 > Basic Methods
 
@@ -415,41 +415,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 | `cmmb→` | `comment block`                                     |
 | `cp→`   | `const { } = this.props`                            |
 | `cs→`   | `const { } = this.state`                            |
-
-> React
-
-| Prefix      | Method                                                                              |
-| ----------: | ----------------------------------------------------------------------------------- |
-| `imr→`      | `import React from 'react'`                                                         |
-| `imrd→`     | `import ReactDOM from 'react-dom'`                                                  |
-| `imrc→`     | `import React, { Component } from 'react'`                                          |
-| `imrcp→`    | `import React, { Component } from 'react' & import PropTypes from 'prop-types'`     |
-| `imrpc→`    | `import React, { PureComponent } from 'react'`                                      |
-| `imrpcp→`   | `import React, { PureComponent } from 'react' & import PropTypes from 'prop-types'` |
-| `impt→`     | `import PropTypes from 'prop-types'`                                                |
-| `redux→`    | `import { connect } from 'react-redux'`                                             |
-| `rconst→`   | `constructor(props) with this.state`                                                |
-| `rconc→`    | `constructor(props, context) with this.state`                                       |
-| `est→`      | `this.state = { }`                                                                  |
-| `cwm→`      | `componentWillMount = () => { }` DEPRECATED!!!                                      |
-| `cdm→`      | `componentDidMount = () => { }`                                                     |
-| `cwr→`      | `componentWillReceiveProps = (nextProps) => { }` DEPRECATED!!!                      |
-| `scu→`      | `shouldComponentUpdate = (nextProps, nextState) => { }`                             |
-| `cwup→`     | `componentWillUpdate = (nextProps, nextState) => { }` DEPRECATED!!!                 |
-| `cdup→`     | `componentDidUpdate = (prevProps, prevState) => { }`                                |
-| `cwun→`     | `componentWillUnmount = () => { }`                                                  |
-| `cwun→`     | `componentWillUnmount = () => { }`                                                  |
-| `gdsfp→`    | `static getDerivedStateFromProps(nextProps, prevState) { }`                         |
-| `gsbu→`     | `getSnapshotBeforeUpdate = (prevProps, prevState) => { }`                           |
-| `ren→`      | `render() { return( ) }`                                                            |
-| `sst→`      | `this.setState({ })`                                                                |
-| `ssf→`      | `this.setState((state, props) => return { })`                                       |
-| `props→`    | `this.props.propName`                                                               |
-| `state→`    | `this.state.stateName`                                                              |
-| `rcontext→` | `const ${1:contextName} = React.createContext()`                                    |
-| `cref→`     | `this.${1:refName}Ref = React.createRef()`                                          |
-| `fref→`     | `const ref = React.createRef()`                                                     |
-| `bnd→`      | `this.methodName = this.methodName.bind(this)`                                      |
 
 ### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
