@@ -38,6 +38,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Other extensions](#other-extensions)
     - [Read more](#read-more)
   - [Python](#python)
+  - [ReasonML](#reasonml)
   - [Rust](#rust)
 - [Productivity](#productivity)
   - [Azure Cosmos DB](#azure-cosmos-db)
@@ -55,6 +56,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [Icon Fonts](#icon-fonts)
+  - [JS Parameter Annotations](#js-parameter-annotations)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
@@ -109,26 +111,24 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [Vim Mode](#vim-mode)
 - [Themes](#themes)
-  - [UI](#ui)
-    - [Essence](#essence)
-    - [Pragmatic Essence](#pragmatic-essence)
-  - [Syntax](#syntax)
-    - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
-    - [Ariake Dark by wart](#ariake-dark-by-wart)
-    - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
-    - [Ayu by teabyii](#ayu-by-teabyii)
-    - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
-    - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
-    - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
-    - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
-    - [Eva Theme by fisheva](#eva-theme-by-fisheva)
-    - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
-    - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
-    - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
-    - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
-    - [Plastic by Will Stone](#plastic-by-will-stone)
-    - [Nord by arcticicestudio](#nord-by-arcticicestudio)
-    - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
+  - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
+  - [Ariake Dark by wart](#ariake-dark-by-wart)
+  - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
+  - [Ayu by teabyii](#ayu-by-teabyii)
+  - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
+  - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
+  - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
+  - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
+  - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
+  - [Eva Theme by fisheva](#eva-theme-by-fisheva)
+  - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
+  - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
+  - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
+  - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
+  - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
+  - [Plastic by Will Stone](#plastic-by-will-stone)
+  - [Nord by arcticicestudio](#nord-by-arcticicestudio)
+  - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
@@ -151,6 +151,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
 - [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
 - [Bolt](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language)
+- [Bond](https://marketplace.visualstudio.com/items?itemName=vicey.vscode-bond)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
@@ -159,6 +160,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)
 - [Erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
 - [F#](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)
+- [Flatbuffers](https://marketplace.visualstudio.com/items?itemName=gaborv.flatbuffers)
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
@@ -338,6 +340,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
+## ReasonML
+
+- [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
+
 ## Rust
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
@@ -430,6 +436,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+
+## [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations)
+
+> Provides annotations on function calls in JS/TS files to provide parameter names to arguments.
+
+![JS Parameter Annotations](https://raw.githubusercontent.com/lannonbr/vscode-js-annotations/master/jsannotations.png)
 
 ## [Kanban](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
 
@@ -781,12 +793,28 @@ Official Dracula Theme. A dark theme for many editors, shells, and more.
   <img src="./themes/screenshots/dracula-theme.theme-dracula.png" width="600" />
 </a>
 
+### [Edge by Bogdan Lazar](https://vscodethemes.com/e/bogdanlazar.edge)
+
+A simple theme with bright colors in three variants — Night Sky, Serene and Ocean for all day long comfortable work.
+
+<a href="https://vscodethemes.com/e/bogdanlazar.edge">
+  <img src="./themes/screenshots/bogdanlazar.edge-theme.png" width="600" />
+</a>
+
 ### [Eva Theme by fisheva](https://vscodethemes.com/e/fisheva.eva-theme)
 
 A colorful and semantic coloring code theme.
 
 <a href="https://vscodethemes.com/e/fisheva.eva-theme">
   <img src="./themes/screenshots/fisheva.eva-theme.png" width="600" />
+</a>
+
+### [Fairy Floss by nopjmp and sailorhg](https://vscodethemes.com/e/nopjmp.fairyfloss)
+
+A fun, purple-based pastel/candy/daydream fairyfloss theme made by sailorhg.
+
+<a href="https://vscodethemes.com/e/nopjmp.fairyfloss">
+  <img src="./themes/screenshots/nopjmp.fairyfloss.png" width="600" />
 </a>
 
 ### [GitHub Theme by Thomas Pink](https://vscodethemes.com/e/thomaspink.theme-github)
