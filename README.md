@@ -121,6 +121,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
+  - [Mno by u29dc](#mno-by-u29dc)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
@@ -837,6 +838,14 @@ The most epic theme now for Visual Studio Code.
 
 <a href="https://vscodethemes.com/e/Equinusocio.vsc-material-theme">
   <img src="./themes/screenshots/Equinusocio.vsc-material-theme.png" width="600" />
+</a>
+
+### [Mno by u29dc](https://vscodethemes.com/e/u29dc.mno)
+
+Minimal monochrome theme.
+
+<a href="https://vscodethemes.com/e/u29dc.mno">
+  <img src="./themes/screenshots/u29dc.mno.png" width="600" />
 </a>
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
