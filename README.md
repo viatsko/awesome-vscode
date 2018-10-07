@@ -789,7 +789,7 @@ A colorful and semantic coloring code theme.
   <img src="./themes/screenshots/fisheva.eva-theme.png" width="600" />
 </a>
 
-### [Fairy Floss by nopjmp and sailorhg](https://marketplace.visualstudio.com/items?itemName=nopjmp.fairyfloss)
+### [Fairy Floss by nopjmp and sailorhg](https://vscodethemes.com/e/nopjmp.fairyfloss)
 
 A fun, purple-based pastel/candy/daydream fairyfloss theme made by sailorhg.
 
