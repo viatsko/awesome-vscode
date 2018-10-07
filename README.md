@@ -55,6 +55,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [Icon Fonts](#icon-fonts)
+  - [JS Parameter Annotations](#js-parameter-annotations)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
@@ -430,6 +431,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+
+## [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations)
+
+> Provides annotations on function calls in JS/TS files to provide parameter names to arguments.
+
+![JS Parameter Annotations](https://raw.githubusercontent.com/lannonbr/vscode-js-annotations/master/jsannotations.png)
 
 ## [Kanban](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
 
