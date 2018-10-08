@@ -27,6 +27,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [CSS](#css)
   - [Go](#go)
   - [Haskell](#haskell)
+  - [Shell](#shell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Typescript](#typescript)
@@ -253,6 +254,9 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Haskell
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
+## Shell
+
+- [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
 
 ## Java
 
