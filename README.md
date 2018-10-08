@@ -15,7 +15,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 - [Official](#official)
 - [Syntax](#syntax)
-- [Editor Keymaps](#editor-keymaps)
+- [Migrating from other editors](#migrating-from-other-editors)
+  - [Migrating from Vim](#migrating-from-vim)
   - [Migrating from Atom](#migrating-from-atom)
   - [Migrating from Sublime Text](#migrating-from-sublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
@@ -111,7 +112,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
-  - [Vim Mode](#vim-mode)
 - [Themes](#themes)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
@@ -184,9 +184,13 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
 - [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
-# Editor Keymaps
+# Migrating from other editors
 
 The VSCode team provides keymaps from popular editors, making the transition to VSCode almost seamless and easy.
+
+## [Migrating from Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
 
 ## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
 
@@ -729,10 +733,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Highlight multiple text patterns with different colors at the same time. Highlighting a single text pattern can be done with the editor's search functionality, but it cannot highlight multiple patterns at the same time, and this is where this extension comes handy.
 
 ![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
-
-## [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-
-> Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
 
 # Themes
 
