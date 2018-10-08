@@ -8,6 +8,7 @@
 A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
+
 </div>
 <br/>
 
@@ -93,6 +94,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Seti-UI](#seti-icons)
   - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+
   - [Code Runner](#code-runner)
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
@@ -104,13 +106,17 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ftp-sync](#ftp-sync)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
+  - [carbon-now-sh](#carbon-now-sh)
   - [Quokka](#quokka)
+  - [Remote Workspace](#remote-workspace)
+  - [Runner](#runner)
   - [Remote Workspace](#remote-workspace)
   - [Runner](#runner)
   - [Slack](#slack)
   - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
+
 - [Themes](#themes)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
@@ -210,13 +216,14 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 # Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
+
 > lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
 
 Unlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, [Languages](https://code.visualstudio.com/Docs/languages/overview) section.
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to _.bsl и _.os files in VSC, add IntelliSense and syntax helper for 1С lang
 
 ![1C-Syntax](https://cloud.githubusercontent.com/assets/1132840/13007621/9e730984-d1a2-11e5-8ff5-8f7945421184.PNG)
 
@@ -231,7 +238,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 
-## C\#
+## C\
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - Preview C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 
@@ -244,6 +251,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## CSS
 
 ### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+
 > Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
 
 ![CSS Peek](https://github.com/pranaygp/vscode-css-peek/blob/master/working.gif)
@@ -264,6 +272,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Haskell
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
+
 ## Shell
 
 - [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
@@ -406,6 +415,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Upload/copy files animation](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
 
 ### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
+
 > Generating .gitignore files made easy.
 
 ![.gitignore generation animation](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
@@ -446,6 +456,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
+
 > This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
@@ -546,7 +557,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
-> Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
+> Align your code by colon(:), assignment(=,+=,-=,\*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
 >
 > And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
 
@@ -613,6 +624,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Bracket Pair Colorizer](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
 
 ## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+
 > Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
 ![Auto import](https://gifyu.com/images/autoimport.gif)
@@ -650,6 +662,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Highlight web colors in your editor screenshot](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 
 ## [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+
 > Syntax highlighting for the VS Code Output Panel and log files
 
 ![IBM.output-colorizer](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
@@ -688,6 +701,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Make a polaroid image of your code animation](https://raw.githubusercontent.com/octref/polacode/master/demo/usage.gif)
 
+## [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh)
+
+> Send your code to [carbon.now.sh](https://carbon.now.sh).
+
+![Send your code to carbon.now.sh animation](https://user-images.githubusercontent.com/6516758/46617867-df765680-caeb-11e8-8899-95778cdcceb7.gif)
+
 ## [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
 > Rapid prototyping playground for JavaScript and TypeScript in VS Code, with access to your project's files, inline reporting, code coverage and rich output formatting.
@@ -713,6 +732,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
 ### [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
+
 > Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
 
 ![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
