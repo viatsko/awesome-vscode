@@ -22,6 +22,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
+  - [Bash](#bash)
   - [C++](#c)
   - [C#](#c)
   - [CSS](#css)
@@ -214,6 +215,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
 ![1C-Syntax](https://cloud.githubusercontent.com/assets/1132840/13007621/9e730984-d1a2-11e5-8ff5-8f7945421184.PNG)
+
+## Bash
+
+- [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
 
 ## C++
 
