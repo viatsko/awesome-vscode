@@ -27,6 +27,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [CSS](#css)
   - [Go](#go)
   - [Haskell](#haskell)
+  - [Shell](#shell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Typescript](#typescript)
