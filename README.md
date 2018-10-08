@@ -417,10 +417,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 | `cp→`   | `const { } = this.props`                            |
 | `cs→`   | `const { } = this.state`                            |
 
-<<<<<<< HEAD
-
-=======
->>>>>>> ebb7619a9fe46cf814cec4555772653dc66bc8b8
 ### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
 
