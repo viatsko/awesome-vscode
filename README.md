@@ -151,6 +151,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+- [Befunge](https://marketplace.visualstudio.com/items?itemName=kagof.befunge)
 - [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
 - [Bolt](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language)
 - [Bond](https://marketplace.visualstudio.com/items?itemName=vicey.vscode-bond)
