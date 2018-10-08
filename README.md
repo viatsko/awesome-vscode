@@ -250,6 +250,9 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Haskell
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
+## Shell
+
+- [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
 
 ## Java
 
