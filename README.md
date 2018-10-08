@@ -41,6 +41,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ReasonML](#reasonml)
   - [Rust](#rust)
 - [Productivity](#productivity)
+  - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
   - [Copy Relative Path](#copy-relative-path)
@@ -67,7 +68,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
   - [Settings Sync](#settings-sync)
-  - [Todo tree](#todo-tree)
+  - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
@@ -75,13 +76,15 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Auto Close Tag](#auto-close-tag)
   - [Auto Rename Tag](#auto-rename-tag)
   - [beautify](#beautify)
+  - [html2pug](#html2pug)
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
   - [Paste and Indent](#paste-and-indent)
   - [Sort Lines](#sort-lines)
   - [Surround](#surround)
   - [Wrap Selection](#wrap-selection)
-  - [html2pug](#html2pug)
+  - [Formatting Toggle](#formatting-toggle)
   - [Bracket Pair Colorizer](#bracket-pair-colorizer)
+  - [Auto Import](#auto-import)
 - [Explorer Icons](#explorer-icons)
   - [City Lights Icons](#city-lights-icons)
   - [VSCode Icons](#vscode-icons)
@@ -98,6 +101,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
   - [PlatformIO](#platformio)
+  - [Polacode](#polacode)
   - [Quokka](#quokka)
   - [Remote Workspace](#remote-workspace)
   - [Runner](#runner)
@@ -205,7 +209,7 @@ In case the awesome nirvana that is linting has not yet been unleashed upon you:
 
 Unlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, [Languages](https://code.visualstudio.com/Docs/languages/overview) section.
 
-### 1C
+## 1C
 
 - [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
 ![1C-Syntax](https://cloud.githubusercontent.com/assets/1132840/13007621/9e730984-d1a2-11e5-8ff5-8f7945421184.PNG)
@@ -468,7 +472,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![npm-intellisense](https://raw.githubusercontent.com/ChristianKohler/NpmIntellisense/master/images/auto_complete.gif)
 
-
 ## [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 
 > Compare (diff) text selections within a file, across different files, or to the clipboard
@@ -481,7 +484,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Paste JSON as Code](https://raw.githubusercontent.com/quicktype/quicktype-vscode/master/media/demo.gif)
 
-## [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+## [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 > Visual Studio Code plugin that autocompletes filenames
 
@@ -549,6 +552,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Beautify code in place for VS Code
 
+### [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
+
+> Transform html to pug inside your Visual Studio Code, forget about using an external page anymore.
+
 ## [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
 
 > Transform quotes of ECMAScript string literals
@@ -612,10 +619,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
-## [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
-
-> Transform html to pug inside your Visual Studio Code, forget about using an external page anymore.
-
 # Uncategorized
 
 ## [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
@@ -663,7 +666,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > An open source ecosystem for IoT development: supports 350+ embedded boards, 20+ development platforms, 10+ frameworks. Arduino and ARM mbed compatible.
 
 ![](https://raw.githubusercontent.com/formulahendry/vscode-platformio/master/images/build.gif)
-
 
 ## [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
@@ -768,20 +770,20 @@ Tuff but sweet theme.
   <img src="./themes/screenshots/ultradracula.captain-sweetheart.png" width="600" />
 </a>
 
-### [Cobalt2 Theme Official by Wes Bos](https://vscodethemes.com/e/wesbos.theme-cobalt2)
-
-🔥 Official theme by Wes Bos.
-
-<a href="https://vscodethemes.com/e/wesbos.theme-cobalt2">
-  <img src="./themes/screenshots/wesbos.theme-cobalt2.png" width="600" />
-</a>
-
 ### [City Lights by Yummygumm](https://vscodethemes.com/e/Yummygum.city-lights-theme)
 
 🏙 Yummygum's Official City Lights suite
 
 <a href="http://citylights.xyz">
   <img src="./themes/screenshots/city-lights-yummygum.png" width="600" />
+</a>
+
+### [Cobalt2 Theme Official by Wes Bos](https://vscodethemes.com/e/wesbos.theme-cobalt2)
+
+🔥 Official theme by Wes Bos.
+
+<a href="https://vscodethemes.com/e/wesbos.theme-cobalt2">
+  <img src="./themes/screenshots/wesbos.theme-cobalt2.png" width="600" />
 </a>
 
 ### [Dracula Official by Dracula Theme](https://vscodethemes.com/e/dracula-theme.theme-dracula)
@@ -901,10 +903,10 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
   ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 - [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
+
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
 
 # License
 
