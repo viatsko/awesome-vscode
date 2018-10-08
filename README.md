@@ -112,6 +112,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [Vim Mode](#vim-mode)
+  - [VSCode 2 Slack](#[vscode-2-slack)
 - [Themes](#themes)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
@@ -733,6 +734,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Vim Mode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
 > Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+
+## [VSCode 2 Slack](https://marketplace.visualstudio.com/items?itemName=siesing.vscode2slack)
+
+> Sends messages and files, as yourself including your user name and avatar, to users, channels and groups with full editing capabilities in Slack. Supports multiple Slack workspaces.
+
+![](https://raw.githubusercontent.com/siesing/vscode2slack/master/images/postmessage.gif)
 
 # Themes
 
