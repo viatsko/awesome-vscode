@@ -385,8 +385,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
- > Provides Javascript and React/Redux snippets in ES7
- > Basic Methods
+
+> Provides Javascript and React/Redux snippets in ES7
+
+> Basic Methods
+
 | Prefix  | Method                                              |
 | ------: | --------------------------------------------------- |
 | `imp→`  | `import moduleName from 'module'`                   |
@@ -414,7 +417,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 | `cp→`   | `const { } = this.props`                            |
 | `cs→`   | `const { } = this.state`                            |
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ebb7619a9fe46cf814cec4555772653dc66bc8b8
 ### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
 
