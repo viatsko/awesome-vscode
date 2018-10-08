@@ -22,11 +22,13 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
+  - [Bash](#bash)
   - [C++](#c)
   - [C#](#c)
   - [CSS](#css)
   - [Go](#go)
   - [Haskell](#haskell)
+  - [Shell](#shell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Typescript](#typescript)
@@ -125,6 +127,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
+  - [Mno by u29dc](#mno-by-u29dc)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
@@ -214,6 +217,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ![1C-Syntax](https://cloud.githubusercontent.com/assets/1132840/13007621/9e730984-d1a2-11e5-8ff5-8f7945421184.PNG)
 
+## Bash
+
+- [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
+
 ## C++
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
@@ -254,6 +261,9 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Haskell
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
+## Shell
+
+- [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
 
 ## Java
 
@@ -845,6 +855,14 @@ The most epic theme now for Visual Studio Code.
 
 <a href="https://vscodethemes.com/e/Equinusocio.vsc-material-theme">
   <img src="./themes/screenshots/Equinusocio.vsc-material-theme.png" width="600" />
+</a>
+
+### [Mno by u29dc](https://vscodethemes.com/e/u29dc.mno)
+
+Minimal monochrome theme.
+
+<a href="https://vscodethemes.com/e/u29dc.mno">
+  <img src="./themes/screenshots/u29dc.mno.png" width="600" />
 </a>
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
