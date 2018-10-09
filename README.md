@@ -290,6 +290,12 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
 
+### Vue.js
+
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+> Vue.js tooling for VS Code. Including syntax-highlighting, snippets, linting, formatting and auto completion.
+
+
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
