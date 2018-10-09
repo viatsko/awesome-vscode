@@ -104,6 +104,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ftp-sync](#ftp-sync)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
+  - [carbon-now-sh](#carbon-now-sh)
   - [Quokka](#quokka)
   - [Remote Workspace](#remote-workspace)
   - [Runner](#runner)
@@ -687,6 +688,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Polaroid for your code 📸.
 
 ![Make a polaroid image of your code animation](https://raw.githubusercontent.com/octref/polacode/master/demo/usage.gif)
+
+## [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh)
+ > Send your code to [carbon.now.sh](https://carbon.now.sh).
+ ![Send your code to carbon.now.sh animation](https://user-images.githubusercontent.com/6516758/46617867-df765680-caeb-11e8-8899-95778cdcceb7.gif)
 
 ## [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
