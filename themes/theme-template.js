@@ -1,8 +1,8 @@
-const btn = document.getElementById('btn')
+const btn = document.getElementById ('btn')
 let count = 0
 
 function render() {  
-  btn.innerText = `Count: ${count}`
+  btn.innerText = `Count:  ${count}`
 }
 
 btn.addEventListener('click', () => {  
