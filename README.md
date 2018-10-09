@@ -257,6 +257,9 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
   ![Intellisense CSS class names](https://i.imgur.com/5crMfTj.gif)
 
+### Tailwind CSS IntelliSense
+> Syntax-highlighting, classname, `@apply`, `@screen` and `config` suggestions.
+
 ## Go
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
