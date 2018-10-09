@@ -1,0 +1,23 @@
+{
+  // Enable per-language
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+
+  // ESLint packageManager
+  "eslint.packageManager": "yarn",
+
+  // Excludes
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.idea": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+  "search.exclude": {
+    "**/public": true
+  }
+}
