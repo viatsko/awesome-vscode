@@ -14,7 +14,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 # Table of Contents
 
 - [Official](#official)
-- [People to Follow](#people-to-follow)
+- [Syntax](#syntax)
 - [Migrating from other editors](#migrating-from-other-editors)
   - [Migrating from Vim](#migrating-from-vim)
   - [Migrating from Atom](#migrating-from-atom)
@@ -131,7 +131,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
-- [Syntax](#syntax)
+- [People to Follow](#people-to-follow)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
