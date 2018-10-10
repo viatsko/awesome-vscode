@@ -94,6 +94,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Seti-UI](#seti-icons)
   - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Carbon-now-sh](#carbon-now-sh)
   - [Code Runner](#code-runner)
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
@@ -693,6 +694,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Polaroid for your code 📸.
 
 ![Make a polaroid image of your code animation](https://raw.githubusercontent.com/octref/polacode/master/demo/usage.gif)
+
+## [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh)
+ > Send your code to [carbon.now.sh](https://carbon.now.sh).
+ ![Send your code to carbon.now.sh animation](https://user-images.githubusercontent.com/6516758/46617867-df765680-caeb-11e8-8899-95778cdcceb7.gif)
 
 ## [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
