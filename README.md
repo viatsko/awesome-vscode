@@ -58,6 +58,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [Icon Fonts](#icon-fonts)
+  - [Import Cost](#import-cost)
   - [JS Parameter Annotations](#js-parameter-annotations)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
@@ -455,6 +456,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+
+## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size. 
+
+![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
 
 ## [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations)
 
