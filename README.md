@@ -94,6 +94,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Seti-UI](#seti-icons)
   - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Carbon](#Carbon)
   - [Code Runner](#code-runner)
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
@@ -642,6 +643,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [Carbon](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh)
+
+> You can simply highlight the code snippet you want to share and press `Alt+Cmd+A` / `Alt+Windows+A` and it will open a browser tab with a gorgeous image containing your code and customization options, ready for you to export and/or share on Twitter.
+
+![Create a image of your code ready to share!](https://user-images.githubusercontent.com/10369094/30791512-cb001438-a167-11e7-952b-f0f0e5c4499e.png)
 
 ## [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
