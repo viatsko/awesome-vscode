@@ -72,6 +72,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Settings Sync](#settings-sync)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
+  - [WakaTime](#wakatime)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
   - [Better Align](#better-align)
@@ -536,6 +537,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Cycle between single, double and backtick quotes
 
 ![Toggle Quotes](https://d3vv6lp55qjaqc.cloudfront.net/items/2V092N0u2O1a393Y0f28/Screen%20Recording%202018-10-04%20at%2009.26%20AM.gif?X-CloudApp-Visitor-Id=26998&v=e2908c88)
+
+## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+
+> Automatic time tracker and productivity dashboard showing how long you coded in each project, file, branch, and language.
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
