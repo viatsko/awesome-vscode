@@ -393,7 +393,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Bookmarks command screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-commands.png)
 
-![](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
+![Bookmarks toogle screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
 
 ## [Cacher - Code Snippets](https://marketplace.visualstudio.com/items?itemName=Cacher.cacher-vscode)
 
