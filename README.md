@@ -910,7 +910,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [@lannonbr](https://twitter.com/lannonbr) - Creator of vscode.rocks & JS Parameter Annotations extension
 - [@maeschli](https://twitter.com/maeschli) - VS Code Dev
 - [@mattbierner](https://twitter.com/code) - VS Code Dev
-- [@MrAhmadAwais](https://twitter.com/MrAhmadAwais) - Wordpress Core Dev. Creator of VSCode Pro course & Shades of Purple theme
+- [@MrAhmadAwais](https://twitter.com/MrAhmadAwais) - JS/WordPress Core Dev. Creator of VSCode.pro course & Shades of Purple theme
 - [@ramyanexus](https://twitter.com/ramyanexus) - VS Code Dev. Maintainer of Go extension
 - [@Tyriar](https://twitter.com/Tyriar) - VS Code Dev. Creator of xterm.js
 
