@@ -48,7 +48,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
   - [Cacher - Code Snippets](#cacher---code-snippets)
-  - [Copy Relative Path](#copy-relative-path)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
   - [Gi](#gi)
@@ -394,6 +393,8 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Bookmarks command screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-commands.png)
 
+![Bookmarks toogle screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
+
 ![](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
 
 ## [Cacher - Code Snippets](https://marketplace.visualstudio.com/items?itemName=Cacher.cacher-vscode)
@@ -401,12 +402,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Cacher is the code snippet organizer for pro developers. It is a cross-platform, cloud-based app used to curate a snippet library for you and your team. Extension requires a Pro or Team plan subscription.
 
 ![](https://cdn.cacher.io/vscode/vscode-cacher-demo.gif)
-
-## [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
-
-> Copy Relative Path from a File
-=======
-![Bookmarks toogle screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
