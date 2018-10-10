@@ -388,34 +388,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Provides Javascript and React/Redux snippets in ES7
 
-> Basic Methods
-
-| Prefix  | Method                                              |
-| ------: | --------------------------------------------------- |
-| `imp→`  | `import moduleName from 'module'`                   |
-| `imn→`  | `import 'module'`                                   |
-| `imd→`  | `import { destructuredModule } from 'module'`       |
-| `ime→`  | `import * as alias from 'module'`                   |
-| `ima→`  | `import { originalName as aliasName} from 'module'` |
-| `exp→`  | `export default moduleName`                         |
-| `exd→`  | `export { destructuredModule } from 'module'`       |
-| `exa→`  | `export { originalName as aliasName} from 'module'` |
-| `enf→`  | `export const functionName = (params) => { }`       |
-| `edf→`  | `export default (params) => { }`                    |
-| `met→`  | `methodName = (params) => { }`                      |
-| `fre→`  | `arrayName.forEach(element => { }`                  |
-| `fof→`  | `for(let itemName of objectName { }`                |
-| `fin→`  | `for(let itemName in objectName { }`                |
-| `anfn→` | `(params) => { }`                                   |
-| `nfn→`  | `const functionName = (params) => { }`              |
-| `dob→`  | `const {propName} = objectToDescruct`               |
-| `dar→`  | `const [propName] = arrayToDescruct`                |
-| `sti→`  | `setInterval(() => { }, intervalTime`               |
-| `sto→`  | `setTimeout(() => { }, delayTime`                   |
-| `prom→` | `return new Promise((resolve, reject) => { }`       |
-| `cmmb→` | `comment block`                                     |
-| `cp→`   | `const { } = this.props`                            |
-| `cs→`   | `const { } = this.state`                            |
+![es7-reactreduxgraphqlreact-native-snippets](https://user-images.githubusercontent.com/37667437/46757404-aa365800-cce7-11e8-80ca-9207b7a68dea.png)
 
 ### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
