@@ -94,6 +94,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Seti-UI](#seti-icons)
   - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Carbon](#Carbon)
   - [Code Runner](#code-runner)
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
