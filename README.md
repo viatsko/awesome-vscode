@@ -42,6 +42,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Read more](#read-more)
   - [Python](#python)
   - [ReasonML](#reasonml)
+  - [Ruby](#ruby)
   - [Rust](#rust)
 - [Productivity](#productivity)
   - [Azure Cosmos DB](#azure-cosmos-db)
@@ -367,6 +368,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## ReasonML
 
 - [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
+
+## Ruby
+
+- [Ruby](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop) - Linting. Rubocop is a code analyzer for ruby. There's an auto correct command "Ruby: autocorrect by rubocop" too.
 
 ## Rust
 
