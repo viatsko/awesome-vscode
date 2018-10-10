@@ -43,6 +43,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Python](#python)
   - [ReasonML](#reasonml)
   - [Rust](#rust)
+  - [Terraform](#terraform)
 - [Productivity](#productivity)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
@@ -371,6 +372,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## Rust
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
+
+## Terraform
+
+- [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
 # Productivity
 
