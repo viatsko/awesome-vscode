@@ -63,6 +63,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
+  - [Instant Markdown](#instant-markdown)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
   - [Paste JSON as Code](#paste-json-as-code)
@@ -482,6 +483,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > View and run your .NET Core tests directly in the editor.
 
 ![View and run your .NET Core tests directly in the editor animation](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer.gif)
+
+## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
+
+>Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
+
+![Instant Markdown Screencast](https://raw.githubusercontent.com/dbankier/vscode-instant-markdown/master/vscode-instant-markdown.gif)
+
 
 ## [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
