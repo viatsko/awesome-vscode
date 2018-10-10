@@ -399,7 +399,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Cacher is the code snippet organizer for pro developers. It is a cross-platform, cloud-based app used to curate a snippet library for you and your team. Extension requires a Pro or Team plan subscription.
 
-![](https://cdn.cacher.io/vscode/vscode-cacher-demo.gif)
+![Cacher demo screenshot](https://cdn.cacher.io/vscode/vscode-cacher-demo.gif)
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
