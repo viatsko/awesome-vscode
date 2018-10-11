@@ -111,6 +111,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Runner](#runner)
   - [Slack](#slack)
   - [Spotify](#spotify)
+  - [SVG](#svg)
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
 - [Themes](#themes)
@@ -728,6 +729,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
 
 ![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
+
+## [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
+
+> A Powerful SVG Language Support Extension(beta). Almost all the features you need to handle SVG.
+
+![SVG](https://raw.githubusercontent.com/lishu/vscode-svg/master/images/f1.png)
 
 ## [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 
