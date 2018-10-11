@@ -75,6 +75,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Toggle Quotes](#toggle-quotes)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
+  - [Unibeautify](#unibeautify)
   - [Better Align](#better-align)
   - [Auto Close Tag](#auto-close-tag)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -550,6 +551,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
 # Formatting & Beautification
+
+## [Unibeautify](https://marketplace.visualstudio.com/items?itemName=Glavin001.unibeautify-vscode)
+
+> Format any language inside VS Code! Give it a try! Find out more about Unibeautify
+> on: https://unibeautify.com/
 
 ## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
