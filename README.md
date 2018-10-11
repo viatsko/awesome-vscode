@@ -50,6 +50,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Bookmarks](#bookmarks)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
+  - [Duplicate Action](#duplicate-action)
   - [Gi](#gi)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
@@ -118,7 +119,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Ariake Dark by wart](#ariake-dark-by-wart)
   - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
   - [Ayu by teabyii](#ayu-by-teabyii)
-  - [Base16 Ocean Dark Extended by kleber-swf](#base16-ocean-dark-extended-by-kleber-swf)
   - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
   - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
   - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
@@ -412,6 +412,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Commands for upload or copy files of a workspace to a destination.
 
 ![Upload/copy files animation](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
+
+## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
+
+> Ability to duplicate files and directories.
 
 ### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
@@ -782,14 +786,6 @@ A simple theme with bright colors and comes in three versions — dark, light an
 
 <a href="https://vscodethemes.com/e/teabyii.ayu">
   <img src="./themes/screenshots/teabyii.ayu.png" width="600" />
-</a>
-
-### [Base16 Ocean Dark Extended by kleber-swf](https://vscodethemes.com/e/kleber-swf.ocean-dark-extended)
-
-Base16 Ocean Dark Theme extended to Visual Studio Code workbench.
-
-<a href="https://vscodethemes.com/e/kleber-swf.ocean-dark-extended">
-  <img src="./themes/screenshots/kleber-swf.ocean-dark-extended.png" width="600" />
 </a>
 
 ### [Captain Sweetheart by ultradracula](https://vscodethemes.com/e/ultradracula.captain-sweetheart)
