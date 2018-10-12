@@ -50,6 +50,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Bookmarks](#bookmarks)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
+  - [Duplicate Action](#duplicate-action)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
   - [Gi](#gi)
   - [Git History](#git-history)
@@ -412,6 +413,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Commands for upload or copy files of a workspace to a destination.
 
 ![Upload/copy files animation](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
+
+## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
+
+> Ability to duplicate files and directories.
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
