@@ -88,6 +88,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Wrap Selection](#wrap-selection)
   - [Formatting Toggle](#formatting-toggle)
   - [Bracket Pair Colorizer](#bracket-pair-colorizer)
+  - [Prettier](#prettier-vscode)
   - [Auto Import](#auto-import)
 - [Explorer Icons](#explorer-icons)
   - [City Lights Icons](#city-lights-icons)
@@ -625,6 +626,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 
 ![Bracket Pair Colorizer](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
+
+## [Prettier vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+> VS Code package to format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
 
 ## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 > Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
