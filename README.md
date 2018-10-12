@@ -110,6 +110,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
   - [Quokka](#quokka)
+  - [Rainglow](#rainglow)
   - [Remote Workspace](#remote-workspace)
   - [Runner](#runner)
   - [Slack](#slack)
@@ -725,6 +726,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Rapid prototyping playground for JavaScript and TypeScript in VS Code, with access to your project's files, inline reporting, code coverage and rich output formatting.
 
 ![Integrated JavaScript/TypeScript playground animation](https://quokkajs.com/assets/img/vsc1.gif)
+
+## [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+
+> Collection of 320+ beautiful syntax and UI themes.
+
+![](https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png)
 
 ## [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
 
