@@ -133,6 +133,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
+  - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
 - [People to Follow](#people-to-follow)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
@@ -901,6 +902,14 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
 
 <a href="https://vscodethemes.com/e/ahmadawais.shades-of-purple">
   <img src="./themes/screenshots/ahmadawais.shades-of-purple.png" width="600" />
+</a>
+
+### [Slime Theme by smlombardi](https://vscodethemes.com/e/smlombardi.slime)
+
+A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML, JS, TS, Markdown, and PHP files.
+
+<a href="https://vscodethemes.com/e/smlombardi.slime">
+  <img src="./themes/screenshots/slime.png" width="600" />
 </a>
 
 # People to Follow
