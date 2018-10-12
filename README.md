@@ -106,6 +106,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
+  - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
   - [Quokka](#quokka)
@@ -695,6 +696,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Auto-sync your work to remote FTP server
 
 ![Auto-sync your work to remote FTP server animation](https://i.imgur.com/W9h4pwW.gif)
+
+## [Highlight JSX/HTML tags](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
+
+> Highlights matching tags in the file.
+
+![](https://camo.githubusercontent.com/010b886fb93f49c56e4c7308ba0a5a1aca8a2db7/68747470733a2f2f692e696d67626f782e636f6d2f4455584c467657372e676966)
 
 ## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
 
