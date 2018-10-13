@@ -62,6 +62,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [Icon Fonts](#icon-fonts)
   - [JS Parameter Annotations](#js-parameter-annotations)
+  - [Jumpy](#jumpy)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
@@ -481,6 +482,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Provides annotations on function calls in JS/TS files to provide parameter names to arguments.
 
 ![JS Parameter Annotations](https://raw.githubusercontent.com/lannonbr/vscode-js-annotations/master/jsannotations.png)
+
+## [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
+
+> Provides fast cursor movement, inspired by Atom's package of the same name.
+
+![Jumpy](https://cloud.githubusercontent.com/assets/2899448/19660934/0481c44c-9a32-11e6-87cc-1f8913922ccb.gif)
 
 ## [Kanban](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
 
