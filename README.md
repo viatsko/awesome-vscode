@@ -115,6 +115,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Remote Workspace](#remote-workspace)
   - [Runner](#runner)
   - [Slack](#slack)
+  - [SmoothType](#smoothtype)
   - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
@@ -756,7 +757,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
-### [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
+## [SmoothType](https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype)
+
+> Add a smooth typing animation, similar to MS Office and the Windows 10 Mail app.
+
+![SmoothType Animation](https://raw.githubusercontent.com/spikespaz/vscode-smoothtype/master/images/preview.gif)
+
+## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
 > Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
 
 ![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
