@@ -26,6 +26,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Bash](#bash)
   - [C++](#c)
   - [C#](#c)
+  - [Clojure](#clojure)
   - [CSS](#css)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -250,6 +251,13 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 
 ![C# Extensions](https://raw.githubusercontent.com/jchannon/csharpextensions/master/featureimages/fullpropfromctor.gif)
+
+## Clojure
+
+### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
+> Integrated REPL, linting, inline eval, test runner, and more. Powered by Cider & nRepl.
+
+![Calva](https://github.com/BetterThanTomorrow/calva/blob/master/assets/howto/evaluate.gif)
 
 ## CSS
 
