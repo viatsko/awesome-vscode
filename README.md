@@ -137,6 +137,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
   - [Mno by u29dc](#mno-by-u29dc)
+  - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
@@ -922,6 +923,14 @@ Minimal monochrome theme.
 
 <a href="https://vscodethemes.com/e/u29dc.mno">
   <img src="./themes/screenshots/u29dc.mno.png" width="600" />
+</a>
+
+### [Monokai Pro by monokai (commercial)](https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode)
+
+Beautiful functionality for professional developers, from the author of the original Monokai color scheme.
+
+<a href="https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode">
+  <img src="./themes/screenshots/1079cc76.png" width="600" />
 </a>
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
