@@ -256,6 +256,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
 > Integrated REPL, linting, inline eval, test runner, and more. Powered by Cider & nRepl.
+
 ![Calva](https://github.com/BetterThanTomorrow/calva/blob/master/assets/howto/evaluate.gif)
 
 ## CSS
