@@ -129,7 +129,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
   - [Mno by u29dc](#mno-by-u29dc)
-  - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai)
+  - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
