@@ -872,7 +872,7 @@ Minimal monochrome theme.
   <img src="./themes/screenshots/u29dc.mno.png" width="600" />
 </a>
 
-### [Monokai Pro by monokai](https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode)
+### [Monokai Pro by monokai (commercial)](https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode)
 
 Beautiful functionality for professional developers, from the author of the original Monokai color scheme.
 
