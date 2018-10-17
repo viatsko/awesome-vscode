@@ -247,7 +247,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## C\#
 
-- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - Preview C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 
 - [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 
