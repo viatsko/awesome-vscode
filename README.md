@@ -35,6 +35,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [JavaScript](#javascript)
   - [Typescript](#typescript)
   - [Markdown](#markdown)
+    - [markdownlint](#markdownlint)
+    - [Markdown All in one](#markdown-all-in-one)
   - [PHP](#php)
     - [IntelliSense](#intellisense)
     - [Laravel](#laravel)
@@ -321,7 +323,15 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ## Markdown
 
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
+### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
+
+### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+> All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
+
+![Markdown All in One](https://user-images.githubusercontent.com/10897048/47027336-d8a9ac80-d199-11e8-9836-b8dbc4a97d1a.gif)
 
 ## PHP
 
