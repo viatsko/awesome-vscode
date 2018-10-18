@@ -110,7 +110,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
   - [Quokka](#quokka)
-  - [Rainglow](#rainglow)
   - [Remote Workspace](#remote-workspace)
   - [Runner](#runner)
   - [Slack](#slack)
@@ -136,6 +135,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
+  - [Rainglow](#rainglow)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
   - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
 - [People to Follow](#people-to-follow)
@@ -727,12 +727,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Integrated JavaScript/TypeScript playground animation](https://quokkajs.com/assets/img/vsc1.gif)
 
-## [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
-
-> Collection of 320+ beautiful syntax and UI themes.
-
-![](https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png)
-
 ## [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
 
 > Multi protocol support for things, like Azure blobs, S3 buckets, Dropbox, (S)FTP or WebDAV files, by using new [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider), especially for accessing resources like local files and folders in the editor as [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
@@ -922,6 +916,12 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
 <a href="https://vscodethemes.com/e/arcticicestudio.nord-visual-studio-code">
   <img src="./themes/screenshots/arcticicestudio.nord-visual-studio-code.png" width="600" />
 </a>
+
+## [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+
+Collection of 320+ beautiful syntax and UI themes.
+
+![](https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png)
 
 ### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
 
