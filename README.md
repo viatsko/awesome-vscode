@@ -139,6 +139,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
   - [Mno by u29dc](#mno-by-u29dc)
+  - [Monokai Oblique](#monokai-oblique-by-pushqrdx)
   - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
@@ -933,6 +934,14 @@ Minimal monochrome theme.
 
 <a href="https://vscodethemes.com/e/u29dc.mno">
   <img src="./themes/screenshots/u29dc.mno.png" width="600" />
+</a>
+
+### [Monokai Oblique by pushqrdx](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode)
+
+Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) and [Visual Studio IDE](https://github.com/pushqrdx/monokai).
+
+<a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">
+  <img src="./themes/screenshots/moblique.png" width="600" />
 </a>
 
 ### [Monokai Pro by monokai (commercial)](https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode)
