@@ -936,9 +936,9 @@ Minimal monochrome theme.
   <img src="./themes/screenshots/u29dc.mno.png" width="600" />
 </a>
 
-### [Monokai Oblique by pushqrdx](https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode)
+### [Monokai Oblique by pushqrdx](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode)
 
-Monokai inspired theme for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode) and [Visual Studio IDE](https://github.com/pushqrdx/monokai).
+Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) and [Visual Studio IDE](https://github.com/pushqrdx/monokai).
 
 <a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">
   <img src="./themes/screenshots/moblique.png" width="600" />
