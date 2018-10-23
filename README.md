@@ -24,6 +24,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
   - [Bash](#bash)
+    - [Bash IDE](#bash-ide)
+    - [Bash Debug](#bash-debug)
   - [C++](#c)
   - [C#](#c)
   - [Clojure](#clojure)
@@ -237,7 +239,13 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Bash
 
-- [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
+### [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
+> A language server for Bash
+
+### [Bash Debug](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug)
+> A debugger extension for Bash scripts based on `bashdb`
+
+![Bash Debug](https://user-images.githubusercontent.com/10897048/47375120-1a9a9b80-d722-11e8-819d-a0090540b2ba.gif)
 
 ## C++
 
