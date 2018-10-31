@@ -30,7 +30,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [C#](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
-  	- [Tachyons CSS Snippets](tachyons-css-snippets)
+  	- [Tachyons CSS Snippets](#tachyons-css-snippets)
   - [Go](#go)
   - [Haskell](#haskell)
   - [Shell](#shell)
