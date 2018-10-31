@@ -30,6 +30,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [C#](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
+  	- [Tachyons CSS Snippets](tachyons-css-snippets)
   - [Go](#go)
   - [Haskell](#haskell)
   - [Shell](#shell)
@@ -286,6 +287,11 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [Intellisense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace. Also supports React's className attribute.
 
   ![Intellisense CSS class names](https://i.imgur.com/5crMfTj.gif)
+
+### [Tachyons CSS Snippets](https://marketplace.visualstudio.com/items?itemName=thomasviaud.tachyons-snippets)
+> This extension provides snippets for all tachyons css classes.
+
+![Tachyons CSS Snippets](https://raw.githubusercontent.com/thomasviaud/tachyons-snippets/master/images/usage.gif)
 
 ## Go
 
