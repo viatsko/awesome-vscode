@@ -1,4 +1,4 @@
-## Name of an extension you are adding
+## Name of the extension you are adding
 
 ...
 
@@ -8,6 +8,10 @@
 
 ## Make sure that:
 
-[ ] Screenshot/GIF included (to demonstrate the plugin functionality)
+<!-- 
+Check off the checkboxes with an 'x' like this: [x] 
+-->
 
-[ ] ToC updated
+- [ ] Screenshot/GIF included (to demonstrate the plugin functionality)
+
+- [ ] ToC updated

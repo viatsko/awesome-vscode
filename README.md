@@ -25,8 +25,11 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
   - [Bash](#bash)
+    - [Bash IDE](#bash-ide)
+    - [Bash Debug](#bash-debug)
   - [C++](#c)
-  - [C\](#c)
+  - [C#](#c)
+  - [Clojure](#clojure)
   - [CSS](#css)
     - [CSS Peek](#css-peek)
   - [Go](#go)
@@ -37,6 +40,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Debugger for Chrome](#debugger-for-chrome)
   - [TypeScript](#typescript)
   - [Markdown](#markdown)
+    - [markdownlint](#markdownlint)
+    - [Markdown All in one](#markdown-all-in-one)
   - [PHP](#php)
     - [IntelliSense](#intellisense)
     - [Laravel](#laravel)
@@ -123,28 +128,28 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
 - [Themes](#themes)
-  - [UI](#ui)
-  - [Syntax](#syntax-1)
-    - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
-    - [Ariake Dark by wart](#ariake-dark-by-wart)
-    - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
-    - [Ayu by teabyii](#ayu-by-teabyii)
-    - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
-    - [City Lights by Yummygumm](#city-lights-by-yummygumm)
-    - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
-    - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
-    - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
-    - [Eva Theme by fisheva](#eva-theme-by-fisheva)
-    - [Fairy Floss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
-    - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
-    - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
-    - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
-    - [Mno by u29dc](#mno-by-u29dc)
-    - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
-    - [Plastic by Will Stone](#plastic-by-will-stone)
-    - [Nord by arcticicestudio](#nord-by-arcticicestudio)
-    - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
-    - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
+  - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
+  - [Ariake Dark by wart](#ariake-dark-by-wart)
+  - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
+  - [Ayu by teabyii](#ayu-by-teabyii)
+  - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
+  - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
+  - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
+  - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
+  - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
+  - [Eva Theme by fisheva](#eva-theme-by-fisheva)
+  - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
+  - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
+  - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
+  - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
+  - [Mno by u29dc](#mno-by-u29dc)
+  - [Monokai Oblique](#monokai-oblique-by-pushqrdx)
+  - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
+  - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
+  - [Plastic by Will Stone](#plastic-by-will-stone)
+  - [Nord by arcticicestudio](#nord-by-arcticicestudio)
+  - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
+  - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
 - [People to Follow](#people-to-follow)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
@@ -236,7 +241,13 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Bash
 
-- [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
+### [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
+> A language server for Bash
+
+### [Bash Debug](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug)
+> A debugger extension for Bash scripts based on `bashdb`
+
+![Bash Debug](https://user-images.githubusercontent.com/10897048/47375120-1a9a9b80-d722-11e8-819d-a0090540b2ba.gif)
 
 ## C++
 
@@ -247,13 +258,20 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## C\#
 
-- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - Preview C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 
 - [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 
 ![C# Extensions](https://raw.githubusercontent.com/jchannon/csharpextensions/master/featureimages/fullpropfromctor.gif)
+
+## Clojure
+
+### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
+> Integrated REPL, linting, inline eval, test runner, and more. Powered by Cider & nRepl.
+
+![Calva](https://github.com/BetterThanTomorrow/calva/blob/master/assets/howto/evaluate.gif)
 
 ## CSS
 
@@ -316,7 +334,15 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ## Markdown
 
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
+### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
+
+### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+> All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
+
+![Markdown All in One](https://user-images.githubusercontent.com/10897048/47027336-d8a9ac80-d199-11e8-9836-b8dbc4a97d1a.gif)
 
 ## PHP
 
@@ -924,6 +950,22 @@ Minimal monochrome theme.
 
 <a href="https://vscodethemes.com/e/u29dc.mno">
   <img src="./themes/screenshots/u29dc.mno.png" width="600" />
+</a>
+
+### [Monokai Oblique by pushqrdx](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode)
+
+Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) and [Visual Studio IDE](https://github.com/pushqrdx/monokai).
+
+<a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">
+  <img src="./themes/screenshots/moblique.png" width="600" />
+</a>
+
+### [Monokai Pro by monokai (commercial)](https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode)
+
+Beautiful functionality for professional developers, from the author of the original Monokai color scheme.
+
+<a href="https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode">
+  <img src="./themes/screenshots/1079cc76.png" width="600" />
 </a>
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
