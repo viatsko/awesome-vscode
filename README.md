@@ -332,6 +332,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ## TypeScript
 
 - [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
+- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Code outline view of your open TS, sort and organize your imports. 
 
 ## Markdown
 
