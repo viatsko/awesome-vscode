@@ -147,6 +147,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
+  - [Rainglow by Dayle Rees](#rainglow-by-dayle-rees)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
   - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
 - [People to Follow](#people-to-follow)
@@ -990,6 +991,14 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
 
 <a href="https://vscodethemes.com/e/arcticicestudio.nord-visual-studio-code">
   <img src="./themes/screenshots/arcticicestudio.nord-visual-studio-code.png" width="600" />
+</a>
+
+## [Rainglow by Dayle Rees](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+
+Collection of 320+ beautiful syntax and UI themes.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow">
+  <img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/gloom-contrast.png" width="600" />
 </a>
 
 ### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
