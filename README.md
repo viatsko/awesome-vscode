@@ -993,11 +993,11 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
   <img src="./themes/screenshots/arcticicestudio.nord-visual-studio-code.png" width="600" />
 </a>
 
-## [Rainglow by Dayle Rees](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+## [Rainglow by Dayle Rees](https://vscodethemes.com/e/daylerees.rainglow)
 
 Collection of 320+ beautiful syntax and UI themes.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow">
+<a href="https://vscodethemes.com/e/daylerees.rainglow">
   <img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/gloom-contrast.png" width="600" />
 </a>
 
