@@ -151,7 +151,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
   - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
 - [People to Follow](#people-to-follow)
-- [Courses](#courses)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
   - [Libraries](#libraries)
@@ -1017,11 +1016,6 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 <a href="https://vscodethemes.com/e/smlombardi.slime">
   <img src="./themes/screenshots/slime.png" width="600" />
 </a>
-
-# Courses
-A curated list of courses on VSCode to become a pro VSCode user.
-
-- [VSCode Power User](https://vscode.pro/) - Learn to use VSCode as a pro by [@MrAhmadAwais](https://twitter.com/MrAhmadAwais).
 
 # People to Follow
 
