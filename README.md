@@ -1021,7 +1021,7 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 # Courses
 A curated list of courses on VSCode to become a pro VSCode user.
 
-- [VSCode Power User](VSCode.pro) - Learn to use VSCode as a pro by [@MrAhmadAwais](https://twitter.com/MrAhmadAwais).
+- [VSCode Power User](https://vscode.pro/) - Learn to use VSCode as a pro by [@MrAhmadAwais](https://twitter.com/MrAhmadAwais).
 
 # People to Follow
 
