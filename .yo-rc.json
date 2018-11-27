@@ -13,5 +13,9 @@
       "sample": "techs",
       "router": "router"
     }
+  },
+  "generator-mocha": {
+    "ui": "tdd",
+    "rjs": false
   }
 }
