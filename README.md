@@ -155,6 +155,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Documentation](#documentation)
   - [Libraries](#libraries)
   - [Tools](#tools)
+- [Visual Studio Code Power User Course](#visual-studio-code-power-user-course)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -1065,6 +1066,17 @@ A list of Twitter accounts for various people in the VS Code Community
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
 - [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
+
+# Visual Studio Code Power User Course
+
+After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) switched to VSCode, built [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has lanched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
+
+<a href="https://VSCode.pro/">
+  <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/featured.jpg" width="600" />
+</a>
+
+- [VSCode.pro](https://VSCode.pro/) - 📺 Huge five hours 65 videos VSCode course.
+- [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
 
 # Contribute
 
