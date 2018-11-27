@@ -692,7 +692,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
 > Quickly translate selected text right in your code
 
-![Vscode Google Translate](https://github.com/funkyremi/vscode-google-translate/raw/master/demo.gif)
+![Vscode Google Translate](https://raw.githubusercontent.com/funkyremi/vscode-google-translate/master/demo.gif)
 
 ## Explorer Icons
 
