@@ -1075,6 +1075,7 @@ After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais
   <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/featured.jpg" width="600" />
 </a>
 
+
 - [VSCode.pro](https://VSCode.pro/) - 📺 Huge five hours 65 videos VSCode course.
 - [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
 
