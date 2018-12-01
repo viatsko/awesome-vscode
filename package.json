@@ -107,7 +107,7 @@
     "yeoman-welcome": "^1.0.1",
     "yo": "^2.0.5"
   },
-  "name": "awesome",
+  "name": "init",
   "description": "<br/>\r <div align=\"center\">\r   <img width=\"380px\" src=\"https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png\">\r </div>\r <br/>\r <div align=\"center\">",
   "version": "1.0.0",
   "main": "gulpfile.js",
@@ -121,10 +121,13 @@
     "type": "git",
     "url": "git+https://github.com/edwinfrc/awesome-vscode.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "edwinfrc",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/edwinfrc/awesome-vscode/issues"
   },
-  "homepage": "https://github.com/edwinfrc/awesome-vscode#readme"
+  "homepage": "https://github.com/edwinfrc/awesome-vscode#readme",
+  "keywords": [
+    "init"
+  ]
 }
