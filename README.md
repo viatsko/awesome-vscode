@@ -80,6 +80,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [REST Client](#rest-client)
   - [Remote VSCode](#remote-vscode)
   - [Settings Sync](#settings-sync)
+  - [Sundial](#sundial)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
   - [WakaTime](#wakatime)
