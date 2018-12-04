@@ -592,6 +592,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Settings Sync](https://i.imgur.com/QZtaBca.gif)
 
+## [Sundial](https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-sundial)
+
+> Sundial changes your theme based on your day and night cycle. It is inspired by the OSX Mojave dynamic backgrounds and Night Owl for Mac. It should reduce eye pain when working in the night or on the day.
+
+![Sundial](https://raw.githubusercontent.com/muuvmuuv/vscode-sundial/master/assets/banner.jpg)
+
 ## [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 > Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
