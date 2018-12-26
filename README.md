@@ -590,7 +590,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Extend VS Code using custom JavaScript without creating extensions.
 
-![ScriptBox](https://github.com/calebmpeterson/scriptbox/raw/master/documentation/demo.gif)
+![ScriptBox](https://raw.githubusercontent.com/calebmpeterson/scriptbox/master/documentation/demo.gif)
 
 ## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
