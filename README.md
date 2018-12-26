@@ -306,7 +306,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-  ![Debugger for Java](https://raw.githubusercontent.com/Microsoft/vscode-java-pack/master/vscode-java-debug.gif)
 - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
 - [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
@@ -487,7 +486,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
 
-![GitLens inline git information animation](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/gitlens-preview1.gif)
+![GitLens inline git information animation](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/docs/gitlens-preview.gif)
 
 ## [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
 
@@ -609,7 +608,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
-> Scaffold projects using [Yeoman](http://yeoman.io/)
+> Scaffold projects using [Yeoman](https://yeoman.io/)
 
 ![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
