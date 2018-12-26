@@ -615,7 +615,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
-> Scaffold projects using [Yeoman](http://yeoman.io)
+> Scaffold projects using [Yeoman](https://yeoman.io)
 
 ![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
