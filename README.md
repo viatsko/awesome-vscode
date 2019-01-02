@@ -155,7 +155,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Documentation](#documentation)
   - [Libraries](#libraries)
   - [Tools](#tools)
-- [Online Courses](#online-courses]
+- [Online Courses](#online-courses)
   - [Visual Studio Code Power User Course (commercial)](#visual-studio-code-power-user-course-commercial)
 - [Contribute](#contribute)
 - [License](#license)
