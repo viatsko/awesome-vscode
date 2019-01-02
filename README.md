@@ -269,7 +269,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 
-![MSBuild Project Tools](https://github.com/tintoy/msbuild-project-tools-vscode/raw/master/docs/images/extension-in-action.gif)
+![MSBuild Project Tools](https://raw.githubusercontent.com/tintoy/msbuild-project-tools-vscode/master/docs/images/extension-in-action.gif)
 
 ## Clojure
 
