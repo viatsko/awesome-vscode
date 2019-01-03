@@ -46,6 +46,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Other extensions](#other-extensions)
     - [Read more](#read-more)
   - [Python](#python)
+    - [TensorFlow](#tensorflow)
   - [ReasonML](#reasonml)
   - [Rust](#rust)
   - [Terraform](#terraform)
@@ -410,6 +411,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+
+### TensorFlow
+
+- [TensorFlow Snippets](https://marketplace.visualstudio.com/items?itemName=vahidk.tensorflow-snippets) - This extension includes a set of useful code snippets for developing TensorFlow models in Visual Studio Code.
+
+![TensorFlow Snippets GIF](https://raw.githubusercontent.com/vahidk/tensorflow-snippets/master/images/framework.gif)
 
 ## ReasonML
 
