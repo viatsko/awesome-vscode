@@ -232,6 +232,12 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 > Popular Intellij IDEA keybindings for VS Code.
 
+# Using VS Code with particular technologies
+
+Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).
+
+Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+
 # Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
