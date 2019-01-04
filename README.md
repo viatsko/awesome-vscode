@@ -68,12 +68,14 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [Icon Fonts](#icon-fonts)
+  - [Import Cost](#import-cost)
   - [JS Parameter Annotations](#js-parameter-annotations)
   - [Jumpy](#jumpy)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
+  - [Instant Markdown](#instant-markdown)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
   - [Paste JSON as Code](#paste-json-as-code)
@@ -532,6 +534,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
 
+## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size. 
+
+![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
+
 ## [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations)
 
 > Provides annotations on function calls in JS/TS files to provide parameter names to arguments.
@@ -565,6 +573,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > View and run your .NET Core tests directly in the editor.
 
 ![View and run your .NET Core tests directly in the editor animation](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer.gif)
+
+## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
+
+>Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
+
+![Instant Markdown Screencast](https://raw.githubusercontent.com/dbankier/vscode-instant-markdown/master/vscode-instant-markdown.gif)
+
 
 ## [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
