@@ -21,6 +21,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Sublime Text](#migrating-from-sublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
   - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
+- [Using VS Code with particular technologies](#using-vs-code-with-particular-technologies)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
   - [Bash](#bash)
@@ -46,6 +47,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Other extensions](#other-extensions)
     - [Read more](#read-more)
   - [Python](#python)
+    - [TensorFlow](#tensorflow)
   - [ReasonML](#reasonml)
   - [Rust](#rust)
   - [Terraform](#terraform)
@@ -66,12 +68,14 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [Icon Fonts](#icon-fonts)
+  - [Import Cost](#import-cost)
   - [JS Parameter Annotations](#js-parameter-annotations)
   - [Jumpy](#jumpy)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
+  - [Instant Markdown](#instant-markdown)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
   - [Paste JSON as Code](#paste-json-as-code)
@@ -99,6 +103,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Bracket Pair Colorizer](#bracket-pair-colorizer)
   - [Auto Import](#auto-import)
   - [shell-format](#shell-format)
+  - [Vscode Google Translate](#vscode-google-translate)
 - [Explorer Icons](#explorer-icons)
   - [City Lights Icons](#city-lights-icons)
   - [VSCode Icons](#vscode-icons)
@@ -156,6 +161,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Documentation](#documentation)
   - [Libraries](#libraries)
   - [Tools](#tools)
+- [Online Courses](#online-courses)
+  - [Visual Studio Code Power User Course (commercial)](#visual-studio-code-power-user-course-commercial)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -211,7 +218,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 ## [Migrating from Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
-> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode
 
 ## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
 
@@ -228,6 +235,12 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 ## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
 
 > Popular Intellij IDEA keybindings for VS Code.
+
+# Using VS Code with particular technologies
+
+Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).
+
+Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
 # Lint and IntelliSense
 
@@ -268,6 +281,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ![C# Extensions](https://raw.githubusercontent.com/jchannon/csharpextensions/master/featureimages/fullpropfromctor.gif)
 
+- [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
+
+![MSBuild Project Tools](https://raw.githubusercontent.com/tintoy/msbuild-project-tools-vscode/master/docs/images/extension-in-action.gif)
+
 ## Clojure
 
 ### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
@@ -307,7 +324,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-  ![Debugger for Java](https://raw.githubusercontent.com/Microsoft/vscode-java-pack/master/vscode-java-debug.gif)
 - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
 - [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
@@ -324,6 +340,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
+- [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
@@ -407,6 +424,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
+### TensorFlow
+
+- [TensorFlow Snippets](https://marketplace.visualstudio.com/items?itemName=vahidk.tensorflow-snippets) - This extension includes a set of useful code snippets for developing TensorFlow models in Visual Studio Code.
+
+![TensorFlow Snippets GIF](https://raw.githubusercontent.com/vahidk/tensorflow-snippets/master/images/framework.gif)
+
 ## ReasonML
 
 - [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
@@ -488,7 +511,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
 
-![GitLens inline git information animation](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/gitlens-preview1.gif)
+![GitLens inline git information animation](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/docs/gitlens-preview.gif)
 
 ## [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
 
@@ -511,6 +534,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+
+## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size. 
+
+![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
 
 ## [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations)
 
@@ -545,6 +574,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > View and run your .NET Core tests directly in the editor.
 
 ![View and run your .NET Core tests directly in the editor animation](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer.gif)
+
+## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
+
+>Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
+
+![Instant Markdown Screencast](https://raw.githubusercontent.com/dbankier/vscode-instant-markdown/master/vscode-instant-markdown.gif)
+
 
 ## [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
@@ -610,7 +646,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
-> Scaffold projects using [Yeoman](http://yeoman.io/)
+> Scaffold projects using [Yeoman](https://yeoman.io/)
 
 ![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
@@ -693,6 +729,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > shell script & Dockerfile & dotenv format
 
 ![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
+
+## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
+> Quickly translate selected text right in your code
+
+![Vscode Google Translate](https://raw.githubusercontent.com/funkyremi/vscode-google-translate/master/demo.gif)
 
 ## Explorer Icons
 
@@ -1053,6 +1094,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Libraries
 
+- [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - The vscode.d.ts node module
 - [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
@@ -1072,11 +1114,22 @@ A list of Twitter accounts for various people in the VS Code Community
 
 - [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
 
+# Online Courses
+
+## Visual Studio Code Power User Course (commercial)
+
+After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) switched to VSCode, built [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has lanched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
+
+- [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
+- [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
+
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 # License
+
+I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Microsoft).
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
