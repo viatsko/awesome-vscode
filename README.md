@@ -217,7 +217,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 ## [Migrating from Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
-> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode
 
 ## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
 
