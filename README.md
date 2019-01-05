@@ -102,6 +102,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Formatting Toggle](#formatting-toggle)
   - [Bracket Pair Colorizer](#bracket-pair-colorizer)
   - [Auto Import](#auto-import)
+  - [shell-format](#shell-format)
   - [Vscode Google Translate](#vscode-google-translate)
 - [Explorer Icons](#explorer-icons)
   - [City Lights Icons](#city-lights-icons)
@@ -723,6 +724,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
 ![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
+
+## [shell-format](https://github.com/foxundermoon/vs-shell-format)
+> shell script & Dockerfile & dotenv format
+
+![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
 
 ## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
 > Quickly translate selected text right in your code
