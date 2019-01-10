@@ -351,7 +351,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ## TypeScript
 
 - [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
-- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Code outline view of your open TS, sort and organize your imports. 
+- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Code outline view of your open TS, sort and organize your imports.
 
 ## Markdown
 
@@ -408,6 +408,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ```
 
 ### Other extensions
+
+- [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Formatting for the HTML in PHP files. Runs before the save action so you can still have a PHP formatter.
+
+![Format HTML in PHP](https://raw.githubusercontent.com/RiFi2k/format-html-in-php/master/format-html-in-php.gif)
 
 - [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - XDebug extension for Visual Studio Code
