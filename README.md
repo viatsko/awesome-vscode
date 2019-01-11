@@ -613,7 +613,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Power Tools](https://marketplace.visualstudio.com/items?itemName=ego-digital.vscode-powertools)
 
-> Extends Visual Studio Code via Node.js based scripts, without writing separate extensions
+> Extends Visual Studio Code via things like Node.js based scripts or shell commands, without writing separate extensions
 
 ![Power Tools](https://raw.githubusercontent.com/egodigital/vscode-powertools/master/img/demo.gif)
 
