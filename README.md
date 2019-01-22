@@ -80,6 +80,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Partial Diff](#partial-diff)
   - [Paste JSON as Code](#paste-json-as-code)
   - [Path IntelliSense](#path-intellisense)
+  - [Power Tools](#power-tools)
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
   - [Remote VSCode](#remote-vscode)
@@ -609,6 +610,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Visual Studio Code plugin that autocompletes filenames
 
 ![Autocompletion for filenames animation](https://i.giphy.com/iaHeUiDeTUZuo.gif)
+
+## [Power Tools](https://marketplace.visualstudio.com/items?itemName=ego-digital.vscode-powertools)
+
+> Extends Visual Studio Code via things like Node.js based scripts or shell commands, without writing separate extensions
+
+![Power Tools](https://raw.githubusercontent.com/egodigital/vscode-powertools/master/img/demo.gif)
 
 ## [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
