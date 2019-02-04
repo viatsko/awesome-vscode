@@ -134,6 +134,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [SVG](#svg)
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
+  - [ESDOC MDN](#esdoc-mdn)
 - [Themes](#themes)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
@@ -886,6 +887,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Highlight multiple text patterns with different colors at the same time. Highlighting a single text pattern can be done with the editor's search functionality, but it cannot highlight multiple patterns at the same time, and this is where this extension comes handy.
 
 ![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
+
+## [ESDOC MDN](https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn)
+
+> Quickly bring up helpful MDN documentation in the editor
+
+![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
 # Themes
 
