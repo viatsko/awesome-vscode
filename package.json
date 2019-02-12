@@ -2,5 +2,6 @@
   "dependencies": {
     "run": "^1.4.0",
     "yarn": "^1.13.0"
-  }
+  },
+  "version": "1.13.2"
 }
