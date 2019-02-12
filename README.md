@@ -120,6 +120,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
   - [Dash](#dash)
+  - [Discourage](#discourage)
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [Encourage](#encourage)
@@ -801,6 +802,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Dash integration in Visual Studio Code
 
 ![Dash integration screenshot](https://cdn-images-1.medium.com/max/2000/1*sqGllC-pgXNaEBfB-cxG9Q.png)
+
+## [Discourage](https://marketplace.visualstudio.com/items?itemName=sepehr500.discourage)
+> Ever feel like there is a bit too much encouragement in your office? Isn't too much of anything bad? Discourage is meant to bring your life into balance by offering a little discouragement to counter all the encourgement inflating your ego.
+
+![Discourage](https://raw.githubusercontent.com/sepehr500/vscode-discourage/master/gitimage.png)
 
 ## [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
 
