@@ -5,5 +5,8 @@
   "repository": "git@github.com:viatsko/awesome-vscode.git",
   "author": "Valerii Iatsko <viatsko@viatsko.me>",
   "license": "CC0-1.0",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "husky": "^1.3.1"
+  }
 }
