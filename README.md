@@ -135,6 +135,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [ESDOC MDN](#esdoc-mdn)
+  - [Interface generator](#interface-generator)
 - [Themes](#themes)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
@@ -893,6 +894,15 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Quickly bring up helpful MDN documentation in the editor
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
+
+
+![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
+
+## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
+
+> Quickly generate interface definitions from typescript class
+
+![Interface generator](https://raw.githubusercontent.com/dotupNET/dotup-vscode-interface-generator/master/images/video2.gif)
 
 # Themes
 
