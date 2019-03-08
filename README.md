@@ -159,6 +159,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
   - [Rainglow by Dayle Rees](#rainglow-by-dayle-rees)
+  - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
   - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
 - [People to Follow](#people-to-follow)
@@ -1082,12 +1083,20 @@ An arctic, north-bluish clean and elegant Visual Studio Code theme.
   <img src="./themes/screenshots/arcticicestudio.nord-visual-studio-code.png" width="600" />
 </a>
 
-## [Rainglow by Dayle Rees](https://vscodethemes.com/e/daylerees.rainglow)
+### [Rainglow by Dayle Rees](https://vscodethemes.com/e/daylerees.rainglow)
 
 Collection of 320+ beautiful syntax and UI themes.
 
 <a href="https://vscodethemes.com/e/daylerees.rainglow">
   <img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/gloom-contrast.png" width="600" />
+</a>
+
+### [Relaxed Theme by Michael Kühnel](https://vscodethemes.com/e/mischah.relaxed-theme)
+
+A relaxed theme to take a more relaxed view of things.
+
+<a href="https://vscodethemes.com/e/mischah.relaxed-theme">
+  <img src="./themes/screenshots/relaxed-theme.png" width="600" />
 </a>
 
 ### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
