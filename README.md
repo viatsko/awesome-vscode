@@ -55,6 +55,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
+  - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
   - [Duplicate Action](#duplicate-action)
@@ -471,6 +472,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Bookmarks command screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-commands.png)
 
 ![Bookmarks toogle screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
+
+## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
+
+> An extension for big projects or monorepos that colors your tab/titlebar based on the current package
+
+![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/example_gif.gif)
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
