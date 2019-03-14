@@ -124,6 +124,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
+  - [Indent Rainbow](#indent-rainbow)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
   - [Quokka](#quokka)
@@ -591,6 +592,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![View and run your .NET Core tests directly in the editor animation](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer.gif)
 
+
 ## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 
 >Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
@@ -827,6 +829,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Highlights matching tags in the file.
 
 ![](https://camo.githubusercontent.com/010b886fb93f49c56e4c7308ba0a5a1aca8a2db7/68747470733a2f2f692e696d67626f782e636f6d2f4455584c467657372e676966)
+
+## [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+> A simple extension to make indentation more readable.
+
+![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
 
 ## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
 
