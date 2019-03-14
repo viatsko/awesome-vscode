@@ -592,7 +592,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![View and run your .NET Core tests directly in the editor animation](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer.gif)
 
-
 ## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 
 >Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
