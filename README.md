@@ -228,19 +228,19 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 ## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
 
-> Popular Atom keybindings for Visual Studio Code
+> Popular Atom key bindings for Visual Studio Code
 
 ## [Migrating from Sublime Text](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 
-> Popular Sublime Text keybindings for VS Code.
+> Popular Sublime Text key bindings for VS Code.
 
 ## [Migrating from Visual Studio](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
 
-> Popular Visual Studio keybindings for VS Code.
+> Popular Visual Studio key bindings for VS Code.
 
 ## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
 
-> Popular Intellij IDEA keybindings for VS Code.
+> Popular Intellij IDEA key bindings for VS Code.
 
 # Using VS Code with particular technologies
 
@@ -646,7 +646,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-> Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using GitHub Gist
+> Synchronize settings, snippets, themes, file icons, launch, key bindings, workspaces and extensions across multiple machines using GitHub Gist
 
 ![Settings Sync](https://i.imgur.com/QZtaBca.gif)
 
@@ -808,7 +808,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
 
-> Levarage your favourite shell commands to edit text
+> Leverage your favourite shell commands to edit text
 
 ![Edit with Shell Command](https://raw.githubusercontent.com/ryu1kn/vscode-edit-with-shell/master/images/animations/public.gif)
 
@@ -963,7 +963,7 @@ Tuff but sweet theme.
   <img src="./themes/screenshots/ultradracula.captain-sweetheart.png" width="600" />
 </a>
 
-### [City Lights by Yummygumm](https://vscodethemes.com/e/Yummygum.city-lights-theme)
+### [City Lights by Yummygum](https://vscodethemes.com/e/Yummygum.city-lights-theme)
 
 🏙 Yummygum's Official City Lights suite
 
@@ -1061,7 +1061,7 @@ Beautiful functionality for professional developers, from the author of the orig
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
 
-A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with color blindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
   <img src="./themes/screenshots/night-owl.png" width=600 />
@@ -1169,7 +1169,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Visual Studio Code Power User Course (commercial)
 
-After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) switched to VSCode, built [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has lanched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
+After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) switched to VSCode, built [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has launched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
 
 - [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
 - [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
