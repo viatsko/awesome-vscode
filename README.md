@@ -158,7 +158,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
-  - [Niketa Theme by Dejan Toteff](#niketa-theme-by-michael-kühnel)
+  - [Niketa Theme by Dejan Toteff](#niketa-theme-by-dejan-toteff)
   - [Rainglow by Dayle Rees](#rainglow-by-dayle-rees)
   - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
