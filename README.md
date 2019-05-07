@@ -190,6 +190,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Bolt](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language)
 - [Bond](https://marketplace.visualstudio.com/items?itemName=vicey.vscode-bond)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
+- [Crystal](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 - [EJS](https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support)
