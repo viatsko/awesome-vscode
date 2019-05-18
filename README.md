@@ -115,6 +115,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Browser Preview](#browser-preview)
   - [Carbon-now-sh](#carbon-now-sh)
   - [Code Runner](#code-runner)
+  - [Code Time](#code-time)
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
   - [Dash](#dash)
@@ -788,6 +789,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Run code snippet or code file for multiple languages: C, C++, Java, JavaScript, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, C# Script, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script
 
 ![Run a snippet or file animation](https://raw.githubusercontent.com/formulahendry/vscode-code-runner/master/images/usage.gif)
+
+## [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
+
+> Automatic time reports by project and other programming metrics right in VS Code.
+
+![Code Time](https://raw.githubusercontent.com/swdotcom/swdc-vscode/master/images/vs-code-dashboard.gif)
 
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
