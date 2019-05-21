@@ -1118,7 +1118,7 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme)
 
-Collection of 15 light themes separated in 4 groups by background's brightness.
+Collection of 18 light themes separated in 4 groups by background's brightness.
 
 <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="./themes/screenshots/niketa-theme.png" width="600" />
