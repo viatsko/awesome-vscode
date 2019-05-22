@@ -115,6 +115,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Browser Preview](#browser-preview)
   - [Carbon-now-sh](#carbon-now-sh)
   - [Code Runner](#code-runner)
+  - [Code Time](#code-time)
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
   - [Dash](#dash)
@@ -124,6 +125,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
+  - [Indent Rainbow](#indent-rainbow)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
   - [Quokka](#quokka)
@@ -790,6 +792,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Run a snippet or file animation](https://raw.githubusercontent.com/formulahendry/vscode-code-runner/master/images/usage.gif)
 
+## [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
+
+> Automatic time reports by project and other programming metrics right in VS Code.
+
+![Code Time](https://raw.githubusercontent.com/swdotcom/swdc-vscode/master/images/vs-code-dashboard.gif)
+
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 > Highlight web colors in your editor
@@ -828,6 +836,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Highlights matching tags in the file.
 
 ![](https://camo.githubusercontent.com/010b886fb93f49c56e4c7308ba0a5a1aca8a2db7/68747470733a2f2f692e696d67626f782e636f6d2f4455584c467657372e676966)
+
+## [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+> A simple extension to make indentation more readable.
+
+![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
 
 ## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
 
