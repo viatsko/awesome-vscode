@@ -159,8 +159,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
   - [Plastic by Will Stone](#plastic-by-will-stone)
-  - [Nord by arcticicestudio](#nord-by-arcticicestudio)
   - [Niketa Theme by Dejan Toteff](#niketa-theme-by-dejan-toteff)
+  - [Nord by arcticicestudio](#nord-by-arcticicestudio)
   - [Rainglow by Dayle Rees](#rainglow-by-dayle-rees)
   - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
@@ -1132,9 +1132,9 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme)
 
-Collection of 18 light themes separated in 4 groups by background's brightness.
+ Collection of 18 light themes separated in 4 groups by background's brightness.
 
-<a href="https://vscodethemes.com/e/mischah.relaxed-theme">
+ <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="./themes/screenshots/niketa-theme.png" width="600" />
 </a>
 
@@ -1181,7 +1181,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
-- [Themer](https://themer.dev ) - Easily create your own theme for VS Code (and matching ones for your other tools).
+- [Themer](https://themer.dev) - Easily create your own theme for VS Code (and matching ones for your other tools).
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
