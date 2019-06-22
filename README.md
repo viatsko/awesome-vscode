@@ -280,7 +280,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
-## C\#
+## C\#, ASP .NET and .NET Core
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 
@@ -297,6 +297,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
 
 ![VSCode Solution Explorer](https://raw.githubusercontent.com/fernandoescolar/vscode-solution-explorer/master/images/vscode-solution-explorer-2.gif)
+
+- [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+
+![.NET Core Test Explorer](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer-065.gif)
 
 ## Clojure
 
