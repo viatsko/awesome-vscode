@@ -294,6 +294,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ![MSBuild Project Tools](https://raw.githubusercontent.com/tintoy/msbuild-project-tools-vscode/master/docs/images/extension-in-action.gif)
 
+- [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
+
+![VSCode Solution Explorer](https://raw.githubusercontent.com/fernandoescolar/vscode-solution-explorer/master/images/vscode-solution-explorer-2.gif)
+
 ## Clojure
 
 ### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
