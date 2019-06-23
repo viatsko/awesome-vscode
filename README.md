@@ -152,6 +152,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Eva Theme by fisheva](#eva-theme-by-fisheva)
   - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
   - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
+  - [Jellybeans Theme by Dimitar Nonov](#jellybeans-theme-by-dimitar-nonov)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
   - [Mno by u29dc](#mno-by-u29dc)
@@ -1040,6 +1041,14 @@ GitHub Theme for Visual Studio Code.
 
 <a href="https://vscodethemes.com/e/thomaspink.theme-github">
   <img src="./themes/screenshots/thomaspink.theme-github.png" width="600" />
+</a>
+
+### [Jellybeans Theme by Dimitar Nonov](https://vscodethemes.com/e/DimitarNonov.jellybeans-theme)
+
+Jellybeans Theme for Visual Studio Code.
+
+<a href="https://vscodethemes.com/e/DimitarNonov.jellybeans-theme">
+  <img src="./themes/screenshots/jellybeans-theme.png" width="600" />
 </a>
 
 ### [Material Palenight Theme by whizkydee](https://vscodethemes.com/e/whizkydee.material-palenight-theme)
