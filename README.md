@@ -690,6 +690,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
+## Camel Humps
+
+[Damir's Corner: Camel Humps Navigation in VS Code](http://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
+
 # Formatting & Beautification
 
 ## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
