@@ -91,6 +91,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Toggle Quotes](#toggle-quotes)
   - [WakaTime](#wakatime)
   - [Yo](#yo)
+  - [Camel humps](#camel-humps)
 - [Formatting/Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Close Tag](#auto-close-tag)
