@@ -83,6 +83,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Paste JSON as Code](#paste-json-as-code)
   - [Path IntelliSense](#path-intellisense)
   - [Power Tools](#power-tools)
+  - [PrintCode](#printcode)
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
   - [Remote VSCode](#remote-vscode)
@@ -645,6 +646,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Extends Visual Studio Code via things like Node.js based scripts or shell commands, without writing separate extensions
 
 ![Power Tools](https://raw.githubusercontent.com/egodigital/vscode-powertools/master/img/demo.gif)
+
+## [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
+
+> PrintCode converts the code being edited into an HTML file, displays it by browser and prints it.
+
+![PrintCode](https://raw.githubusercontent.com/nobuhito/vscode.printcode/master/printcode.gif)
 
 ## [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
