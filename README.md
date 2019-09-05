@@ -21,6 +21,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Sublime Text](#migrating-from-sublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
   - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
+  - [Camel humps](#camel-humps)
 - [Using VS Code with particular technologies](#using-vs-code-with-particular-technologies)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
@@ -91,7 +92,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Toggle Quotes](#toggle-quotes)
   - [WakaTime](#wakatime)
   - [Yo](#yo)
-  - [Camel humps](#camel-humps)
 - [Formatting/Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Close Tag](#auto-close-tag)
@@ -247,6 +247,10 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 ## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
 
 > Popular Intellij IDEA key bindings for VS Code.
+
+## [Camel Humps](http://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
+
+> Like with Visual Studio and Resharper or Intellij IDEA
 
 # Using VS Code with particular technologies
 
@@ -690,10 +694,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Scaffold projects using [Yeoman](https://yeoman.io/)
 
 ![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
-
-## Camel Humps
-
-[Damir's Corner: Camel Humps Navigation in VS Code](http://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
 
 # Formatting & Beautification
 
