@@ -288,6 +288,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
+#### More
+
+* [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
+
 ## C\#, ASP .NET and .NET Core
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
@@ -577,7 +581,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size. 
+> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
 
 ![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
 
