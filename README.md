@@ -886,7 +886,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Rapid prototyping playground for JavaScript and TypeScript in VS Code, with access to your project's files, inline reporting, code coverage and rich output formatting.
 
-![Integrated JavaScript/TypeScript playground animation](https://quokkajs.com/assets/img/vsc1.gif)
+![Integrated JavaScript/TypeScript playground animation](https://quokkajs.com/assets/img/main-video.gif)
 
 ## [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
 
