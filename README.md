@@ -124,11 +124,13 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Dash](#dash)
   - [Debugger for Chrome](#debugger-for-chrome)
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [ESDOC MDN](#esdoc-mdn)
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [Indent Rainbow](#indent-rainbow)
+  - [Interface generator](#interface-generator)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
   - [Quokka](#quokka)
@@ -140,8 +142,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [SVG](#svg)
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
-  - [ESDOC MDN](#esdoc-mdn)
-  - [Interface generator](#interface-generator)
+  - [Time Capsule](#time-capsule)
 - [Themes](#themes)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
@@ -949,6 +950,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Quickly generate interface definitions from typescript class
 
 ![Interface generator](https://raw.githubusercontent.com/dotupNET/dotup-vscode-interface-generator/master/images/video2.gif)
+
+## [Time Capsule](https://marketplace.visualstudio.com/items?itemName=JohnSusek.time-capsule)
+ 
+ > Time Machine client for VSCode.
+ 
+![Screen Shot 2019-09-28 at 6 42 14 PM-1](https://user-images.githubusercontent.com/611996/65823650-db24db00-e21f-11e9-928e-578e15e0a426.png)
 
 # Themes
 
