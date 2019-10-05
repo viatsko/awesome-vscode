@@ -961,6 +961,14 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ## Syntax
 
+### [2077 theme by Endormi](https://vscodethemes.com/e/Endormi.2077-theme)
+
+Cyberpunk 2077 inspired theme
+
+<a href="https://vscodethemes.com/e/Endormi.2077-theme">
+  <img src="./themes/screenshots/endormi.2077-theme.png" width="600" />
+</a>
+
 ### [An Old Hope Theme by Dustin Sanders](https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode)
 
 VSCode theme inspired by a galaxy far far away...
