@@ -143,6 +143,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ESDOC MDN](#esdoc-mdn)
   - [Interface generator](#interface-generator)
 - [Themes](#themes)
+  - [2077 Theme by Endormi](#2077-theme-by-endormi)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
   - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
