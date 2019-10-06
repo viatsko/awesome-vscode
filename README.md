@@ -115,6 +115,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Seti-UI](#seti-icons)
   - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Ascii Tree Generator](#ascii-tree-generator)
   - [Browser Preview](#browser-preview)
   - [Carbon-now-sh](#carbon-now-sh)
   - [Code Runner](#code-runner)
