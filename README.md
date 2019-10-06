@@ -803,6 +803,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 # Uncategorized
 
+## [Ascii Tree Generator](https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator)
+
+> A VS Code extension to generate ascii tree of directories or format selected text to tree strings.
+
+![Ascii Tree Generator Demo](https://github.com/aprilandjan/ascii-tree-generator/raw/master/images/text.gif)
+
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
 > Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
