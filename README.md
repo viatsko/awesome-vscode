@@ -1,5 +1,5 @@
-<div align="center">
 <br/>
+<div align="center">
   <img width="380px" src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">
 </div>
 <br/>
