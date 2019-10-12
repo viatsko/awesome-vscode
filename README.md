@@ -53,6 +53,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Rust](#rust)
   - [Terraform](#terraform)
 - [Productivity](#productivity)
+  - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
@@ -469,6 +470,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
 # Productivity
+
+## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
+
+> Displays a graphical preview of Azure Resource Manager (ARM) templates. The view will show all resources with the official Azure icons and also linkage between the resources.
+
+![Displays a graphical preview of Azure Resource Manager (ARM) templates](https://github.com/benc-uk/armview-vscode/raw/master/assets/readme/screen1.png)
 
 ## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 
