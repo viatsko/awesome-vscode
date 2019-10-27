@@ -146,6 +146,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
   - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
+  - [Atomize by emroussel](#atomize-by-emroussel)
   - [Ayu by teabyii](#ayu-by-teabyii)
   - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
   - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
@@ -984,6 +985,14 @@ One Dark Theme based on Atom.
 
 <a href="https://vscodethemes.com/e/akamud.vscode-theme-onedark">
   <img src="./themes/screenshots/akamud.vscode-theme-onedark.png" width="600" />
+</a>
+
+### [Atomize by emroussel](https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme)
+
+A detailed and accurate Atom One Dark Theme.
+
+<a href="https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme">
+  <img src="./themes/screenshots/atomize.png" width="600" />
 </a>
 
 ### [Ayu by teabyii](https://vscodethemes.com/e/teabyii.ayu)
