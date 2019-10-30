@@ -1,3 +1,4 @@
+
 <br/>
 <div align="center">
   <img width="380px" src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">
@@ -353,6 +354,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode#overview) - Babel extension ported from Sublime Text
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
+![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
 See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
