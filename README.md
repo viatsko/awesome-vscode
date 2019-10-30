@@ -808,7 +808,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > A VS Code extension to generate ascii tree of directories or format selected text to tree strings.
 
-![Ascii Tree Generator Demo](https://github.com/aprilandjan/ascii-tree-generator/raw/master/images/text.gif)
+![Ascii Tree Generator Demo](https://raw.githubusercontent.com/aprilandjan/ascii-tree-generator/master/images/text.gif)
 
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
