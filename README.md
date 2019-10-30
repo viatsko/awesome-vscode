@@ -144,6 +144,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ESDOC MDN](#esdoc-mdn)
   - [Interface generator](#interface-generator)
 - [Themes](#themes)
+  - [2077 Theme by Endormi](#2077-theme-by-endormi)
   - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
   - [Ariake Dark by wart](#ariake-dark-by-wart)
   - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
@@ -966,6 +967,14 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 - [Pragmatic Essence](https://github.com/orta/Essence)
 
 ## Syntax
+
+### [2077 theme by Endormi](https://vscodethemes.com/e/Endormi.2077-theme)
+
+Cyberpunk 2077 inspired theme
+
+<a href="https://vscodethemes.com/e/Endormi.2077-theme">
+  <img src="./themes/screenshots/endormi.2077-theme.png" width="600" />
+</a>
 
 ### [An Old Hope Theme by Dustin Sanders](https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode)
 
