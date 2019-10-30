@@ -116,6 +116,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Seti-UI](#seti-icons)
   - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Ascii Tree Generator](#ascii-tree-generator)
   - [Browser Preview](#browser-preview)
   - [Carbon-now-sh](#carbon-now-sh)
   - [Code Runner](#code-runner)
@@ -809,6 +810,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [Ascii Tree Generator](https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator)
+
+> A VS Code extension to generate ascii tree of directories or format selected text to tree strings.
+
+![Ascii Tree Generator Demo](https://raw.githubusercontent.com/aprilandjan/ascii-tree-generator/master/images/text.gif)
 
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
