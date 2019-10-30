@@ -210,6 +210,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [Hive SQL](https://marketplace.visualstudio.com/items?itemName=josephtbradley.hive-sql)
+- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
