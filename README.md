@@ -72,6 +72,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [GitLab Workflow](#gitlab-workflow)
+  - [Gradle Tasks](#gradle-tasks)
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [JS Parameter Annotations](#js-parameter-annotations)
@@ -581,6 +582,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
 
 ![GitLab Workflow](https://gitlab.com/fatihacet/gitlab-vscode-extension/raw/master/src/assets/_issues-in-vscode.png)
+
+#### [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
+
+> Run gradle tasks in VS Code.
+
+![Gradle Tasks](https://raw.githubusercontent.com/badsyntax/vscode-gradle/master/images/screencast.gif)
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
