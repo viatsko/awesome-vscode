@@ -483,7 +483,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Displays a graphical preview of Azure Resource Manager (ARM) templates. The view will show all resources with the official Azure icons and also linkage between the resources.
 
-![Displays a graphical preview of Azure Resource Manager (ARM) templates](https://github.com/benc-uk/armview-vscode/raw/master/assets/readme/screen1.png)
+![Displays a graphical preview of Azure Resource Manager (ARM) templates](https://raw.githubusercontent.com/benc-uk/armview-vscode/master/assets/readme/screen1.png)
 
 ## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 
@@ -509,7 +509,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
 
-![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/example_gif.gif)
+![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/coverGif.gif)
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
@@ -984,7 +984,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/flagello/Essence)
+- [Essence](https://github.com/essence-language/vscode-extension)
 - [Pragmatic Essence](https://github.com/orta/Essence)
 
 ## Syntax
