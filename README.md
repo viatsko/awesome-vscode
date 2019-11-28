@@ -313,10 +313,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Clojure
 
-### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
+### [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva)
 > Integrated REPL, linting, inline eval, test runner, and more. Powered by Cider & nRepl.
 
-![Calva](https://github.com/BetterThanTomorrow/calva/blob/master/assets/howto/evaluate.gif)
+![Calva](https://raw.githubusercontent.com/BetterThanTomorrow/calva/master/assets/howto/top-level-comment-eval.gif)
 
 ## CSS
 
