@@ -91,6 +91,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [PrintCode](#printcode)
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
+  - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
   - [Settings Sync](#settings-sync)
   - [Todo Tree](#todo-tree)
@@ -688,6 +689,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Easily switch between projects.
 
 ![Switch between projects screenshot](https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/project-manager-commands.png)
+
+## [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+
+> Allows users to open any folder in a container, on a remote machine, container or in Windows Subsystem for Linux(WSL) and take advantage of VS Code's full feature set.
+
+![Remote SSH extension at work](https://microsoft.github.io/vscode-remote-release/images/ssh-readme.gif)
 
 ## [Remote VSCode](https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode)
 
