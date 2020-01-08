@@ -62,6 +62,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
   - [Duplicate Action](#duplicate-action)
+  - [Error Lens](#error-lens)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
   - [Gi](#gi)
   - [Git History](#git-history)
@@ -528,6 +529,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
 > Ability to duplicate files and directories.
+
+## [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+> Show language diagnostics inline (errors/warnings/...).
+
+![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
