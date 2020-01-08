@@ -30,7 +30,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Bash IDE](#bash-ide)
     - [Bash Debug](#bash-debug)
   - [C++](#c)
-  - [C#](#c)
+  - [C#](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Go](#go)
