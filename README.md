@@ -26,6 +26,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Using VS Code with particular technologies](#using-vs-code-with-particular-technologies)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
+  - [AutoHotkey](#AutoHotkey)
   - [Bash](#bash)
     - [Bash IDE](#bash-ide)
     - [Bash Debug](#bash-debug)
@@ -283,6 +284,19 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## 1C
 
 - [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
+
+## AutoHotkey
+
+### [AutoHotkey](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey)
+> Language support. Syntax Highlighting, Comments and Snippets
+
+### [AutoHotkey++](https://marketplace.visualstudio.com/items?itemName=vinnyjames.vscode-autohotkey-vj)
+> Go to Definition, Signature helper and Code formatter
+
+### [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager)
+> All you need to develop ahk scripts. Extension for interacting with ahk executables
+
+![AutoHotkey Manager](https://raw.githubusercontent.com/Denis-net/vscode-ahk-manager/master/media/vs-ahk-manager.gif)
 
 ## Bash
 
