@@ -180,7 +180,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
   - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
-  - [Tinacious-design-syntax by tinacious](#tinacious-design-syntax)
+  - [Tinacious design syntax by tinacious](#tinacious-design-syntax-by-tinacious)
 - [People to Follow](#people-to-follow)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
@@ -1251,7 +1251,7 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 </a>
 
 
-### [Tinacious design syntax by tinacious](https://github.com/tinacious/vscode-tinacious-design-syntax)
+### [Tinacious design syntax by Tinacious](https://github.com/tinacious/vscode-tinacious-design-syntax)
 
 Tinacious Design Syntax is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
