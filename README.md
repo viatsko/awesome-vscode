@@ -29,6 +29,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Bash](#bash)
     - [Bash IDE](#bash-ide)
     - [Bash Debug](#bash-debug)
+    - [Shellman](#shellman)
   - [C++](#c)
   - [C#](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
@@ -294,6 +295,11 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 > A debugger extension for Bash scripts based on `bashdb`
 
 ![Bash Debug](https://user-images.githubusercontent.com/10897048/47375120-1a9a9b80-d722-11e8-819d-a0090540b2ba.gif)
+
+### [Shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman)
+> Bash script snippets extension
+
+![Shellman](https://raw.githubusercontent.com/yousefvand/shellman/master/images/demo.gif)
 
 ## C++
 
