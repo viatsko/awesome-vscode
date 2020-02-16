@@ -180,6 +180,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
   - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
+  - [Tinacious design syntax by Tinacious](#tinacious-design-syntax-by-tinacious)
 - [People to Follow](#people-to-follow)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
@@ -1248,6 +1249,25 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
  <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="./themes/screenshots/niketa-theme.png" width="600" />
 </a>
+
+
+### [Tinacious design syntax by Tinacious](https://github.com/tinacious/vscode-tinacious-design-syntax)
+
+Tinacious Design Syntax is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
+
+#### Dark 
+  
+<a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
+  <img src="https://github.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
+</a>
+
+#### Light 
+
+<a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
+  <img src="https://github.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
+</a>
+
+
 
 # People to Follow
 
