@@ -266,7 +266,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 > Popular Intellij IDEA key bindings for VS Code.
 
-## [Camel Humps](http://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
+## [Camel Humps](https://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
 
 > Like with Visual Studio and Resharper or Intellij IDEA
 
@@ -352,7 +352,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ![CSS Peek](https://github.com/pranaygp/vscode-css-peek/blob/master/working.gif)
 
-- [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS.
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   Parse CSS,SCSS, LESS and add vendor prefixes automatically.
   ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
@@ -384,7 +384,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## JavaScript
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
-- [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode#overview) - Babel extension ported from Sublime Text
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
 ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
@@ -534,10 +533,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Mark lines and jump to them
 
-![Bookmarks command screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-commands.png)
-
-![Bookmarks toogle screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
-
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
@@ -580,8 +575,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
 > View git log, file or line History
-
-![View git log, file or line history animation](https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/fileHistoryCommand.gif)
 
 ## [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 
@@ -1278,13 +1271,13 @@ Tinacious Design Syntax is a syntax theme that uses a bright palette of colours 
 #### Dark 
   
 <a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
-  <img src="https://github.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
+  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
 </a>
 
 #### Light 
 
 <a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
-  <img src="https://github.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
+  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
 </a>
 
 
