@@ -328,7 +328,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 #### More
 
 * [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
-* [How to setup VS Code for C++ with clangd support](https://stackoverflow.com/a/59820115)
 
 ## C\#, ASP .NET and .NET Core
 
