@@ -291,11 +291,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## AutoHotkey
 
-### [AutoHotkey](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey)
-> Language support. Syntax Highlighting, Comments and Snippets
-
-### [AutoHotkey++](https://marketplace.visualstudio.com/items?itemName=vinnyjames.vscode-autohotkey-vj)
-> Go to Definition, Signature helper and Code formatter
+### [AutoHotkey Plus](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
+> Syntax Highlighting, Snippets, Go to Definition, Signature helper and Code formatter
 
 ### [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager)
 > All you need to develop ahk scripts. Extension for interacting with ahk executables
