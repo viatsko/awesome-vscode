@@ -465,6 +465,10 @@ These extensions provide slightly different sets of features. While the first on
 
 ![Support for dotenv file syntax screenshot](https://raw.githubusercontent.com/mikestead/vscode-dotenv/master/images/screenshot.png)
 
+- [Laravel Extra Intellisense](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense) - Laravel routes, views, validations and ... autocomplete.
+
+![Laravel Extra Intellisense](https://raw.githubusercontent.com/amir9480/vscode-laravel-extra-intellisense/master/images/screenshot.gif)
+
 ### Twig
 
 - [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
@@ -583,7 +587,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
-> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples. 
+> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
 
 ![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
@@ -1288,13 +1292,13 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 
 Tinacious Design Syntax is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
 
-#### Dark 
-  
+#### Dark
+
 <a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
   <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
 </a>
 
-#### Light 
+#### Light
 
 <a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
   <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
