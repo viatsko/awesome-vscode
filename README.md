@@ -36,6 +36,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Go](#go)
+  - [Groovy](#groovy)
   - [Haskell](#haskell)
   - [Shell](#shell)
   - [Java](#java)
@@ -364,6 +365,12 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Go
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
+
+## Groovy
+
+- [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
+
+![VsCode Groovy Lint](https://github.com/nvuillam/vscode-groovy-lint/raw/master/images/vscode-anim.gif)
 
 ## Haskell
 
