@@ -150,6 +150,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Slack](#slack)
   - [SmoothType](#smoothtype)
   - [Spotify](#spotify)
+  - [Strokey](#strokey)
   - [SVG](#svg)
   - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
@@ -1014,6 +1015,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
 
 ![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
+
+## [Strokey](https://marketplace.visualstudio.com/items?itemName=drfrost.strokey)
+> This extension will count all keystrokes for you, daily, weekly, monthly, yearly. You better focus on typing those algorithms!
+
+![strokey](https://i.imgur.com/2R8ukX8.png)
 
 ## [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
