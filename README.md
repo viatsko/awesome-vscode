@@ -676,6 +676,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![live-server](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 
+## [Laravel Traveller](https://marketplace.visualstudio.com/items?itemName=freshbitsweb.laravel-traveller)
+
+> Travel through your Laravel app by just clicking on links.
+
+![Laravel Traveller](https://raw.githubusercontent.com/freshbitsweb/laravel-traveller/master/images/open_latest_log_file.gif)
+
 ## [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 
 > Override the regular Copy and Cut commands to keep selections in a clipboard ring
