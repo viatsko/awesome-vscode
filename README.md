@@ -84,6 +84,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [JS Parameter Annotations](#js-parameter-annotations)
   - [Jumpy](#jumpy)
   - [Kanban](#kanban)
+  - [Laravel Traveller](#laravel-traveller)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
@@ -670,17 +671,17 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Simple Kanban board for use in Visual Studio Code, with time tracking and Markdown support.
 
-## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
-> Launch a development local Server with live reload feature for static & dynamic pages.
-
-![live-server](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
-
 ## [Laravel Traveller](https://marketplace.visualstudio.com/items?itemName=freshbitsweb.laravel-traveller)
 
 > Travel through your Laravel app by just clicking on links.
 
 ![Laravel Traveller](https://raw.githubusercontent.com/freshbitsweb/laravel-traveller/master/images/open_latest_log_file.gif)
+
+## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+> Launch a development local Server with live reload feature for static & dynamic pages.
+
+![live-server](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 
 ## [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 
