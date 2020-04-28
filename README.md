@@ -86,6 +86,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
+  - [ngrok for VSCode](#ngrok-for-vscode)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
   - [i18n Ally](#i18n-ally)
   - [Instant Markdown](#instant-markdown)
@@ -679,6 +680,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 
 > Override the regular Copy and Cut commands to keep selections in a clipboard ring
+
+## [ngrok for VSCode](https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode)
+
+> Control [ngrok](https://ngrok.com/) from the VSCode command palette
+
+![ngrok for VSCode](https://raw.githubusercontent.com/philnash/ngrok-for-vscode/master/images/start.gif)
 
 ## [Dotnet Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 
