@@ -50,6 +50,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [IntelliSense](#intellisense)
     - [Laravel](#laravel)
     - [Twig](#twig)
+    - [Smarty](#smarty)
     - [Other extensions](#other-extensions)
     - [Read more](#read-more)
   - [Python](#python)
@@ -486,6 +487,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
   }
 }
 ```
+
+### Smarty
+
+#### [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
+> Smarty template support with formatting, folding, snippets, syntax highlighting and more.
+
+![Smarty Template Support](https://raw.githubusercontent.com/aswinkumar863/smarty-vscode-support/master/images/preview.gif)
 
 ### Other extensions
 
