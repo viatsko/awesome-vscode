@@ -1292,11 +1292,6 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
   <img src="./themes/screenshots/niketa-theme.png" width="600" />
 </a>
 
-
-### [Tinacious design syntax by Tinacious](https://github.com/tinacious/vscode-tinacious-design-syntax)
-
-Tinacious Design Syntax is a syntax theme that uses a bright palette of colours including pink, blue, turquoise, green, purple, and orange.
-
 #### Dark 
   
 <a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
