@@ -164,6 +164,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
   - [Atomize by emroussel](#atomize-by-emroussel)
   - [Ayu by teabyii](#ayu-by-teabyii)
+  - [Borealis Theme by Alexander Eckert](#borealis-theme-by-alexander-eckert)
   - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
   - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
   - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
@@ -1114,6 +1115,14 @@ A simple theme with bright colors and comes in three versions — dark, light an
 
 <a href="https://vscodethemes.com/e/teabyii.ayu">
   <img src="./themes/screenshots/teabyii.ayu.png" width="600" />
+</a>
+
+### [Borealis Theme by Alexander Eckert](https://vscodethemes.com/e/eckertalex.borealis)
+
+VS Code theme inspired by the calm colors of the aurora borealis in Alaska.
+
+<a href="https://vscodethemes.com/e/eckertalex.borealis">
+  <img src="./themes/screenshots/eckertalex.borealis.png" width="600" />
 </a>
 
 ### [Captain Sweetheart by ultradracula](https://vscodethemes.com/e/ultradracula.captain-sweetheart)
