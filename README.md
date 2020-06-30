@@ -777,6 +777,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Settings Sync](https://i.imgur.com/QZtaBca.gif)
 
+## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
+
+> All-in-one extension for text manipulation: filtering (grep), remove lines, insert number sequences and GUIDs, format content as table, change case, converting numbers and more. Great for finding information in logs and manipulating text.
+
+![Text Power Tools](https://raw.githubusercontent.com/qcz/vscode-text-power-tools/89a1d9d7be3edfc9bcf112fe427c662655cb60cc/images/filtering.gif)
+
 ## [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 > Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
