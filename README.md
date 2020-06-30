@@ -103,6 +103,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
   - [Settings Sync](#settings-sync)
+  - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
   - [WakaTime](#wakatime)
