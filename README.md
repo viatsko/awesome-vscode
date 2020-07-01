@@ -105,6 +105,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Settings Sync](#settings-sync)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
+  - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
@@ -788,6 +789,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Cycle between single, double and backtick quotes
 
 ![Toggle Quotes](https://d3vv6lp55qjaqc.cloudfront.net/items/2V092N0u2O1a393Y0f28/Screen%20Recording%202018-10-04%20at%2009.26%20AM.gif?X-CloudApp-Visitor-Id=26998&v=e2908c88)
+
+## [Typescript Destructure](https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-typescript-destructure-plugin)
+
+> TypeScript Language Service Plugin providing a set of source actions for easy objects destructuring
+
+![Typescript Destructure](https://github.com/tusaeff/vscode-typescript-destructure-plugin/raw/master/assets/destructure-to-constant.gif)
 
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
