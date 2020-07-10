@@ -52,6 +52,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Twig](#twig)
     - [Other extensions](#other-extensions)
     - [Read more](#read-more)
+  - [POV-Ray](#pov-ray)
   - [Python](#python)
     - [TensorFlow](#tensorflow)
   - [ReasonML](#reasonml)
@@ -237,6 +238,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
+- [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray)
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
@@ -499,6 +501,14 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ### Read more
 
 - [Configuring Visual Studio Code for Drupal](https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code)
+
+## POV-Ray
+
+- [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray) - Persistence of Vision Ray Tracer (POV-Ray) Extension, includes Syntax Highlighting and Snippets for common POV-Ray scene elements, Render the current scene from within Visual Studio Code
+
+![Animated GIF of POV-Ray in Visual Studio Code](https://raw.githubusercontent.com/jmaxwilson/vscode-povray/master/images/vscode-povray-demo.gif)
+
+![Animated GIF of POV-Ray Snippets](https://raw.githubusercontent.com/jmaxwilson/vscode-povray/master/images/vscode-povray-snippets-demo.gif)
 
 ## Python
 
