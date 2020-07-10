@@ -508,8 +508,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Animated GIF of POV-Ray in Visual Studio Code](https://raw.githubusercontent.com/jmaxwilson/vscode-povray/master/images/vscode-povray-demo.gif)
 
-![Animated GIF of POV-Ray Snippets](https://raw.githubusercontent.com/jmaxwilson/vscode-povray/master/images/vscode-povray-snippets-demo.gif)
-
 ## Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
