@@ -147,6 +147,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ftp-sync](#ftp-sync)
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [Indent Rainbow](#indent-rainbow)
+  - [iTerm2 Theme Sync](#iterm2-theme-sync)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
   - [Quokka](#quokka)
@@ -992,6 +993,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > A simple extension to make indentation more readable.
 
 ![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
+
+## [iTerm2 Theme Sync](https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-iterm2-theme-sync)
+
+> Syncs selected VSCode theme with iTerm2 color profile
+
+![iTerm2 Theme Sync](https://raw.githubusercontent.com/tusaeff/vscode-iterm2-theme-sync/master/screencast.gif)
 
 ## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
 
