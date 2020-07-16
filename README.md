@@ -683,7 +683,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [ngrok for VSCode](https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode)
 
-> Control [ngrok](https://ngrok.com/) from the VSCode command palette
+> ngrok allows you to expose a web server running on your local machine to the internet. Just tell ngrok what port your web server is listening on. This extension allows you to control [ngrok](https://ngrok.com/) from the VSCode command palette
 
 ![ngrok for VSCode](https://raw.githubusercontent.com/philnash/ngrok-for-vscode/master/images/start.gif)
 
