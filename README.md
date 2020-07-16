@@ -327,7 +327,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## C\#, ASP .NET and .NET Core
 
-- [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 - [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
@@ -361,13 +361,13 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Go
 
-- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
+- [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Rich language support for the Go language.
 
 ## Groovy
 
 - [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
 
-![VsCode Groovy Lint](https://github.com/nvuillam/vscode-groovy-lint/raw/master/images/vscode-anim.gif)
+![VsCode Groovy Lint](https://raw.githubusercontent.com/nvuillam/vscode-groovy-lint/master/images/vscode-anim.gif)
 
 ## Haskell
 
@@ -516,11 +516,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Rust
 
-- [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
+- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
 
 ## Terraform
 
-- [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
+- [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
 # Productivity
 
@@ -629,10 +629,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
-## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow)
+## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
 
-![GitLab Workflow](https://gitlab.com/fatihacet/gitlab-vscode-extension/raw/master/src/assets/_issues-in-vscode.png)
+![GitLab Workflow](https://gitlab.com/gitlab-org/gitlab-vscode-extension/-/raw/master/src/assets/_issues-in-vscode.png)
 
 #### [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
@@ -647,8 +647,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 > This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
-
-![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
 
 ## [Jira and Bitbucket](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode)
 
@@ -794,7 +792,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > TypeScript Language Service Plugin providing a set of source actions for easy objects destructuring
 
-![Typescript Destructure](https://github.com/tusaeff/vscode-typescript-destructure-plugin/raw/master/assets/destructure-to-constant.gif)
+![Typescript Destructure](https://raw.githubusercontent.com/tusaeff/vscode-typescript-destructure-plugin/master/assets/destructure-to-constant.gif)
 
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
@@ -1001,12 +999,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Rapid prototyping playground for JavaScript and TypeScript in VS Code, with access to your project's files, inline reporting, code coverage and rich output formatting.
 
 ![Integrated JavaScript/TypeScript playground animation](https://quokkajs.com/assets/img/main-video.gif)
-
-## [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
-
-> Multi protocol support for things, like Azure blobs, S3 buckets, Dropbox, (S)FTP or WebDAV files, by using new [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider), especially for accessing resources like local files and folders in the editor as [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
-
-![Remote Workspace animation](https://raw.githubusercontent.com/mkloubert/vscode-remote-workspace/master/img/demo1.gif)
 
 ## [Runner](https://marketplace.visualstudio.com/items?itemName=mattn.Runner)
 
@@ -1298,20 +1290,6 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
  <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="./themes/screenshots/niketa-theme.png" width="600" />
 </a>
-
-#### Dark 
-  
-<a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
-  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
-</a>
-
-#### Light 
-
-<a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
-  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
-</a>
-
-
 
 # People to Follow
 
