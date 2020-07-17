@@ -77,6 +77,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
   - [Git Indicators](#git-indicators)
+  - [GitDuck](#gitduck)
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [GitLab Workflow](#gitlab-workflow)
@@ -638,6 +639,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
+
+## [GitDuck](https://marketplace.visualstudio.com/items?itemName=gitduck.code-streaming)
+
+> GitDuck is a video chat tool built for developers. It enables you to talk, share your code and do pair programming with ease.
+
+![GitDuck pair programming](https://storage.googleapis.com/gitduck/img/5-img-collaborate-fallback-o.png)
+![GitDuck video chat for developers](https://storage.googleapis.com/gitduck/img/1-img-general-fallback-o.png)
 
 ## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
