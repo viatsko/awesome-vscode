@@ -965,6 +965,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Code Time](https://raw.githubusercontent.com/swdotcom/swdc-vscode/master/images/vs-code-dashboard.gif)
 
+## [CodeUI](https://marketplace.visualstudio.com/items?itemName=ryanraposo.codeui)
+
+> Build, edit, & explore your color theme for VS Code. 
+
+![CodeUI](https://raw.githubusercontent.com/ryanraposo/codeui/master/resources/readme/brightness.gif)
+
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 > Highlight web colors in your editor
