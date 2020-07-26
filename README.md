@@ -645,7 +645,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
 > Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
 
-## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=e behrens.pull-request-monitor)
+## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
 > This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
