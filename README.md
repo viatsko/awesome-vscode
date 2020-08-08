@@ -137,6 +137,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Ascii Tree Generator](#ascii-tree-generator)
   - [Browser Preview](#browser-preview)
   - [Carbon-now-sh](#carbon-now-sh)
+  - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
   - [Color Highlight](#color-highlight)
@@ -952,6 +953,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
 
 ![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
+
+## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
+
+> Play interactive tutorials in your favorite editor.
+
+![CodeRoad Demo](https://raw.githubusercontent.com/coderoad/coderoad-vscode/master/docs/static/gif/coderoad-example.gif)
 
 ## [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
