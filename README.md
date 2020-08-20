@@ -739,7 +739,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Provides parameter hints on function calls in JS/TS/PHP files.
 
-![Parameter Hints](https://raw.githubusercontent.com/dominicvonk/vscode-parameter-hints/master/icon.png)
+![Parameter Hints](https://raw.githubusercontent.com/dominicvonk/vscode-parameter-hints/master/preview.png)
 
 ## [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 
