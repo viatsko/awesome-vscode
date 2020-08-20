@@ -94,6 +94,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [i18n Ally](#i18n-ally)
   - [Instant Markdown](#instant-markdown)
   - [npm Intellisense](#npm-intellisense)
+  - [Parameter Hints](#parameter-hints)
   - [Partial Diff](#partial-diff)
   - [Paste JSON as Code](#paste-json-as-code)
   - [Path IntelliSense](#path-intellisense)
@@ -733,6 +734,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Visual Studio Code plugin that autocompletes npm modules in import statements.
 
 ![npm-intellisense](https://raw.githubusercontent.com/ChristianKohler/NpmIntellisense/master/images/auto_complete.gif)
+
+## [Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)
+
+> Provides parameter hints on function calls in JS/TS/PHP files.
+
+![Parameter Hints](https://raw.githubusercontent.com/dominicvonk/vscode-parameter-hints/master/preview.png)
 
 ## [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 
