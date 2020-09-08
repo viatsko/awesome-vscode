@@ -358,7 +358,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 > Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
 
-![CSS Peek](https://github.com/pranaygp/vscode-css-peek/blob/master/working.gif)
+![CSS Peek](https://raw.githubusercontent.com/pranaygp/vscode-css-peek/master/readme/symbolProvider.gif)
 
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
@@ -654,8 +654,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
-
-![GitLab Workflow](https://gitlab.com/gitlab-org/gitlab-vscode-extension/-/raw/master/src/assets/_issues-in-vscode.png)
 
 #### [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
@@ -956,12 +954,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 # Uncategorized
 
-## [Ascii Tree Generator](https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator)
-
-> A VS Code extension to generate ascii tree of directories or format selected text to tree strings.
-
-![Ascii Tree Generator Demo](https://raw.githubusercontent.com/aprilandjan/ascii-tree-generator/master/images/text.gif)
-
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
 > Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
@@ -984,7 +976,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Automatic time reports by project and other programming metrics right in VS Code.
 
-![Code Time](https://raw.githubusercontent.com/swdotcom/swdc-vscode/master/images/vs-code-dashboard.gif)
+![Code Time](https://camo.githubusercontent.com/918d2dfc585074f3b20566723f3ab8ce32e9d23e/68747470733a2f2f737764632d7673636f64652e73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f636f64652d74696d652d66656174757265732e706e67)
 
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 

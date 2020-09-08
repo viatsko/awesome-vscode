@@ -1,4 +1,4 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot README.md --white-list travis-ci,tslint,code.visualstudio.com,awesome,microsoft.com,viatsko.me,drupal.org,camo.githubusercontent.com   --allow-dupe
+script: awesome_bot README.md --white-list travis-ci,tslint,code.visualstudio.com,awesome,microsoft.com,viatsko.me,drupal.org,camo.githubusercontent.com --allow 429  --allow-dupe
