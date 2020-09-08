@@ -113,6 +113,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
   - [Yo](#yo)
+  - [Timing](#timing)
 - [Formatting/Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Close Tag](#auto-close-tag)
@@ -843,6 +844,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Scaffold projects using [Yeoman](https://yeoman.io/)
 
 ![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
+
+## [Timing](https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing)
+
+> Time converter extension to convert timestamps from/to various formats and insert them on demand or just display them. It further provides a neat hover provider to beautify epoch timestamps instantly. All features are highly customizable.
+
+![Timing](https://raw.githubusercontent.com/HaaLeo/vscode-timing/master/doc/Convert_Sample.gif)
 
 # Formatting & Beautification
 
