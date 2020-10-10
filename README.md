@@ -153,6 +153,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [Indent Rainbow](#indent-rainbow)
   - [iTerm2 Theme Sync](#iterm2-theme-sync)
+  - [Password Generator](#password-generator)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
   - [Quokka](#quokka)
@@ -1028,6 +1029,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Syncs selected VSCode theme with iTerm2 color profile
 
 ![iTerm2 Theme Sync](https://raw.githubusercontent.com/tusaeff/vscode-iterm2-theme-sync/master/screencast.gif)
+
+## [Password Generator](https://marketplace.visualstudio.com/items?itemName=ftonato.password-generator)
+
+> Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
+
+![Password Generator](https://raw.githubusercontent.com/ftonato/vscode-password-generator/master/preview.gif)
 
 ## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
 
