@@ -139,6 +139,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Carbon-now-sh](#carbon-now-sh)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
+  - [CodeUI](#codeui)
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
   - [Dash](#dash)
@@ -967,9 +968,9 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [CodeUI](https://marketplace.visualstudio.com/items?itemName=ryanraposo.codeui)
 
-> Build, edit, & explore your color theme for VS Code. 
+> Customize your color theme for VS Code. 
 
-![CodeUI](https://raw.githubusercontent.com/ryanraposo/codeui/master/resources/readme/brightness.gif)
+![CodeUI](https://raw.githubusercontent.com/ryanraposo/codeui/master/resources/readme/main-gradient.png)
 
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
