@@ -111,6 +111,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
+  - [Vertical Limit](#vertical-limit)
   - [WakaTime](#wakatime)
   - [Yo](#yo)
   - [Timing](#timing)
@@ -833,6 +834,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > TypeScript Language Service Plugin providing a set of source actions for easy objects destructuring
 
 ![Typescript Destructure](https://raw.githubusercontent.com/tusaeff/vscode-typescript-destructure-plugin/master/assets/destructure-to-constant.gif)
+
+## [Vertical Limit](https://marketplace.visualstudio.com/items?itemName=generik.vertical-limit)
+
+> Vertical Limit is a collection of commands to modify, select and navigate text blocks in order to unlock the full potential of working with multiple cursors
+
+![Vertical Limit](https://github.com/generikvault/vertical-limit/raw/master/img/UpDown.gif)
 
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
