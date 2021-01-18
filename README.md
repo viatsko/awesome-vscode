@@ -493,7 +493,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
     "twig": "html"
   }
 }
-```https://accounts.google.com/o/oauth2/auth/identifier?approval_prompt=force&response_type=code&scope=openid%20email%20profile&client_id=978965602222-kpq1odsqs3mbn6ro8e3e0j66ekf2gt46.apps.googleusercontent.com&state=fO4IOYtf04Ik0O7Xw3czJfqFKwM&redirect_uri=https%3A%2F%2Favast.danovka.cz%2Fredirect_uri&nonce=R30gsmLmCrbNTKbxteEOTia74gzJXR6zLm7KKsaOnug&hd=avast.com&flowName=GeneralOAuthFlow#/login
+```
 
 ### Smarty
 
