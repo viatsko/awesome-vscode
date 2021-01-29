@@ -411,6 +411,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
 - [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code.
+- [vscode-js-profile-flame](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-flame) - [Real-time Node.JS CPU and heap usage monitoring](https://www.youtube.com/watch?v=9UI0JT8y2c4).
 
 Framework-specific:
 
