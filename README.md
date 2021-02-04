@@ -77,6 +77,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
   - [Git Indicators](#git-indicators)
+  - [Git Commit Message](#git-commit-message)
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [GitLab Workflow](#gitlab-workflow)
