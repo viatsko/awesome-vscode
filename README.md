@@ -642,6 +642,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
 
+## [Git Commit Message](https://marketplace.visualstudio.com/items?itemName=rioukkevin.vscode-git-commit)
+
+> Provides an helper to write git commit message using auto-complete and specific templates defined by settings.
+
+![git commit message screenshot](https://raw.githubusercontent.com/rioukkevin/vscode-git-commit/master/assets/screens/howto.gif)
+
 ## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
 > Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
