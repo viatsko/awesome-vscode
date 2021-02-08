@@ -190,6 +190,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Monokai Oblique](#monokai-oblique-by-pushqrdx)
   - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
   - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
+  - [Omni Theme by Rocketseat](#omni-theme-by-rocketseat)
   - [Plastic by Will Stone](#plastic-by-will-stone)
   - [Niketa Theme by Dejan Toteff](#niketa-theme-by-dejan-toteff)
   - [Nord by arcticicestudio](#nord-by-arcticicestudio)
@@ -1299,6 +1300,14 @@ A VS Code theme for the night owls out there. Works well in the daytime, too, bu
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
   <img src="./themes/screenshots/night-owl.png" width="600" />
+</a>
+
+### [Omni Theme by Rocketseat](https://vscodethemes.com/e/rocketseat.theme-omni)
+
+Omni is a dark theme inspired by Dracula.
+
+<a href="https://vscodethemes.com/e/rocketseat.theme-omni">
+  <img src="./themes/screenshots/omni.png" width="600" />
 </a>
 
 ### [Plastic by Will Stone](https://vscodethemes.com/e/will-stone.plastic)
