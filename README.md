@@ -97,6 +97,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Parameter Hints](#parameter-hints)
   - [Partial Diff](#partial-diff)
   - [Paste JSON as Code](#paste-json-as-code)
+  - [Path Autocomplete](#path-autocomplete)
   - [Path IntelliSense](#path-intellisense)
   - [Power Tools](#power-tools)
   - [PrintCode](#printcode)
@@ -752,6 +753,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Infer the structure of JSON and paste is as types in many programming languages
 
 ![Paste JSON as Code](https://raw.githubusercontent.com/quicktype/quicktype-vscode/master/media/demo.gif)
+
+## [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+
+> Provides path completion for visual studio code.
+
+![Path Autocomplete](https://raw.githubusercontent.com/ionutvmi/path-autocomplete/master/demo/path-autocomplete.gif)
 
 ## [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
