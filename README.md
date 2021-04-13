@@ -138,6 +138,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Material-Icon-Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
   - [Ascii Tree Generator](#ascii-tree-generator)
+  - [Live Frame](#live-frame)
   - [Browser Preview](#browser-preview)
   - [Carbon-now-sh](#carbon-now-sh)
   - [CodeRoad](#coderoad)
@@ -961,6 +962,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [Live Frame](https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-live-frame)
+
+> Live Frame allows you to run your web application inside VS Code with live/hot reloading setup.
+
+![Live Frame Demo](https://github.com/jevakallio/vscode-live-frame/blob/master/docs/demo.gif)
+
 
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
