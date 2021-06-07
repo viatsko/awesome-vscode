@@ -101,8 +101,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ngrok for VSCode](#ngrok-for-vscode)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
   - [i18n Ally](#i18n-ally)
-  - [JTM: JSON Translation Manager](#jtm-json-translation-manager)
   - [Instant Markdown](#instant-markdown)
+  - [JTM: JSON Translation Manager](#jtm-json-translation-manager)
   - [npm Intellisense](#npm-intellisense)
   - [Parameter Hints](#parameter-hints)
   - [Partial Diff](#partial-diff)
@@ -731,13 +731,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![i18n Ally](https://raw.githubusercontent.com/antfu/i18n-ally/master/screenshots/overview.png)
 
+## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
+
 ## [JTM: JSON Translation Manager](https://marketplace.visualstudio.com/items?itemName=Mohammed.json-translations-manager)
 
 > The fastest and simplest way manage your internationalization translation files and keep them in sync. it's allow you to edit multiple languages on the same time.
-
 ![JTM: JSON Translation Manager](https://raw.githubusercontent.com/MohammedAldosari/json-translations-manager/master/resources/imgs/JTMView.gif)
-
-## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 
 >Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
 
