@@ -92,6 +92,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ngrok for VSCode](#ngrok-for-vscode)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
   - [i18n Ally](#i18n-ally)
+  - [JTM: JSON Translation Manager](#jtm-json-translation-manager)
   - [Instant Markdown](#instant-markdown)
   - [npm Intellisense](#npm-intellisense)
   - [Parameter Hints](#parameter-hints)
@@ -199,6 +200,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
   - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
   - [Tinacious design syntax by Tinacious](#tinacious-design-syntax-by-tinacious)
+  - [Simple Black Theme](#simple-black-theme)
 - [People to Follow](#people-to-follow)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
@@ -612,7 +614,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
-> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples. 
+> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
 
 ![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
@@ -722,6 +724,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > 🌍 All in one i18n extension for VSCode
 
 ![i18n Ally](https://raw.githubusercontent.com/antfu/i18n-ally/master/screenshots/overview.png)
+
+## [JTM: JSON Translation Manager](https://marketplace.visualstudio.com/items?itemName=Mohammed.json-translations-manager)
+
+> The fastest and simplest way manage your internationalization translation files and keep them in sync. it's allow you to edit multiple languages on the same time.
+![JTM: JSON Translation Manager](https://raw.githubusercontent.com/MohammedAldosari/json-translations-manager/master/resources/imgs/JTMView.gif)
 
 ## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 
@@ -1362,6 +1369,14 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 
  <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="./themes/screenshots/niketa-theme.png" width="600" />
+</a>
+
+### [Simple Black Theme](https://vscodethemes.com/e/Mohammed.simple-black-theme)
+
+ Collection of 18 light themes separated in 4 groups by background's brightness.
+
+ <a href="https://vscodethemes.com/e/Mohammed.simple-black-theme">
+  <img src="https://github.com/matrix2526/simple-black-theme/raw/master/Screenshot.png" width="600" />
 </a>
 
 # People to Follow
