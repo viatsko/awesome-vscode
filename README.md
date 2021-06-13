@@ -766,11 +766,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Autocompletion for filenames animation](https://i.giphy.com/iaHeUiDeTUZuo.gif)
 
-## [Power Tools](https://marketplace.visualstudio.com/items?itemName=ego-digital.vscode-powertools)
+## [Power Tools](https://marketplace.visualstudio.com/items?itemName=egomobile.vscode-powertools)
 
 > Extends Visual Studio Code via things like Node.js based scripts or shell commands, without writing separate extensions
 
-![Power Tools](https://raw.githubusercontent.com/egodigital/vscode-powertools/master/img/demo.gif)
+![Power Tools](https://raw.githubusercontent.com/egomobile/vscode-powertools/master/img/demo.gif)
 
 ## [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
 
