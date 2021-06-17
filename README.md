@@ -35,12 +35,14 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [C#](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
   - [CSS](#css)
+    - [Tailwind CSS](#tailwind-css-intellisense)
   - [Go](#go)
   - [Groovy](#groovy)
   - [Haskell](#haskell)
   - [Shell](#shell)
   - [Java](#java)
   - [JavaScript](#javascript)
+    - [Vue.js](#vuejs)
   - [Typescript](#typescript)
   - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
@@ -371,6 +373,9 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
   ![Intellisense CSS class names](https://i.imgur.com/5crMfTj.gif)
 
+### Tailwind CSS IntelliSense
+> Syntax-highlighting, classname, `@apply`, `@screen` and `config` suggestions.
+
 ## Go
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Rich language support for the Go language.
@@ -417,6 +422,12 @@ Framework-specific:
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js
 ![Vetur](screenshots/Vetur.png)
+
+### Vue.js
+
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+> Vue.js tooling for VS Code. Including syntax-highlighting, snippets, linting, formatting and auto completion.
+
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
