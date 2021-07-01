@@ -107,6 +107,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Rainbow CSV](#rainbow-csv)
   - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
+  - [Rush Snippets](#rush-snippets)
   - [Settings Sync](#settings-sync)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
@@ -804,6 +805,14 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Remote VSCode](https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode)
 
 > Allow user to edit files from Remote server in Visual Studio Code directly.
+
+## [Rush Snippets](https://marketplace.visualstudio.com/items?itemName=DevExpress.rushsnippets)
+
+> Rush Snippets is a collection of easy-to-recall VS Code shortcuts that expand into larger blocks of boilerplate code that developers create all the time.
+
+> Rush Snippets can help you declare TypeScript more efficiently, with fewer errors, less physical strain, and a lower cognitive load.
+
+![Rush Snippets](https://github.com/DevExpress/vscode-rushsnippets/raw/master/media/rush-snippets-different-prefixes-for-templates.gif)
 
 ## [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
