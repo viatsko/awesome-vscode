@@ -107,6 +107,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Rainbow CSV](#rainbow-csv)
   - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
+  - [ScriptBox](#scriptbox)
   - [Settings Sync](#settings-sync)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
@@ -810,6 +811,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Allows you to send HTTP request and view the response in Visual Studio Code directly.
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
+
+## [ScriptBox](https://marketplace.visualstudio.com/items?itemName=cubicle6.scriptbox)
+
+> Extend VS Code using custom JavaScript without creating extensions.
+
+![ScriptBox](https://raw.githubusercontent.com/calebmpeterson/scriptbox/master/documentation/demo.gif)
 
 ## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
