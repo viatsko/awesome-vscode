@@ -820,8 +820,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
-![Settings Sync](https://i.imgur.com/QZtaBca.gif)
-
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
 > All-in-one extension for text manipulation: filtering (grep), remove lines, insert number sequences and GUIDs, format content as table, change case, converting numbers and more. Great for finding information in logs and manipulating text.
