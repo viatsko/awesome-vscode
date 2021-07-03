@@ -14,6 +14,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 # Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Official](#official)
 - [Syntax](#syntax)
 - [Migrating from other editors](#migrating-from-other-editors)
@@ -22,35 +23,45 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Sublime Text](#migrating-from-sublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
   - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
-  - [Camel humps](#camel-humps)
+  - [Camel Humps](#camel-humps)
 - [Using VS Code with particular technologies](#using-vs-code-with-particular-technologies)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
-  - [AutoHotkey](#AutoHotkey)
+  - [AutoHotkey](#autohotkey)
+    - [AutoHotkey Plus](#autohotkey-plus)
   - [Bash](#bash)
     - [Bash IDE](#bash-ide)
     - [Bash Debug](#bash-debug)
     - [Shellman](#shellman)
   - [C++](#c)
-  - [C#](#c-asp-net-and-net-core)
+      - [More](#more)
+  - [C\#, ASP .NET and .NET Core](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
+    - [Calva](#calva)
   - [CSS](#css)
+    - [CSS Peek](#css-peek)
   - [Go](#go)
   - [Groovy](#groovy)
   - [Haskell](#haskell)
   - [Shell](#shell)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [Typescript](#typescript)
+    - [Linters](#linters)
+    - [Framework-specific](#framework-specific)
+    - [Debugger for Chrome](#debugger-for-chrome)
+    - [Facebook Flow](#facebook-flow)
+    - [TypeScript](#typescript)
+    - [Debugger for Chrome](#debugger-for-chrome-1)
   - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
-    - [Markdown All in one](#markdown-all-in-one)
+    - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
   - [PHP](#php)
     - [IntelliSense](#intellisense)
     - [Laravel](#laravel)
     - [Twig](#twig)
     - [Smarty](#smarty)
+      - [Smarty Template Support](#smarty-template-support)
     - [Other extensions](#other-extensions)
     - [Read more](#read-more)
   - [POV-Ray](#pov-ray)
@@ -70,7 +81,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Duplicate Action](#duplicate-action)
   - [Error Lens](#error-lens)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
-  - [Gi](#gi)
+    - [Gi](#gi)
   - [GistPad](#gistpad)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
@@ -80,7 +91,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [GitLab Workflow](#gitlab-workflow)
-  - [Gradle Tasks](#gradle-tasks)
+      - [Gradle Tasks](#gradle-tasks)
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [Jira and Bitbucket](#jira-and-bitbucket)
@@ -96,18 +107,17 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [npm Intellisense](#npm-intellisense)
   - [Parameter Hints](#parameter-hints)
   - [Partial Diff](#partial-diff)
-  - [Paste JSON as Code](#paste-json-as-code)
+    - [Paste JSON as Code](#paste-json-as-code)
   - [Path Autocomplete](#path-autocomplete)
   - [Path IntelliSense](#path-intellisense)
   - [Power Tools](#power-tools)
   - [PrintCode](#printcode)
-  - [Project Dashboard](#project-dashboard)
   - [Project Manager](#project-manager)
-  - [REST Client](#rest-client)
+  - [Project Dashboard](#project-dashboard)
   - [Rainbow CSV](#rainbow-csv)
   - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
-  - [Settings Sync](#settings-sync)
+  - [REST Client](#rest-client)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
@@ -115,12 +125,12 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [WakaTime](#wakatime)
   - [Yo](#yo)
   - [Timing](#timing)
-- [Formatting/Beautification](#formatting--beautification)
+- [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Close Tag](#auto-close-tag)
   - [Auto Rename Tag](#auto-rename-tag)
   - [beautify](#beautify)
-  - [html2pug](#html2pug)
+    - [html2pug](#html2pug)
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
   - [Paste and Indent](#paste-and-indent)
   - [Sort Lines](#sort-lines)
@@ -131,23 +141,19 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Auto Import](#auto-import)
   - [shell-format](#shell-format)
   - [Vscode Google Translate](#vscode-google-translate)
-- [Explorer Icons](#explorer-icons)
-  - [City Lights Icons](#city-lights-icons)
-  - [VSCode Icons](#vscode-icons)
-  - [Seti-UI](#seti-icons)
-  - [Material-Icon-Theme](#material-icon-theme)
+  - [Explorer Icons](#explorer-icons)
+    - [City Lights Icons](#city-lights-icons)
+    - [VSCode Icons](#vscode-icons)
+    - [Seti Icons](#seti-icons)
+    - [Material Icon Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
-  - [Ascii Tree Generator](#ascii-tree-generator)
   - [Browser Preview](#browser-preview)
-  - [Carbon-now-sh](#carbon-now-sh)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
   - [Color Highlight](#color-highlight)
   - [Output Colorizer](#output-colorizer)
   - [Dash](#dash)
-  - [Debugger for Chrome](#debugger-for-chrome)
-  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
@@ -157,8 +163,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Password Generator](#password-generator)
   - [PlatformIO](#platformio)
   - [Polacode](#polacode)
+  - [carbon-now-sh](#carbon-now-sh)
   - [Quokka](#quokka)
-  - [Remote Workspace](#remote-workspace)
   - [Runner](#runner)
   - [Slack](#slack)
   - [SmoothType](#smoothtype)
@@ -169,36 +175,37 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ESDOC MDN](#esdoc-mdn)
   - [Interface generator](#interface-generator)
 - [Themes](#themes)
-  - [2077 Theme by Endormi](#2077-theme-by-endormi)
-  - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
-  - [Ariake Dark by wart](#ariake-dark-by-wart)
-  - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
-  - [Atomize by emroussel](#atomize-by-emroussel)
-  - [Ayu by teabyii](#ayu-by-teabyii)
-  - [Borealis Theme by Alexander Eckert](#borealis-theme-by-alexander-eckert)
-  - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
-  - [City Lights Theme by Yummygum](#city-lights-by-yummygum)
-  - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
-  - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
-  - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
-  - [Eva Theme by fisheva](#eva-theme-by-fisheva)
-  - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
-  - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
-  - [Jellybeans Theme by Dimitar Nonov](#jellybeans-theme-by-dimitar-nonov)
-  - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
-  - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
-  - [Mno by u29dc](#mno-by-u29dc)
-  - [Monokai Oblique](#monokai-oblique-by-pushqrdx)
-  - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
-  - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
-  - [Plastic by Will Stone](#plastic-by-will-stone)
-  - [Niketa Theme by Dejan Toteff](#niketa-theme-by-dejan-toteff)
-  - [Nord by arcticicestudio](#nord-by-arcticicestudio)
-  - [Rainglow by Dayle Rees](#rainglow-by-dayle-rees)
-  - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
-  - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
-  - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
-  - [Tinacious design syntax by Tinacious](#tinacious-design-syntax-by-tinacious)
+  - [UI](#ui)
+  - [Syntax](#syntax-1)
+    - [2077 theme by Endormi](#2077-theme-by-endormi)
+    - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
+    - [Ariake Dark by wart](#ariake-dark-by-wart)
+    - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
+    - [Atomize by emroussel](#atomize-by-emroussel)
+    - [Ayu by teabyii](#ayu-by-teabyii)
+    - [Borealis Theme by Alexander Eckert](#borealis-theme-by-alexander-eckert)
+    - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
+    - [City Lights by Yummygum](#city-lights-by-yummygum)
+    - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
+    - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
+    - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
+    - [Eva Theme by fisheva](#eva-theme-by-fisheva)
+    - [Fairy Floss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
+    - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
+    - [Jellybeans Theme by Dimitar Nonov](#jellybeans-theme-by-dimitar-nonov)
+    - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
+    - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
+    - [Mno by u29dc](#mno-by-u29dc)
+    - [Monokai Oblique by pushqrdx](#monokai-oblique-by-pushqrdx)
+    - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
+    - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
+    - [Plastic by Will Stone](#plastic-by-will-stone)
+    - [Nord by arcticicestudio](#nord-by-arcticicestudio)
+    - [Rainglow by Dayle Rees](#rainglow-by-dayle-rees)
+    - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
+    - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
+    - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
+    - [Niketa Theme by Dejan Toteff](#niketa-theme-by-dejan-toteff)
 - [People to Follow](#people-to-follow)
 - [Resources for extension developers](#resources-for-extension-developers)
   - [Documentation](#documentation)
@@ -385,6 +392,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
 - [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
+
 ## Shell
 
 - [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
@@ -405,15 +413,17 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
+### Linters
+
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
-- [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
-- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code.
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
 
-Framework-specific:
+- [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
+
+### Framework-specific
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js
 ![Vetur](screenshots/Vetur.png)
@@ -429,7 +439,6 @@ Framework-specific:
 
 ### TypeScript
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
 - [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Code outline view of your open TS, sort and organize your imports.
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
@@ -811,10 +820,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
-## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-
-> Synchronize settings, snippets, themes, file icons, launch, key bindings, workspaces and extensions across multiple machines using GitHub Gist
-
 ![Settings Sync](https://i.imgur.com/QZtaBca.gif)
 
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
@@ -1112,7 +1117,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
-
 ![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
 ## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
@@ -1390,12 +1394,10 @@ A list of Twitter accounts for various people in the VS Code Community
 ## Documentation
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - The Better Comments extension will help you create more human-friendly comments in your code.
-- [Extending Visual Studio Code](https://code.visualstudio.com/docs/extensions/overview) section of [Official Documentation](https://code.visualstudio.com/docs)
+- [Visual Studio Code API](https://code.visualstudio.com/api) section of [Official Documentation](https://code.visualstudio.com/docs)
 
 ## Libraries
 
-- [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - The vscode.d.ts node module
-- [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
 ## Tools
