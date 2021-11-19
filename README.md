@@ -137,7 +137,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Surround](#surround)
   - [Wrap Selection](#wrap-selection)
   - [Formatting Toggle](#formatting-toggle)
-  - [Bracket Pair Colorizer](#bracket-pair-colorizer)
   - [Auto Import](#auto-import)
   - [shell-format](#shell-format)
   - [Vscode Google Translate](#vscode-google-translate)
@@ -167,7 +166,6 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Quokka](#quokka)
   - [Runner](#runner)
   - [Slack](#slack)
-  - [SmoothType](#smoothtype)
   - [Spotify](#spotify)
   - [SVG](#svg)
   - [SVG Viewer](#svg-viewer)
@@ -441,7 +439,6 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ### TypeScript
 
 - [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code.
-- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Code outline view of your open TS, sort and organize your imports.
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
@@ -623,7 +620,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
-> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples. 
+> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
 
 ![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
@@ -926,12 +923,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Allows you to toggle your formatter on and off with a simple click
 
-## [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
-> This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
-
-![Bracket Pair Colorizer](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
-
 ## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 > Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
@@ -1081,12 +1072,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Send messages and code snippets, upload files to Slack
 
 ![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
-
-## [SmoothType](https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype)
-
-> Add a smooth typing animation, similar to MS Office and the Windows 10 Mail app.
-
-![SmoothType Animation](https://raw.githubusercontent.com/spikespaz/vscode-smoothtype/master/images/preview.gif)
 
 ## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
 > Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
