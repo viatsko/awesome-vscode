@@ -43,6 +43,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Go](#go)
   - [Groovy](#groovy)
   - [Haskell](#haskell)
+  - [HLSL](#hlsl)
   - [Shell](#shell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -390,6 +391,11 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
 - [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
+
+## HLSL
+
+- [HLSL Tools](https://marketplace.visualstudio.com/items?itemName=TimGJones.hlsltools) - provides rich language support for editing HLSL files in VS Code
+  ![Example of statement completion using HLSL Tools for VS Code](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)
 
 ## Shell
 
