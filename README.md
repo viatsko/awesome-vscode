@@ -81,6 +81,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Deploy](#deploy)
   - [Duplicate Action](#duplicate-action)
   - [Error Lens](#error-lens)
+  - [Toggle](#toggle)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
     - [Gi](#gi)
   - [GistPad](#gistpad)
@@ -616,6 +617,14 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Show language diagnostics inline (errors/warnings/...).
 
 ![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
+
+## [Toggle](https://marketplace.visualstudio.com/items?itemName=rebornix.toggle)
+
+> Toggle any VS Code setting by your favorite keybindings.
+
+Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by shortcut:
+
+![Toggle example demo](screenshots/toggle-example.gif)
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
