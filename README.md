@@ -73,6 +73,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Terraform](#terraform)
 - [GitHub](#github)
   - [GitHub](#github-1)
+  - [GitHub Pull Requests and Issues](#github-pull-requests-and-issues)
   - [GistPad](#gistpad)
   - [GitHub Actions](#github-actions)
   - [GitHub Repositories](#github-repositories)
@@ -574,6 +575,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
 > Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
+
+## [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+> Review and manage GitHub pull requests and issues
 
 ## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
