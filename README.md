@@ -76,6 +76,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
+  - [Bundle Size](#bundle-size)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
@@ -100,6 +101,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [JS Parameter Annotations](#js-parameter-annotations)
   - [Jumpy](#jumpy)
   - [Kanban](#kanban)
+  - [Live Code](#live-code)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [ngrok for VSCode](#ngrok-for-vscode)
@@ -590,6 +592,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Mark lines and jump to them
 
+## [Bundle Size](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size)
+
+> Display the bundle size of npm packages
+
+![Display the bundle size of npm packages](https://raw.githubusercontent.com/ambar/vscode-bundle-size/main/images/preview.png)
+
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
@@ -721,6 +729,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![kanban](https://raw.githubusercontent.com/mkloubert/vscode-kanban/master/img/demo1.gif)
 
 > Simple Kanban board for use in Visual Studio Code, with time tracking and Markdown support.
+
+## [Live Code](https://marketplace.visualstudio.com/items?itemName=ambar.live-code)
+
+> Interactive code playground
+
+![Interactive code playground](https://raw.githubusercontent.com/ambar/vscode-live-code/main/example/screenshot-1.png)
 
 ## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
