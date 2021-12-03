@@ -90,6 +90,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
   - [Git Indicators](#git-indicators)
+  - [Git Commit Message](#git-commit-message)
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [GitLab Workflow](#gitlab-workflow)
@@ -670,6 +671,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
+
+## [Git Commit Message](https://marketplace.visualstudio.com/items?itemName=rioukkevin.vscode-git-commit)
+
+> Provides an helper to write git commit message using auto-complete and specific templates defined by settings.
+
+![git commit message screenshot](https://raw.githubusercontent.com/rioukkevin/vscode-git-commit/master/assets/screens/howto.gif)
 
 ## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
