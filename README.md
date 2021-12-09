@@ -71,6 +71,13 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [ReasonML](#reasonml)
   - [Rust](#rust)
   - [Terraform](#terraform)
+- [GitHub](#github)
+  - [GitHub](#github-1)
+  - [GitHub Pull Requests and Issues](#github-pull-requests-and-issues)
+  - [GistPad](#gistpad)
+  - [GitHub Actions](#github-actions)
+  - [GitHub Repositories](#github-repositories)
+  - [GitHub Pull Request Monitor](#github-pull-request-monitor)
 - [Productivity](#productivity)
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
@@ -84,14 +91,11 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Toggle](#toggle)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
     - [Gi](#gi)
-  - [GistPad](#gistpad)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
   - [Git Indicators](#git-indicators)
-  - [GitHub](#github)
-  - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [GitLab Workflow](#gitlab-workflow)
       - [Gradle Tasks](#gradle-tasks)
   - [Icon Fonts](#icon-fonts)
@@ -342,7 +346,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 #### More
 
-* [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
+- [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
 
 ## C\#, ASP .NET and .NET Core
 
@@ -566,6 +570,36 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
+# GitHub
+
+## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
+
+> Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
+
+## [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+> Review and manage GitHub pull requests and issues
+
+## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
+
+> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
+
+![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
+
+## [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions)
+
+> Shows GitHub Actions workflows and runs
+
+## [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
+
+> Remotely browse and edit any GitHub repository
+
+## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
+
+> This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
+
+![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
+
 # Productivity
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
@@ -637,12 +671,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![.gitignore generation animation](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
 
-## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
-
-> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
-
-![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
-
 ## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
 > View git log, file or line History
@@ -670,16 +698,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
-
-## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
-
-> Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
-> Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
-
-## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
-> This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
-
-![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
@@ -755,7 +773,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 >Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
 
 ![Instant Markdown Screencast](https://raw.githubusercontent.com/dbankier/vscode-instant-markdown/master/vscode-instant-markdown.gif)
-
 
 ## [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
