@@ -178,6 +178,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [ESDOC MDN](#esdoc-mdn)
   - [Interface generator](#interface-generator)
+  - [Close Git Unmodified](#close-git-unmodified)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -1143,6 +1144,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Quickly generate interface definitions from typescript class
 
 ![Interface generator](https://raw.githubusercontent.com/dotupNET/dotup-vscode-interface-generator/master/images/video2.gif)
+
+## [Close Git Unmodified](https://marketplace.visualstudio.com/items?itemName=Cyanhall.close-git-unmodified)
+
+> Quickly close editors which are not modified in Git. 
+
+![Close Git Unmodified](https://raw.githubusercontent.com/JeOam/vscode-close-git-unmodified/master/demo.gif)
 
 # Themes
 
