@@ -98,6 +98,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Indicators](#git-indicators)
   - [GitLab Workflow](#gitlab-workflow)
       - [Gradle Tasks](#gradle-tasks)
+  - [httpYac](#httpyac)
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [Jira and Bitbucket](#jira-and-bitbucket)
@@ -707,6 +708,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Run gradle tasks in VS Code.
 
 ![Gradle Tasks](https://raw.githubusercontent.com/badsyntax/vscode-gradle/master/images/screencast.gif)
+
+## [httpYac](https://marketplace.visualstudio.com/items?itemName=anweber.vscode-httpyac)
+
+> Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests.
+
+![Send HTTP request and view response animation](https://raw.githubusercontent.com/AnWeber/vscode-httpyac/master/examples/oauth.gif)
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
