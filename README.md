@@ -148,6 +148,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Vscode Google Translate](#vscode-google-translate)
   - [Explorer Icons](#explorer-icons)
     - [City Lights Icons](#city-lights-icons)
+    - [Feather Product Icons](#feather-product-icons)
     - [VSCode Icons](#vscode-icons)
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
@@ -979,6 +980,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ### [City Lights Icons](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 
 ![City Lights Icons](https://raw.githubusercontent.com/yummygum/city-lights-icons-vsc/master/city-lights-icon-preview.gif)
+
+### [Feather Product Icons](https://marketplace.visualstudio.com/items?itemName=melishev.feather-vscode)
+> Awesome set of product icons, by [Feather Icons](https://github.com/feathericons)
+
+![Feather Product Icons](https://raw.githubusercontent.com/melishev/feather-vscode/master/.github/assets/preview.png)
 
 ### [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
