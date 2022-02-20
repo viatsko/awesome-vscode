@@ -708,6 +708,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Gradle Tasks](https://raw.githubusercontent.com/badsyntax/vscode-gradle/master/images/screencast.gif)
 
+## [Hero Heroku](https://marketplace.visualstudio.com/items?itemName=JustBrenny.hero-heroku)
+
+> Manage your Heroku apps and pipelines without leaving VSCode.
+
+![HH Actions](https://raw.githubusercontent.com/thebrenny/hero-heroku/master/res/hero-heroku.gif)
+
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
