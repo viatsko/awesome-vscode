@@ -137,7 +137,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Timing](#timing)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
-  - [Auto Close Tag](#auto-close-tag)
   - [Auto Rename Tag](#auto-rename-tag)
   - [beautify](#beautify)
     - [html2pug](#html2pug)
@@ -910,13 +909,9 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Better Align](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)
 
-## [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+## Auto Rename Tag
 
-> Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
-
-![Automatically add close tags animation](https://raw.githubusercontent.com/formulahendry/vscode-auto-close-tag/master/images/usage.gif)
-
-## [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+> Native settings, just add `"editor.linkedEditing": true` to your `settings.json` file
 
 > Auto rename paired HTML/XML tags
 
