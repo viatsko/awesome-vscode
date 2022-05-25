@@ -27,6 +27,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Migrating from Sublime Text](#migrating-from-sublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
   - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
+  - [Migrating from Xcode](#migrating-from-xcode)
   - [Camel Humps](#camel-humps)
 - [Using VS Code with particular technologies](#using-vs-code-with-particular-technologies)
 - [Lint and IntelliSense](#lint-and-intellisense)
@@ -297,6 +298,10 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 ## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
 
 > Popular Intellij IDEA key bindings for VS Code.
+
+## [Migrating from Xcode](https://marketplace.visualstudio.com/items?itemName=stevemoser.xcode-keybindings)
+
+> Popular Xcode key bindings for VS Code.
 
 ## [Camel Humps](https://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
 
