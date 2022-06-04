@@ -56,7 +56,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Debugger for Chrome](#debugger-for-chrome)
     - [Facebook Flow](#facebook-flow)
     - [TypeScript](#typescript)
-    - [Debugger for Chrome](#debugger-for-chrome-1)
   - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
     - [Markdown All in One](#markdown-all-in-one)
@@ -458,8 +457,6 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ### TypeScript
 
 - [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code.
-
-### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
