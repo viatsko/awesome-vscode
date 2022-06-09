@@ -89,6 +89,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Bookmarks](#bookmarks)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
+  - [Dendron](#dendron)
   - [Deploy](#deploy)
   - [Duplicate Action](#duplicate-action)
   - [Error Lens](#error-lens)
@@ -639,6 +640,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > An extension to quickly generate test files.
 
 ![Create tests extension animation](https://media.giphy.com/media/1iqPhENd8SLd9SggeX/giphy.gif)
+
+## [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron)
+
+> An extension that can turn Visual Studio Code into a PKM tool, with excellent UX, using Markdown files to organize and reference any amount of knowledge. Whether you organize your notes with PARA or Zettelkasten, link notes together like Roam, or simply create notes in an ad-hoc manner, Dendron can help. Think of it as a second brain to help you make sense of all the information you care about. Bonus: Dendron can also publish a static site via NextJS if also using `dendron-cli`.
+
+![dendron.dendron](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/graph-intro.gif)
 
 ## [Deploy](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy)
 
