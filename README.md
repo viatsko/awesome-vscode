@@ -1309,14 +1309,6 @@ The most epic theme now for Visual Studio Code.
   <img src="./themes/screenshots/Equinusocio.vsc-material-theme.png" width="600" />
 </a>
 
-### [Monokai Oblique by pushqrdx](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode)
-
-Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) and [Visual Studio IDE](https://github.com/pushqrdx/monokai).
-
-<a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">
-  <img src="./themes/screenshots/moblique.png" width="600" />
-</a>
-
 ### [Monokai Pro by monokai (commercial)](https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode)
 
 Beautiful functionality for professional developers, from the author of the original Monokai color scheme.
