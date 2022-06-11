@@ -834,7 +834,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Easily switch between projects.
 
-![Switch between projects screenshot](https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/project-manager-commands.png)
+![Switch between projects screenshot](https://github.com/alefragnani/vscode-project-manager/raw/master/images/project-manager-list-sort-by-name.png)
 
 ## [Project Dashboard](https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard)
 
