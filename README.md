@@ -262,7 +262,6 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
 - [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
-- [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
 - [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray)
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
