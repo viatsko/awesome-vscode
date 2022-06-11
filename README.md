@@ -714,7 +714,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Run gradle tasks in VS Code.
 
-![Gradle Tasks](https://raw.githubusercontent.com/badsyntax/vscode-gradle/master/images/screencast.gif)
+![Gradle Tasks](https://github.com/badsyntax/vscode-spotless-gradle/raw/master/images/spotless-gradle-screencast.gif)
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
