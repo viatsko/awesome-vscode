@@ -88,6 +88,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
   - [Color Tabs](#color-tabs)
+  - [Tabs color](#tabs-color)
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
   - [Deploy](#deploy)
@@ -634,6 +635,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
 
 ![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/coverGif.gif)
+
+## [Tabs color](https://marketplace.visualstudio.com/items?itemName=mondersky.tabscolor)
+
+> An extension that lets you color the background of your editor tabs without using any command. Useful when working on a project with multiple tabs.
+
+![Color your tabs. Useful when working with many tabs](https://github.com/mondersky/tabscolor-vscode/raw/HEAD/docs/demo.gif)
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
