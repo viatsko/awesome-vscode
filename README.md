@@ -87,6 +87,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
+  - [Codiga](#codiga)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
@@ -628,6 +629,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
 > Mark lines and jump to them
+
+## [Codiga](https://marketplace.visualstudio.com/items?itemName=codiga.vscode-plugin)
+
+> An extension to create, use and share code snippets in a single click from your IDE.
+
+![Use Code Snippets in Codiga](https://raw.githubusercontent.com/codiga/vscode-plugin/main/images/inline-completion.gif)
+
 
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
