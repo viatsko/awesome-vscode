@@ -87,6 +87,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
+  - [Browser Preview (deprecated)](#browser-preview)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
@@ -156,7 +157,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
-  - [Browser Preview](#browser-preview)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
@@ -629,6 +629,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Mark lines and jump to them
 
+## [Browser Preview (deprecated)](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
+
+> Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
+
+![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
+
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
@@ -1000,12 +1006,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
-
-## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
-
-> Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
-
-![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
