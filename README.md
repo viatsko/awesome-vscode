@@ -82,6 +82,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitHub Actions](#github-actions)
   - [GitHub Repositories](#github-repositories)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
+  - [GitHub Issue Explorer](#github-issue-explorer)
 - [Productivity](#productivity)
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
@@ -604,6 +605,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
+
+## [GitHub Issue Explorer](https://marketplace.visualstudio.com/items?itemName=stateful.issue-explorer)
+
+> Create and explore code issues directly within VS Code and help to provide missing context in your issues through code references.
+
+![GitHub Issue Explorer](https://raw.githubusercontent.com/stateful/vscode-issue-explorer/main/assets/demo.gif)
 
 # Productivity
 
