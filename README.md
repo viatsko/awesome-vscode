@@ -133,6 +133,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
+  - [Trunk](#trunk)
   - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
   - [Yo](#yo)
@@ -889,6 +890,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Cycle between single, double and backtick quotes
 
 ![Toggle Quotes](https://d3vv6lp55qjaqc.cloudfront.net/items/2V092N0u2O1a393Y0f28/Screen%20Recording%202018-10-04%20at%2009.26%20AM.gif?X-CloudApp-Visitor-Id=26998&v=e2908c88)
+
+## [Trunk](https://marketplace.visualstudio.com/items?itemName=Trunk.io)
+
+> Toolkit to check, test, merge, and monitor your code 
 
 ## [Typescript Destructure](https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-typescript-destructure-plugin)
 
