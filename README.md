@@ -131,6 +131,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Remote VSCode](#remote-vscode)
   - [REST Client](#rest-client)
   - [Text Power Tools](#text-power-tools)
+  - [Tidy Explorer](#tidy-explorer)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
@@ -877,6 +878,18 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > All-in-one extension for text manipulation: filtering (grep), remove lines, insert number sequences and GUIDs, format content as table, change case, converting numbers and more. Great for finding information in logs and manipulating text.
 
 ![Text Power Tools](https://raw.githubusercontent.com/qcz/vscode-text-power-tools/89a1d9d7be3edfc9bcf112fe427c662655cb60cc/images/filtering.gif)
+
+## [Tidy Explorer](https://marketplace.visualstudio.com/items?itemName=bingtimren.tidy-explorer)
+> Tidy up your file explorer, hide or pin files and folders with just one click.
+
+![Tidy Explorer](https://github.com/bingtimren/vscode-tidy-explorer/raw/HEAD/images/switchboard.png)
+
+This extension allows you to configure glob patterns and group related glob patterns into "Pockets". Then you can toggle the files that match an individual pattern or all patterns in a Pocket to:
+
+- hide the files in the file Explorer (one-click adding into the "files.exclude" setting)
+- pin the files in the "Tidy Explorer"
+
+When you have a complex project with a large number of files and folders, this extension help you reduce the distractions from uninterested files (e.g. auto-generated) and focus on the files you are working on.
 
 ## [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
