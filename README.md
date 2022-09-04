@@ -197,6 +197,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [City Lights by Yummygum](#city-lights-by-yummygum)
     - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
     - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
+    - [Everblush by Mangeshrex](#Everblush-Theme-By-Mangeshrex)
     - [Edge by Bogdan Lazar](#edge-by-bogdan-lazar)
     - [Eva Theme by fisheva](#eva-theme-by-fisheva)
     - [Fairy Floss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
@@ -1270,6 +1271,14 @@ A colorful and semantic coloring code theme.
 
 <a href="https://vscodethemes.com/e/fisheva.eva-theme">
   <img src="./themes/screenshots/fisheva.eva-theme.png" width="600" />
+</a>
+
+### [Everblush Theme By Mangeshrex](https://vscodethemes.com/e/mangeshrex.everblush)
+
+A dark, vibrant and beautiful looking colorscheme.
+
+<a href="https://vscodethemes.com/e/mangeshrex.everblush">
+  <img src="./themes/screenshots/everblush-vscode.png" width="600" />
 </a>
 
 ### [Fairy Floss by nopjmp and sailorhg](https://vscodethemes.com/e/nopjmp.fairyfloss)
