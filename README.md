@@ -102,6 +102,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
   - [Git Indicators](#git-indicators)
+  - [Git Worktrees](#git-worktrees)
   - [GitLab Workflow](#gitlab-workflow)
       - [Gradle Tasks](#gradle-tasks)
   - [Icon Fonts](#icon-fonts)
@@ -715,6 +716,14 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
+
+## [Git Worktrees](https://marketplace.visualstudio.com/items?itemName=GitWorktrees.git-worktrees)
+
+> A Wrapper for Git Worktree Operations that provides an interactive API so developers can have a better experience.
+
+![worktree-add](https://user-images.githubusercontent.com/48658768/166140848-f58e7cd6-17c1-4ed6-a29f-2295518b39da.gif)
+![worktree-list](https://user-images.githubusercontent.com/48658768/157105330-6db6ecae-75b4-4b0b-9fe8-4762ef389931.gif)
+![Worktree remove](https://user-images.githubusercontent.com/48658768/160238740-e9e5dc1a-4c45-4d66-a6c1-4a8ae73d412d.gif)
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
