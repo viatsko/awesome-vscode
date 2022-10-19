@@ -569,7 +569,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Rust
 
-- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Linting, auto-completion, code formatting, snippets and more
+- [Rust-Analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Linting, auto-completion, code formatting, snippets and more
 
 ## Terraform
 
