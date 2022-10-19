@@ -38,7 +38,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Bash Debug](#bash-debug)
     - [Shellman](#shellman)
   - [C++](#c)
-      - [More](#more)
+    - [More](#more)
   - [C\#, ASP .NET and .NET Core](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
     - [Calva](#calva)
@@ -103,7 +103,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitLens](#gitlens)
   - [Git Indicators](#git-indicators)
   - [GitLab Workflow](#gitlab-workflow)
-      - [Gradle Tasks](#gradle-tasks)
+    - [Gradle Tasks](#gradle-tasks)
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [Jira and Bitbucket](#jira-and-bitbucket)
@@ -268,7 +268,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
-- [Shaders (*HLSL*, *GLSL*, *Cg*) ](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
+- [Shaders (*HLSL*, *GLSL*, *Cg*)](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
@@ -318,7 +318,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и*.os files in VSC, add IntelliSense and syntax helper for 1С lang
 
 ## AutoHotkey
 
@@ -569,7 +569,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Rust
 
-- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
+- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Linting, auto-completion, code formatting, snippets and more
 
 ## Terraform
 
