@@ -483,6 +483,10 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ## PHP
 
+- [PHP Tools](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) - Rich language support for the PHP language: linting, debugging, intellisense, auto-completion, code formatting, refactoring, unit testing, and more.
+
+![PHP Tools Intellisense demo screenshot](https://raw.githubusercontent.com/DEVSENSE/phptools-docs/master/docs/vscode/imgs/completion-tooltip.gif)
+
 ### IntelliSense
 
 These extensions provide slightly different sets of features. While the first one offers better autocompletion support, the second one seems to have more features overall.
