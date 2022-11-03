@@ -97,6 +97,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Toggle](#toggle)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
     - [Gi](#gi)
+  - [genv](#genv)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
@@ -687,6 +688,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Generating .gitignore files made easy.
 
 ![.gitignore generation animation](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
+
+## [genv](https://marketplace.visualstudio.com/items?itemName=run-ai.vscode-genv)
+
+> Interactively control, configure and monitor the GPU resources that your Visual Studio Code session is using without code changes.
+
+![genv](https://github.com/run-ai/vscode-genv/blob/main/resources/readme/overview.gif)
 
 ## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
