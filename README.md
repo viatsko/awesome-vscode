@@ -539,6 +539,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ### Other extensions
 
+- [PHP Create Class](https://marketplace.visualstudio.com/items?itemName=jaguadoromero.vscode-php-create-class) - An extension for create Class / Interface / Trait / Enum from context menu in file explorer or in opened file.
+
+![PHP Create Class](https://raw.githubusercontent.com/jaguadoromero/vscode-php-create-class/master/test-class.gif)
+
 - [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Formatting for the HTML in PHP files. Runs before the save action so you can still have a PHP formatter.
 
 ![Format HTML in PHP](https://raw.githubusercontent.com/RiFi2k/format-html-in-php/master/format-html-in-php.gif)
