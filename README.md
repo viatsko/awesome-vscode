@@ -139,19 +139,19 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Yo](#yo)
   - [Timing](#timing)
 - [Formatting & Beautification](#formatting--beautification)
-  - [Better Align](#better-align)
+  - [Auto Import](#auto-import)
   - [Auto Rename Tag](#auto-rename-tag)
   - [beautify](#beautify)
     - [html2pug](#html2pug)
+  - [Better Align](#better-align)
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Formatting Toggle](#formatting-toggle)  
   - [Paste and Indent](#paste-and-indent)
+  - [shell-format](#shell-format)
   - [Sort Lines](#sort-lines)
   - [Surround](#surround)
-  - [Wrap Selection](#wrap-selection)
-  - [Formatting Toggle](#formatting-toggle)
-  - [Auto Import](#auto-import)
-  - [shell-format](#shell-format)
   - [Vscode Google Translate](#vscode-google-translate)
+  - [Wrap Selection](#wrap-selection)
   - [Explorer Icons](#explorer-icons)
     - [City Lights Icons](#city-lights-icons)
     - [VSCode Icons](#vscode-icons)
@@ -921,13 +921,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 # Formatting & Beautification
 
-## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+> Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
-> Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
->
-> And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
-
-![Better Align](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)
+![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
 
 ## Auto Rename Tag
 
@@ -945,17 +942,35 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Transform html to pug inside your Visual Studio Code, forget about using an external page anymore.
 
+## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+
+> Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
+>
+> And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
+
+![Better Align](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)
+
+
 ## [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
 
 > Transform quotes of ECMAScript string literals
 
 ![Transform quotes of ECMAScript string literals animation](https://cloud.githubusercontent.com/assets/970430/10563944/4cc04462-75d1-11e5-984b-41e0a21a72c3.gif)
 
+## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
+
+> Allows you to toggle your formatter on and off with a simple click
+
 ## [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
 
 > Paste code with "correct" indentation
 
 ![Indentation of pasted code animation](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/pasteandindent.gif)
+
+## [shell-format](https://github.com/foxundermoon/vs-shell-format)
+> shell script & Dockerfile & dotenv format
+
+![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
 
 ## [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 
@@ -967,6 +982,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > A simple yet powerful extension to add wrapper templates around your code blocks.
 
+## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
+> Quickly translate selected text right in your code
+
+![Vscode Google Translate](https://raw.githubusercontent.com/funkyremi/vscode-google-translate/master/demo.gif)
+
+
 ![Wrap a template around a code block](https://raw.githubusercontent.com/yatki/vscode-surround/master/images/demo.gif)
 
 ## [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection)
@@ -974,25 +995,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Wraps selection or multiple selections with symbol or multiple symbols
 
 ![Wraps selection or multiple selections with symbol or multiple symbols animation](https://github.com/gko/wrap/blob/master/features.gif)
-
-## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
-
-> Allows you to toggle your formatter on and off with a simple click
-
-## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-> Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
-
-![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
-
-## [shell-format](https://github.com/foxundermoon/vs-shell-format)
-> shell script & Dockerfile & dotenv format
-
-![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
-
-## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
-> Quickly translate selected text right in your code
-
-![Vscode Google Translate](https://raw.githubusercontent.com/funkyremi/vscode-google-translate/master/demo.gif)
 
 ## Explorer Icons
 
