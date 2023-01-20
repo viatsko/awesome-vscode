@@ -150,6 +150,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Indent Rainbow](#indent-rainbow)
   - [Output Colorizer](#output-colorizer)  
   - [Paste and Indent](#paste-and-indent)
+  - [Peacock](#peacock)
   - [shell-format](#shell-format)
   - [Sort Lines](#sort-lines)
   - [Surround](#surround)
@@ -982,6 +983,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Paste code with "correct" indentation
 
 ![Indentation of pasted code animation](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/pasteandindent.gif)
+
+## [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+> Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
+
+![Peacock](https://raw.githubusercontent.com/johnpapa/vscode-peacock/main/resources/hero.png)
 
 ## [shell-format](https://github.com/foxundermoon/vs-shell-format)
 > shell script & Dockerfile & dotenv format
