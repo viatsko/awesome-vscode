@@ -144,31 +144,32 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [beautify](#beautify)
     - [html2pug](#html2pug)
   - [Better Align](#better-align)
+  - [Color Highlight](#color-highlight)  
   - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
-  - [Formatting Toggle](#formatting-toggle)  
+  - [Formatting Toggle](#formatting-toggle)
+  - [Indent Rainbow](#indent-rainbow)
+  - [Output Colorizer](#output-colorizer)  
   - [Paste and Indent](#paste-and-indent)
   - [shell-format](#shell-format)
   - [Sort Lines](#sort-lines)
   - [Surround](#surround)
+  - [Text Marker (Highlighter)](#text-marker-highlighter)  
   - [Vscode Google Translate](#vscode-google-translate)
   - [Wrap Selection](#wrap-selection)
   - [Explorer Icons](#explorer-icons)
     - [City Lights Icons](#city-lights-icons)
-    - [VSCode Icons](#vscode-icons)
-    - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
+    - [Seti Icons](#seti-icons)
+    - [VSCode Icons](#vscode-icons)
 - [Uncategorized](#uncategorized)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
-  - [Color Highlight](#color-highlight)
-  - [Output Colorizer](#output-colorizer)
   - [Dash](#dash)
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [ftp-sync](#ftp-sync)
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
-  - [Indent Rainbow](#indent-rainbow)
   - [iTerm2 Theme Sync](#iterm2-theme-sync)
   - [Password Generator](#password-generator)
   - [PlatformIO](#platformio)
@@ -180,7 +181,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Spotify](#spotify)
   - [SVG](#svg)
   - [SVG Viewer](#svg-viewer)
-  - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [ESDOC MDN](#esdoc-mdn)
   - [Interface generator](#interface-generator)
   - [JFrog](#jfrog)
@@ -950,6 +950,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Better Align](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)
 
+## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+> Highlight web colors in your editor
+
+![Highlight web colors in your editor screenshot](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 
 ## [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
 
@@ -960,6 +965,17 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
 
 > Allows you to toggle your formatter on and off with a simple click
+
+## [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+> A simple extension to make indentation more readable.
+
+![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
+
+## [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+> Syntax highlighting for the VS Code Output Panel and log files
+
+![IBM.output-colorizer](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
 
 ## [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
 
@@ -982,6 +998,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > A simple yet powerful extension to add wrapper templates around your code blocks.
 
+## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
+
+> Highlight multiple text patterns with different colors at the same time. Highlighting a single text pattern can be done with the editor's search functionality, but it cannot highlight multiple patterns at the same time, and this is where this extension comes handy.
+
+![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
+
 ## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
 > Quickly translate selected text right in your code
 
@@ -1002,17 +1024,17 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![City Lights Icons](https://raw.githubusercontent.com/yummygum/city-lights-icons-vsc/master/city-lights-icon-preview.gif)
 
-### [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-![VSCode Icons](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
+![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 ### [Seti Icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
 
 ![Seti Icons](https://raw.githubusercontent.com/hellopao/vscode-seti-icons/master/screenshot.png)
 
-### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+### [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
-![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
+![VSCode Icons](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
 
 # Uncategorized
 
@@ -1033,17 +1055,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Automatic time reports by project and other programming metrics right in VS Code.
 
 ![Code Time](https://camo.githubusercontent.com/918d2dfc585074f3b20566723f3ab8ce32e9d23e/68747470733a2f2f737764632d7673636f64652e73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f636f64652d74696d652d66656174757265732e706e67)
-
-## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-
-> Highlight web colors in your editor
-
-![Highlight web colors in your editor screenshot](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
-
-## [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
-> Syntax highlighting for the VS Code Output Panel and log files
-
-![IBM.output-colorizer](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
 
 ## [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash)
 
@@ -1072,12 +1083,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Highlights matching tags in the file.
 
 ![](https://camo.githubusercontent.com/010b886fb93f49c56e4c7308ba0a5a1aca8a2db7/68747470733a2f2f692e696d67626f782e636f6d2f4455584c467657372e676966)
-
-## [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-
-> A simple extension to make indentation more readable.
-
-![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
 
 ## [iTerm2 Theme Sync](https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-iterm2-theme-sync)
 
@@ -1141,12 +1146,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > View an SVG in the editor and export it as data URI scheme or PNG.
 
 ![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
-
-## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
-
-> Highlight multiple text patterns with different colors at the same time. Highlighting a single text pattern can be done with the editor's search functionality, but it cannot highlight multiple patterns at the same time, and this is where this extension comes handy.
-
-![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
 ## [ESDOC MDN](https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn)
 
