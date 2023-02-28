@@ -1455,6 +1455,7 @@ A list of Twitter accounts for various people in the VS Code Community
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
 - [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
+- [vsce-publish](github.com/tu6ge/vsce-publish) - This [GitHub Action][github actions] publishes to visual studio marketplace, and it can automatic add git tag after publish
 
 # Online Courses
 
