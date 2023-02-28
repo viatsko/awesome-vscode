@@ -111,6 +111,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [JS Parameter Annotations](#js-parameter-annotations)
   - [Jumpy](#jumpy)
   - [Kanban](#kanban)
+  - [Laravel Traveller](#laravel-traveller)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [ngrok for VSCode](#ngrok-for-vscode)
@@ -763,6 +764,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![kanban](https://raw.githubusercontent.com/mkloubert/vscode-kanban/master/img/demo1.gif)
 
 > Simple Kanban board for use in Visual Studio Code, with time tracking and Markdown support.
+
+## [Laravel Traveller](https://marketplace.visualstudio.com/items?itemName=freshbitsweb.laravel-traveller)
+
+> Travel through your Laravel app by just clicking on links.
+
+![Laravel Traveller](https://raw.githubusercontent.com/freshbitsweb/laravel-traveller/master/images/open_latest_log_file.gif)
 
 ## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
