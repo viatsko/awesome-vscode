@@ -195,6 +195,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Ayu by teabyii](#ayu-by-teabyii)
     - [Borealis Theme by Alexander Eckert](#borealis-theme-by-alexander-eckert)
     - [Captain Sweetheart by ultradracula](#captain-sweetheart-by-ultradracula)
+    - [CG Media Theme](#cgmedia-theme)
     - [City Lights by Yummygum](#city-lights-by-yummygum)
     - [Cobalt2 Theme Official by Wes Bos](#cobalt2-theme-official-by-wes-bos)
     - [Dracula Official by Dracula Theme](#dracula-official-by-dracula-theme)
@@ -1239,7 +1240,7 @@ Tuff but sweet theme.
   <img src="./themes/screenshots/ultradracula.captain-sweetheart.png" width="600" />
 </a>
 
-### [CG Media Theme](https://vscodethemes.com/e/cgwebdev2003.cg-media-theme/cg-media-theme)
+### [CGMedia Theme](https://vscodethemes.com/e/cgwebdev2003.cg-media-theme/cg-media-theme)
 
 A theme for HTML, CSS and JavaScript
 
