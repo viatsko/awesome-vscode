@@ -1239,6 +1239,15 @@ Tuff but sweet theme.
   <img src="./themes/screenshots/ultradracula.captain-sweetheart.png" width="600" />
 </a>
 
+### [CG Media Theme](https://vscodethemes.com/e/cgwebdev2003.cg-media-theme/cg-media-theme)
+
+A theme for HTML, CSS and JavaScript
+
+<a href="https://vscodethemes.com/e/cgwebdev2003.cg-media-theme/cg-media-theme" target="_blank">
+  <img src="./themes/screenshots/cgwebdev2003.cgmediatheme.png" width="600">
+</a>
+
+
 ### [City Lights by Yummygum](https://vscodethemes.com/e/Yummygum.city-lights-theme)
 
 🏙 Yummygum's Official City Lights suite
