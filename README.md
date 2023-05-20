@@ -203,6 +203,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Fairy Floss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
     - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
     - [Jellybeans Theme by Dimitar Nonov](#jellybeans-theme-by-dimitar-nonov)
+    - [Lightbulb Theme by Yulian Kraynyak](#lightbulb-theme-by-yulian-kraynyak)
     - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
     - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
     - [Mno by u29dc](#mno-by-u29dc)
@@ -1301,6 +1302,14 @@ Jellybeans Theme for Visual Studio Code.
 
 <a href="https://vscodethemes.com/e/DimitarNonov.jellybeans-theme">
   <img src="./themes/screenshots/jellybeans-theme.png" width="600" />
+</a>
+
+### [Lightbulb Theme by Yulian Kraynyak](https://vscodethemes.com/e/ykray.lightbulb)
+
+Lightbulb Theme for Visual Studio Code.
+
+<a href="https://vscodethemes.com/e/ykray.lightbulb">
+  <img src="./themes/screenshots/ykray.lightbulb.png" width="600" />
 </a>
 
 ### [Material Palenight Theme by whizkydee](https://vscodethemes.com/e/whizkydee.material-palenight-theme)
