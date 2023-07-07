@@ -103,6 +103,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
   - [Git Indicators](#git-indicators)
+  - [GitoCommito](#gitocommito)
   - [GitLab Workflow](#gitlab-workflow)
       - [Gradle Tasks](#gradle-tasks)
   - [Icon Fonts](#icon-fonts)
@@ -722,6 +723,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
+
+## [GitoCommito](https://marketplace.visualstudio.com/items?itemName=mvalente.gitocommito)
+
+> Generate Commit Messaged based on staged changes
+
+![git added indicator screenshot](https://raw.githubusercontent.com/miguelvalente/gitocommito/master/assets/GitoCommito.gif)
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
