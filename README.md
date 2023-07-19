@@ -135,6 +135,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
+  - [I Don't Care About Commit Message](#i-dont-care-about-commit-message)
   - [WakaTime](#wakatime)
   - [Yo](#yo)
   - [Timing](#timing)
@@ -902,6 +903,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > TypeScript Language Service Plugin providing a set of source actions for easy objects destructuring
 
 ![Typescript Destructure](https://raw.githubusercontent.com/tusaeff/vscode-typescript-destructure-plugin/master/assets/destructure-to-constant.gif)
+
+## [I Don't Care About Commit Message](https://marketplace.visualstudio.com/items?itemName=mefengl.vscode-i-dont-care-about-commit-message)
+
+> A VS Code extension aiming to keep commit keystrokes to a bare minimum via LLM.
+
+![I Don't Care About Commit Message](https://raw.githubusercontent.com/mefengl/vscode-i-dont-care-about-commit-message/main/res/vscode-i-dont-care-about-commit-message.gif)
 
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
