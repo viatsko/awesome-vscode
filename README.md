@@ -57,6 +57,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Facebook Flow](#facebook-flow)
     - [TypeScript](#typescript)
     - [Debugger for Chrome](#debugger-for-chrome-1)
+  - [MATLAB](#matlab)
   - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
     - [Markdown All in One](#markdown-all-in-one)
@@ -260,6 +261,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
+- [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
@@ -464,6 +466,25 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
+
+## [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
+> This extension provides support for editing MATLAB® code in Visual Studio® Code and includes features such as syntax highlighting, code analysis, navigation support, and more.
+
+Without MATLAB installed:
+   - Syntax highlighting
+   - Code snippets
+   - Commenting
+   - Code folding
+
+![Without MATLAB Installed](https://github.com/mathworks/MATLAB-extension-for-vscode/raw/HEAD/public/BasicFeatures.gif)
+
+With MATLAB installed:
+   - Automatic code completion
+   - Source code formatting (document formatting)
+   - Code navigation
+   - Code analysis, such as continuous code checking and automatic fixes
+
+![MATLAB Installed](https://github.com/mathworks/MATLAB-extension-for-vscode/raw/HEAD/public/AdvancedFeatures.gif)
 
 ## Markdown
 
