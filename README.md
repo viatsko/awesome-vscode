@@ -88,6 +88,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
+  - [Better Snippets](#better-snippets)
   - [Bookmarks](#bookmarks)
   - [Browser Preview (deprecated)](#browser-preview)
   - [Color Tabs](#color-tabs)
@@ -271,7 +272,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
-- [Shaders (*HLSL*, *GLSL*, *Cg*) ](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
+- [Shaders (HLSL, GLSL, Cg)](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
@@ -321,7 +322,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и*.os files in VSC, add IntelliSense and syntax helper for 1С lang
 
 ## AutoHotkey
 
@@ -652,6 +653,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Everything you need for the Azure IoT development: Interact with Azure IoT Hub, manage devices connected to Azure IoT Hub, and develop with code snippets for Azure IoT Hub
 
 ![Code snippets for Azure IoT Hub screenshot](https://raw.githubusercontent.com/formulahendry/vscode-azure-iot-toolkit/master/images/device-explorer.png)
+
+## [Better Snippets](https://marketplace.visualstudio.com/items?itemName=zardoy.better-snippets)
+
+> Alternative to VSCode builtin snippets with more control
 
 ## [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
