@@ -83,6 +83,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GistPad](#gistpad)
   - [GitHub Actions](#github-actions)
   - [GitHub Repositories](#github-repositories)
+  - [GitHub Manager](#github-manager)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
 - [Productivity](#productivity)
   - [ARM Template Viewer](#arm-template-viewer)
@@ -626,6 +627,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
 
 > Remotely browse and edit any GitHub repository
+
+## [GitHub Manager](https://marketplace.visualstudio.com/items?itemName=zardoy.github-manager)
+
+> Fast way to switch between cloned repos
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
 
