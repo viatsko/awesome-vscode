@@ -132,6 +132,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
   - [REST Client](#rest-client)
+  - [Stateful](#stateful)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
@@ -899,6 +900,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Allows you to send HTTP request and view the response in Visual Studio Code directly.
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
+
+## [Stateful](https://marketplace.visualstudio.com/items?itemName=stateful.stable)
+
+> Cool graphs, summaries and a rolled up score about your coding time and focus.
+
+![Stateful](https://www.stateful.com/_next/image?url=%2fscreenshots%2fmarketplace-metrics-screenshot.png)
 
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
