@@ -584,6 +584,8 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - A performant, feature-rich language server for Python in VS Code
+![Pylance functionality](https://raw.githubusercontent.com/microsoft/pylance-release/main/screencap.gif)
 
 ### TensorFlow
 
