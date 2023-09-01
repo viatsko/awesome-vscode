@@ -537,6 +537,10 @@ These extensions provide slightly different sets of features. While the first on
 
 ![Support for dotenv file syntax screenshot](https://raw.githubusercontent.com/mikestead/vscode-dotenv/master/images/screenshot.png)
 
+- [Laravel Pint](https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint) - Support for Laravel Pint code formatter
+
+![Laravel Pint demo screenshot](https://raw.githubusercontent.com/open-southeners/vscode-laravel-pint/main/images/demo.gif)
+
 ### Twig
 
 - [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
