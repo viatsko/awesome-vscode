@@ -159,6 +159,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Changes Counter](#changes-counter)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
@@ -1034,6 +1035,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [Changes Counter](https://marketplace.visualstudio.com/items?itemName=LeonardoHolanda.changes-counter)
+> It helps you control the size of your pull requests by indicating the number of changes between your working tree and a given branch. In addition, it provides a warning if the number of changes exceeds a certain threshold for the acceptable pull request size.
+
+![Changes Counter demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE2eWduY3oxaHUxcmRoOGpubHQ3MGM2aDRlYmJsNmRvODNmcDZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AmNBg5C7EyT9APOSUY/giphy.gif)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
