@@ -94,6 +94,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
   - [Deploy](#deploy)
+  - [DevDb](#devdb)
   - [Duplicate Action](#duplicate-action)
   - [Error Lens](#error-lens)
   - [Toggle](#toggle)
@@ -686,6 +687,11 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Commands for upload or copy files of a workspace to a destination.
 
 ![Upload/copy files animation](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
+
+#### [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb)
+> A zero-config VS Code extension written in Vue JS. It auto-loads the application database and displays the data right inside VS Code.
+
+![DevDb screenshots](https://github.com/viatsko/awesome-vscode/assets/9839355/09b4958a-0fd6-4a56-91cb-54608095415b)
 
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
