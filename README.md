@@ -121,7 +121,8 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [npm Intellisense](#npm-intellisense)
   - [Parameter Hints](#parameter-hints)
   - [Partial Diff](#partial-diff)
-    - [Paste JSON as Code](#paste-json-as-code)
+  - [Paste JSON as Code](#paste-json-as-code)
+  - [Paste Text As Image](#paste-text-as-image)
   - [Path Autocomplete](#path-autocomplete)
   - [Path IntelliSense](#path-intellisense)
   - [Power Tools](#power-tools)
@@ -837,11 +838,16 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Partial Diff](https://raw.githubusercontent.com/ryu1kn/vscode-partial-diff/master/images/public.gif)
 
-### [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+## [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
 > Infer the structure of JSON and paste is as types in many programming languages
 
 ![Paste JSON as Code](https://raw.githubusercontent.com/quicktype/quicktype-vscode/master/media/demo.gif)
+
+## [Paste Text As Image](https://marketplace.visualstudio.com/items?itemName=windmillcode-publisher-0.windmillcode-paste-text-from-image)
+> Quickest way to copy and paste text from images greating for retrieving text or code from video content
+
+![Paste Text As Image](https://raw.githubusercontent.com/WindMillCode/Paste-Text-From-Image/1e51963b6bbf2f30c422a02f467fd035a74d8ed5/assets/demo.gif)
 
 ## [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
 
