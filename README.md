@@ -128,6 +128,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [PrintCode](#printcode)
   - [Project Manager](#project-manager)
   - [Project Dashboard](#project-dashboard)
+  - [Quick Command Buttons](#quick-command-buttons)
   - [Rainbow CSV](#rainbow-csv)
   - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
@@ -878,6 +879,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > VSCode Project Dashboard is a Visual Studio Code extension that lets you organize your projects in a speed-dial like manner. Pin your frequently visited folders, files, and SSH remotes onto a dashboard to access them quickly.
 
 ![Project Dashboard](https://user-images.githubusercontent.com/5564731/79053450-b7663700-7c3d-11ea-8498-bbfe7723b47f.gif)
+
+## [Quick Command Buttons](https://marketplace.visualstudio.com/items?itemName=KubrickCode.quick-command-buttons)
+
+> Transform your VS Code workflow with customizable command buttons. Execute terminal commands and VS Code functions with one-click, featuring smart grouping and drag & drop configuration.
+
+![Before vs After](https://raw.githubusercontent.com/KubrickCode/Quick-Command-Buttons/main/public/screenshots/before_after.gif)
 
 ## [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 > Highlight columns in comma, tab, semicolon and pipe separated files, consistency check and linting with CSVLint, multi-cursor column editing, column trimming and realignment, and SQL-style querying with RBQL.
