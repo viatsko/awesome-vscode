@@ -1460,6 +1460,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 - [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
+- [react-vscode-webview-ipc](https://github.com/hbmartin/react-vscode-webview-ipc) - A small library to make two-way communication between a VS Code extension host and a React webview simple and type‑safe.
 
 ## Tools
 
