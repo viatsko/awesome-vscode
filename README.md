@@ -132,6 +132,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
   - [REST Client](#rest-client)
+  - [SARIF Explorer](#sarif-explorer)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
@@ -899,6 +900,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Allows you to send HTTP request and view the response in Visual Studio Code directly.
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
+
+## [SARIF Explorer](https://marketplace.visualstudio.com/items?itemName=trailofbits.sarif-explorer)
+
+> SARIF Explorer enables you to review static analysis results effectively and enjoyably. It allows you to classify your tool's results as Bug or False Positive, add comments to the results, export the bugs you triaged, and much more.
+
+![SARIF Explorer](https://github.com/trailofbits/vscode-sarif-explorer/raw/HEAD/media/README/gif/classify_results.gif)
 
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
