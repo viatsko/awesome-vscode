@@ -393,6 +393,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Go
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Rich language support for the Go language.
+- [Keploy Unit Test Generator](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) - VS Code extension for generating and running unit tests in Go
 
 ## Groovy
 
