@@ -91,6 +91,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Bookmarks](#bookmarks)
   - [Browser Preview (deprecated)](#browser-preview)
   - [Color Tabs](#color-tabs)
+  - [Code Telescope](#code-telescope)
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
   - [Deploy](#deploy)
@@ -668,6 +669,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
 
 ![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/coverGif.gif)
+
+## [Code Telescope](https://marketplace.visualstudio.com/items?itemName=guichina.code-telescope)
+
+> A keyboard-first fuzzy finder for VS Code that helps you navigate files, symbols, text, diagnostics and more, inspired by Neovim Telescope.
+
+![Code Telescope demo](https://raw.githubusercontent.com/guilhermec-costa/code-telescope/master/images/code-telescope.gif)
+
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
