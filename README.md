@@ -159,6 +159,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Camouflage](#camouflage)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
@@ -1034,6 +1035,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [Camouflage](https://marketplace.visualstudio.com/items?itemName=zeybek.camouflage)
+
+> Hide sensitive values in configuration files (.env, JSON, YAML, TOML, .properties, .sh) while editing. Perfect for screen sharing, recordings, or screenshots without exposing secrets.
+
+![Camouflage Screenshot](https://raw.githubusercontent.com/zeybek/camouflage/master/images/screenshot.png)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
