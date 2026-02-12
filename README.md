@@ -492,6 +492,10 @@ With MATLAB installed:
 
 > Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
 
+
+### [agnix](https://marketplace.visualstudio.com/items?itemName=avifenesh.agnix)
+
+> Linter for AI agent configuration files (CLAUDE.md, SKILL.md, hooks, MCP, .cursorrules) with 156 validation rules, auto-fix, and real-time diagnostics via LSP.
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 > All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
