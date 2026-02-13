@@ -133,6 +133,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Remote VSCode](#remote-vscode)
   - [REST Client](#rest-client)
   - [Text Power Tools](#text-power-tools)
+  - [Taskade MCP Server](#taskade-mcp-server)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
@@ -905,6 +906,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > All-in-one extension for text manipulation: filtering (grep), remove lines, insert number sequences and GUIDs, format content as table, change case, converting numbers and more. Great for finding information in logs and manipulating text.
 
 ![Text Power Tools](https://raw.githubusercontent.com/qcz/vscode-text-power-tools/89a1d9d7be3edfc9bcf112fe427c662655cb60cc/images/filtering.gif)
+
+
+## [Taskade MCP Server](https://github.com/taskade/mcp)
+
+> MCP server for AI-powered project management in VS Code and Cursor. Provides 62+ tools for managing workspaces, projects, tasks, AI agents, and more via the Model Context Protocol.
 
 ## [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
