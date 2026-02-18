@@ -1093,6 +1093,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![](https://camo.githubusercontent.com/010b886fb93f49c56e4c7308ba0a5a1aca8a2db7/68747470733a2f2f692e696d67626f782e636f6d2f4455584c467657372e676966)
 
 ## [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+#### [Mysti](https://marketplace.visualstudio.com/items?itemName=DeepMyst.mysti)
+
+> Multi-agent AI coding assistant. Claude Code, Codex, Gemini, and GitHub Copilot brainstorm together, debate approaches, and deliver collaborative solutions. Like Cursor & Copilot, but with collaborative AI agents.
+
 
 > A simple extension to make indentation more readable.
 
