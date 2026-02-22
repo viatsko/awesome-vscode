@@ -62,6 +62,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [markdownlint](#markdownlint)
     - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
+    - [MEO](#meo)
   - [PHP](#php)
     - [PHP Tools](#php-tools)
     - [IntelliSense](#intellisense)
