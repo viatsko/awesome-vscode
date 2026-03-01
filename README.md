@@ -635,6 +635,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 # Productivity
 
+## [Argus - Claude Code Session Debugger](https://github.com/yessGlory17/argus)
+
+> Analyze and debug Claude Code sessions with detailed insights, performance metrics, and cost tracking. Monitor your AI-assisted development workflow, track token usage, identify optimization opportunities, and gain visibility into your Claude Code interactions with comprehensive analytics and visual reports.
+
+![Argus Session Analysis](https://raw.githubusercontent.com/yessGlory17/argus/main/designs/screenshot.png)
+
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
 > Displays a graphical preview of Azure Resource Manager (ARM) templates. The view will show all resources with the official Azure icons and also linkage between the resources.
