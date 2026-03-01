@@ -85,6 +85,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitHub Repositories](#github-repositories)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
 - [Productivity](#productivity)
+  - [Argus - Claude Code Session Debugger](#argus---claude-code-session-debugger)
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
