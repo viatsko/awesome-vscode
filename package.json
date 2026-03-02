@@ -5,5 +5,13 @@
   "repository": "git@github.com:viatsko/awesome-vscode.git",
   "author": "Valerii Iatsko <viatsko@viatsko.me>",
   "license": "CC0-1.0",
-  "private": true
+  "private": true,
+  "scripts": {
+    "scripts:download-convert-images": "node ./scripts/download-convert-images.js"
+  },
+  "dependencies": {
+    "gifsicle": "^3.0.4",
+    "node-fetch": "^2.2.0",
+    "sharp": "^0.20.5"
+  }
 }
