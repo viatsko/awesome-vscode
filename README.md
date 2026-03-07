@@ -978,6 +978,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Indentation of pasted code animation](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/pasteandindent.gif)
 
+## [Skill Dock](https://marketplace.visualstudio.com/items?itemName=skill-dock.skill-dock)
+
+> Local-first agent skill manager for VS Code. Browse, create, and import skills across Claude, Cursor, Copilot, and 20+ AI tools. Includes a marketplace with skills.sh integration.
+
 ## [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 
 > Sorts lines of text in specific order
