@@ -736,6 +736,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![GitLens inline git information animation](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/docs/gitlens-preview.gif)
 
+
+## [CommitCraft AI](https://marketplace.visualstudio.com/items?itemName=CommitCraftAI.commitcraft-ai)
+
+> AI-powered git commit message generator. Reads your staged diff and generates conventional commits, PR descriptions & changelogs in one click. Free tier: 20/month.
+
+
 ## [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
 
 > Atom-like git indicators on active panel
