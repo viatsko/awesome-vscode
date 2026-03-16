@@ -486,6 +486,12 @@ With MATLAB installed:
 
 ![MATLAB Installed](https://github.com/mathworks/MATLAB-extension-for-vscode/raw/HEAD/public/AdvancedFeatures.gif)
 
+## Lingua Universale
+
+### [Lingua Universale](https://marketplace.visualstudio.com/items?itemName=cervellaswarm.lingua-universale)
+
+> Syntax highlighting, real-time linting, auto-format, and LSP support for `.lu` protocol files. Verify AI agent communication protocols directly in VS Code.
+
 ## Markdown
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
