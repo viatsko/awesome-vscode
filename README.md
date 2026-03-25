@@ -92,6 +92,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Browser Preview (deprecated)](#browser-preview)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
+  - [Cortex](https://marketplace.visualstudio.com/items?itemName=cortex-dev.cortex-ai-memory)
   - [Dendron](#dendron)
   - [Deploy](#deploy)
   - [Duplicate Action](#duplicate-action)
@@ -674,6 +675,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > An extension to quickly generate test files.
 
 ![Create tests extension animation](https://media.giphy.com/media/1iqPhENd8SLd9SggeX/giphy.gif)
+
+## [Cortex](https://marketplace.visualstudio.com/items?itemName=cortex-dev.cortex-ai-memory)
+
+> Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context from Claude Code, Cursor, and Cline sessions.
 
 ## [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron)
 
