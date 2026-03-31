@@ -111,6 +111,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Jira and Bitbucket](#jira-and-bitbucket)
   - [JS Parameter Annotations](#js-parameter-annotations)
   - [Jumpy](#jumpy)
+  - [Kagan](#kagan)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
@@ -778,6 +779,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Provides fast cursor movement, inspired by Atom's package of the same name.
 
 ![Jumpy](https://cloud.githubusercontent.com/assets/2899448/19660934/0481c44c-9a32-11e6-87cc-1f8913922ccb.gif)
+
+## [Kagan](https://marketplace.visualstudio.com/items?itemName=kagan.kagan-vscode)
+
+> AI-powered Kanban board for orchestrating coding agents in VS Code. Manage tasks, stream agent output, review diffs, and merge without leaving the editor.
+
+![Kagan](https://raw.githubusercontent.com/kagan-sh/kagan/main/.github/assets/demo.png)
 
 ## [Kanban](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
 
