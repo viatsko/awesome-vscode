@@ -55,7 +55,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Debugger for Chrome](#debugger-for-chrome)
     - [Facebook Flow](#facebook-flow)
     - [TypeScript](#typescript)
-    - [Debugger for Chrome](#debugger-for-chrome-1)
   - [MATLAB](#matlab)
   - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
@@ -459,12 +458,6 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [vscode-flow-ide](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - an alternative Flowtype extension for Visual Studio Code
 
 ### TypeScript
-
-- [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code.
-
-### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-
-> A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
 ## [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
 > This extension provides support for editing MATLAB® code in Visual Studio® Code and includes features such as syntax highlighting, code analysis, navigation support, and more.
