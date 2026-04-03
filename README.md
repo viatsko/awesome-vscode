@@ -103,6 +103,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
+  - [Git AutoReview](#git-autoreview)
   - [Git Indicators](#git-indicators)
   - [GitLab Workflow](#gitlab-workflow)
       - [Gradle Tasks](#gradle-tasks)
@@ -743,6 +744,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
+
+## [Git AutoReview](https://marketplace.visualstudio.com/items?itemName=vitalii4reva.git-autoreview)
+
+> AI-powered code review that runs three models (Claude, GPT, Gemini) against your PRs and flags real bugs, security holes, and performance issues — works with GitHub, GitLab, and Bitbucket without leaving VS Code.
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
