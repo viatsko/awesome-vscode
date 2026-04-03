@@ -488,6 +488,10 @@ With MATLAB installed:
 
 ## Markdown
 
+### [IWE](https://marketplace.visualstudio.com/items?itemName=IWE.iwe)
+
+> LSP-powered markdown knowledge management with go-to-definition, backlinks, link completion, and code actions.
+
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 > Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
