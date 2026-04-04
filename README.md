@@ -261,6 +261,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
+- [Lateralus](https://marketplace.visualstudio.com/items?itemName=lateralus.lateralus-lang) - Pipeline-native language with full LSP, syntax highlighting for 7 file types, 50+ snippets, and 15 custom file icons
 - [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
