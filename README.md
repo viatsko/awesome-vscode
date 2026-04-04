@@ -669,6 +669,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/coverGif.gif)
 
+## [Ptah - The Coding Orchestra](https://marketplace.visualstudio.com/items?itemName=ptah-extensions.ptah-coding-orchestra)
+
+> Multi-provider AI coding assistant that connects to OpenRouter, Kimi, GLM, Copilot, Gemini, and Codex from one interface. Features CLI agent orchestration, built-in MCP server, plugin ecosystem with 19+ skills, and workspace intelligence with project-adaptive AI agents.
+
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
 > An extension to quickly generate test files.
