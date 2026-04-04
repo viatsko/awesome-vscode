@@ -178,6 +178,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Quokka](#quokka)
   - [Runner](#runner)
   - [Slack](#slack)
+  - [ShopSavvy](#shopsavvy)
   - [Spotify](#spotify)
   - [SVG](#svg)
   - [SVG Viewer](#svg-viewer)
@@ -1143,6 +1144,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Send messages and code snippets, upload files to Slack
 
 ![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
+
+## [ShopSavvy](https://marketplace.visualstudio.com/items?itemName=shopsavvy.vscode-shopsavvy)
+
+> Search products, check prices across retailers, and get instant ASIN hover tooltips in your code.
 
 ## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
 > Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
