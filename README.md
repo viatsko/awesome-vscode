@@ -286,6 +286,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 > **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for VS Code-integrated multi-agent orchestration, automated code review, and development workflow management. MIT licensed.
 ## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
 
 > Popular Atom key bindings for Visual Studio Code
