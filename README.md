@@ -96,6 +96,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Deploy](#deploy)
   - [Duplicate Action](#duplicate-action)
   - [Error Lens](#error-lens)
+  - [Agent Shadow Brain](#agent-shadow-brain)
   - [Toggle](#toggle)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
     - [Gi](#gi)
@@ -696,6 +697,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Show language diagnostics inline (errors/warnings/...).
 
 ![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
+
+## [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)
+
+> AI-powered background code analysis agent that works as a CLI companion for VS Code development — provides real-time code quality insights, pattern detection, and neural mesh networking for multi-model intelligence.
+
+![Agent Shadow Brain](https://raw.githubusercontent.com/theihtisham/agent-shadow-brain/main/banner.svg)
 
 ## [Toggle](https://marketplace.visualstudio.com/items?itemName=rebornix.toggle)
 
