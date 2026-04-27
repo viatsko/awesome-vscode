@@ -467,6 +467,10 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
+## [Lateralus](https://marketplace.visualstudio.com/items?itemName=lateralus.lateralus-lang)
+
+> Syntax highlighting, snippets, and build/run commands for the Lateralus systems language (`.ltl`) — the language behind LateralusOS. Includes commands for invoking the `ltlc` compiler, building the OS via `make`, and running it in QEMU.
+
 ## [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
 > This extension provides support for editing MATLAB® code in Visual Studio® Code and includes features such as syntax highlighting, code analysis, navigation support, and more.
 
