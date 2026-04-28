@@ -584,6 +584,8 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+- [Python Venv Activator](https://marketplace.visualstudio.com/items?itemName=krextensions.venv-activator) - Auto-detects and activates Python virtual environments (.venv, venv, conda) when opening folders. No more forgetting to activate before running scripts.
+- [Code to Flowchart](https://marketplace.visualstudio.com/items?itemName=krextensions.code-to-flowchart) - Generate Mermaid flowcharts from your Python code for documentation and code review.
 
 ### TensorFlow
 
