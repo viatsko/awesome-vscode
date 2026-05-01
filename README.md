@@ -928,6 +928,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Automatic time tracker and productivity dashboard showing how long you coded in each project, file, branch, and language.
 
+## [Workspai](https://marketplace.visualstudio.com/items?itemName=rapidkit.rapidkit-vscode)
+
+> AI workspace for backend teams. Build backend systems with an AI that knows your workspace — dashboard, AI workspace builder, context-aware debugging powered by GitHub Copilot, 27+ modules, and clean architecture. Supports FastAPI, NestJS, Spring Boot, Go/Fiber, Go/Gin.
+
+![Workspai](https://raw.githubusercontent.com/getrapidkit/rapidkit-vscode/main/media/screenshots/workspai-screenshot-1.png)
+
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
 > Scaffold projects using [Yeoman](https://yeoman.io/)
