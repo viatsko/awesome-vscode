@@ -1284,6 +1284,14 @@ Official Dracula Theme. A dark theme for many editors, shells, and more.
   <img src="./themes/screenshots/dracula-theme.theme-dracula.png" width="600" />
 </a>
 
+### [Dusk Office by dekidev](https://marketplace.visualstudio.com/items?itemName=dekidev.dusk-office)
+
+A 26-variant theme pack tuned for finance, audit, banking, fintech, SOC monitoring, DevOps, and long coding sessions. Includes WCAG-verified terminal contrast, semantic highlighting, adaptive focus, and an optional product icon theme. MIT licensed.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=dekidev.dusk-office">
+  <img src="./themes/screenshots/dekidev.dusk-office.png" width="600" />
+</a>
+
 ### [Edge by Bogdan Lazar](https://vscodethemes.com/e/bogdanlazar.edge)
 
 A simple theme with bright colors in three variants — Night Sky, Serene and Ocean for all day long comfortable work.
