@@ -191,6 +191,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [2077 theme by Endormi](#2077-theme-by-endormi)
     - [An Old Hope Theme by Dustin Sanders](#an-old-hope-theme-by-dustin-sanders)
     - [Ariake Dark by wart](#ariake-dark-by-wart)
+    - [ARN-Skin by Jason Zbakh](#arn-skin-by-jason-zbakh)
     - [Atom One Dark Theme by Mahmoud Ali](#atom-one-dark-theme-by-mahmoud-ali)
     - [Atomize by emroussel](#atomize-by-emroussel)
     - [Ayu by teabyii](#ayu-by-teabyii)
@@ -1218,6 +1219,14 @@ Dark VSCode theme inspired by Japanese traditional colors and the poetry compose
 
 <a href="https://vscodethemes.com/e/wart.ariake-dark">
   <img src="./themes/screenshots/wart.ariake-dark.png" width="600" />
+</a>
+
+### [ARN-Skin by Jason Zbakh](https://vscodethemes.com/e/jzbakh.antigravity-arn-skin)
+
+7 space-themed skins (6 dark + 1 light) with 12-color quick customization and 5 smart toggles.
+
+<a href="https://vscodethemes.com/e/jzbakh.antigravity-arn-skin">
+  <img src="./themes/screenshots/jzbakh.antigravity-arn-skin.png" width="600" />
 </a>
 
 ### [Atom One Dark Theme by Mahmoud Ali](https://vscodethemes.com/e/akamud.vscode-theme-onedark)
