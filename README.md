@@ -132,6 +132,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
   - [REST Client](#rest-client)
+  - [Snappy Link](#snappy-link)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
@@ -899,6 +900,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Allows you to send HTTP request and view the response in Visual Studio Code directly.
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
+
+## [Snappy Link](https://marketplace.visualstudio.com/items?itemName=DenisMal.snappy-link)
+
+> Instantly package, encrypt (AES-256), and share your workspace via a single URL.
 
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
