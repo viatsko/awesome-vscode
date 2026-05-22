@@ -442,6 +442,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
+- [NPM Safety Guard](https://marketplace.visualstudio.com/items?itemName=Sendwavehubtech.npm-safety-guard) - Detects malicious npm packages, CVEs, and supply-chain attacks (typosquat, dependency confusion, install hooks) before installation.
 
 - [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
 
