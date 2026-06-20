@@ -1015,6 +1015,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Vscode Google Translate](https://raw.githubusercontent.com/funkyremi/vscode-google-translate/master/demo.gif)
 
+## [JSON & XML Toolkit](https://marketplace.visualstudio.com/items?itemName=BerkeKaracaoglan.json-xml-toolkit)
+
+> A complete workbench for JSON & XML: prettify, minify, escape, repair, sort, query, and convert.
+
 ## Explorer Icons
 
 ### [City Lights Icons](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
