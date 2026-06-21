@@ -132,7 +132,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
-  - [Yo](#yo)
   - [Timing](#timing)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
@@ -880,12 +879,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
 > Automatic time tracker and productivity dashboard showing how long you coded in each project, file, branch, and language.
-
-## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
-
-> Scaffold projects using [Yeoman](https://yeoman.io/)
-
-![Using yeoman animation](https://raw.githubusercontent.com/SamVerschueren/vscode-yo/master/media/yo.gif)
 
 ## [Timing](https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing)
 
