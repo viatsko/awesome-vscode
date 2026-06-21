@@ -126,7 +126,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Project Dashboard](#project-dashboard)
   - [Rainbow CSV](#rainbow-csv)
   - [Remote Development](#remote-development)
-  - [Remote VSCode](#remote-vscode)
   - [REST Client](#rest-client)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
@@ -847,10 +846,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Allows users to open any folder in a container, on a remote machine, container or in Windows Subsystem for Linux(WSL) and take advantage of VS Code's full feature set.
 
 ![Remote SSH extension at work](https://microsoft.github.io/vscode-remote-release/images/ssh-readme.gif)
-
-## [Remote VSCode](https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode)
-
-> Allow user to edit files from Remote server in Visual Studio Code directly.
 
 ## [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
