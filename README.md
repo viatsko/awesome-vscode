@@ -169,7 +169,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Runner](#runner)
   - [SVG](#svg)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
-  - [ESDOC MDN](#esdoc-mdn)
   - [Interface generator](#interface-generator)
   - [JFrog](#jfrog)
 - [Themes](#themes)
@@ -1062,12 +1061,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Highlight multiple text patterns with different colors at the same time. Highlighting a single text pattern can be done with the editor's search functionality, but it cannot highlight multiple patterns at the same time, and this is where this extension comes handy.
 
 ![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
-
-## [ESDOC MDN](https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn)
-
-> Quickly bring up helpful MDN documentation in the editor
-
-![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
 ## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
 
