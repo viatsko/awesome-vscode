@@ -74,6 +74,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Python](#python)
     - [TensorFlow](#tensorflow)
   - [ReasonML](#reasonml)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Terraform](#terraform)
 - [GitHub](#github)
@@ -568,6 +569,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## ReasonML
 
 - [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
+
+## Ruby
+
+- [Ruby RuboCop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop) - Lint and auto-correct Ruby code with [RuboCop](https://github.com/rubocop/rubocop).
 
 ## Rust
 
