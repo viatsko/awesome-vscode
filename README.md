@@ -573,6 +573,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## Ruby
 
 - [Ruby RuboCop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop) - Lint and auto-correct Ruby code with [RuboCop](https://github.com/rubocop/rubocop).
+- [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - Automatically add `end` to Ruby code blocks as you type.
 
 ## Rust
 
