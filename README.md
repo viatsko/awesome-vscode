@@ -1411,7 +1411,6 @@ A list of Twitter accounts for various people in the VS Code Community
 - [@ErichGamma](https://twitter.com/ErichGamma) - VS Code Dev
 - [@IsidorN](https://twitter.com/IsidorN) - VS Code Dev
 - [@joaomoreno](https://twitter.com/joaomoreno) - VS Code Dev
-- [@johannesrieken](https://twitter.com/johannesrieken) - VS Code Dev
 - [@lannonbr](https://twitter.com/lannonbr) - Creator of vscode.rocks & JS Parameter Annotations extension
 - [@maeschli](https://twitter.com/maeschli) - VS Code Dev
 - [@mattbierner](https://twitter.com/mattbierner) - VS Code Dev
