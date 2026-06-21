@@ -187,6 +187,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [SARIF Explorer](#sarif-explorer)
   - [Document Viewer](#document-viewer)
   - [genv](#genv)
+  - [CodeUI](#codeui)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -1163,6 +1164,10 @@ Product icon theme based on the [Feather](https://feathericons.com/) icon set.
 ## [genv](https://marketplace.visualstudio.com/items?itemName=run-ai.vscode-genv)
 
 > Manage and monitor GPU resources for your VS Code session (GPU environment management for ML/AI work).
+
+## [CodeUI](https://marketplace.visualstudio.com/items?itemName=ryanraposo.codeui)
+
+> Browse and edit your VS Code workbench theme colors through a searchable UI.
 
 # Themes
 
