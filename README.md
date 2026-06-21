@@ -136,6 +136,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [httpYac](#httpyac)
   - [DevDb](#devdb)
   - [Keploy](#keploy)
+  - [SemanticDiff](#semanticdiff)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -896,6 +897,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Keploy](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio)
 
 > Generate unit tests and API tests with mocks from your application traffic.
+
+## [SemanticDiff](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff)
+
+> Language-aware diffs that ignore formatting-only changes and highlight the meaningful edits.
 
 # Formatting & Beautification
 
