@@ -137,6 +137,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [DevDb](#devdb)
   - [Keploy](#keploy)
   - [SemanticDiff](#semanticdiff)
+  - [Trunk](#trunk)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -901,6 +902,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [SemanticDiff](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff)
 
 > Language-aware diffs that ignore formatting-only changes and highlight the meaningful edits.
+
+## [Trunk](https://marketplace.visualstudio.com/items?itemName=Trunk.io)
+
+> Meta-linter and formatter that runs and manages many linters/formatters from one config, plus check, test and merge tooling.
 
 # Formatting & Beautification
 
