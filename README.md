@@ -138,6 +138,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Keploy](#keploy)
   - [SemanticDiff](#semanticdiff)
   - [Trunk](#trunk)
+  - [Peacock](#peacock)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -910,6 +911,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Trunk](https://marketplace.visualstudio.com/items?itemName=Trunk.io)
 
 > Meta-linter and formatter that runs and manages many linters/formatters from one config, plus check, test and merge tooling.
+
+## [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+
+> Subtly change the color of your VS Code workspace — ideal for telling apart identical windows or monorepo projects.
 
 # Formatting & Beautification
 
