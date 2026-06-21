@@ -476,7 +476,7 @@ Without MATLAB installed:
    - Commenting
    - Code folding
 
-![Without MATLAB Installed](https://github.com/mathworks/MATLAB-extension-for-vscode/raw/HEAD/public/BasicFeatures.gif)
+![Without MATLAB Installed](https://raw.githubusercontent.com/mathworks/MATLAB-extension-for-vscode/main/public/BasicFeatures.gif)
 
 With MATLAB installed:
    - Automatic code completion
@@ -484,7 +484,7 @@ With MATLAB installed:
    - Code navigation
    - Code analysis, such as continuous code checking and automatic fixes
 
-![MATLAB Installed](https://github.com/mathworks/MATLAB-extension-for-vscode/raw/HEAD/public/AdvancedFeatures.gif)
+![MATLAB Installed](https://raw.githubusercontent.com/mathworks/MATLAB-extension-for-vscode/main/public/AdvancedFeatures.gif)
 
 ## Markdown
 
