@@ -178,6 +178,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Interface generator](#interface-generator)
   - [JFrog](#jfrog)
   - [SARIF Explorer](#sarif-explorer)
+  - [Document Viewer](#document-viewer)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -1114,6 +1115,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [SARIF Explorer](https://marketplace.visualstudio.com/items?itemName=trailofbits.sarif-explorer)
 
 > Triage static-analysis results from SARIF files: view, group, filter and annotate findings. By Trail of Bits.
+
+## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
+
+> View Word, Excel, PDF, Markdown and CSV files directly inside VS Code.
 
 # Themes
 
