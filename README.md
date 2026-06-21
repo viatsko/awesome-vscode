@@ -410,6 +410,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ![TS/JS postfix completion demo](https://raw.githubusercontent.com/ipatalas/vscode-postfix-ts/master/images/demo-multiline.gif)
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
+- [Quick Require](https://marketplace.visualstudio.com/items?itemName=milkmidi.vs-code-quick-require) - Quickly require/import JavaScript modules by relative path.
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
 ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
