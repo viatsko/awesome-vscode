@@ -136,7 +136,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
   - [html2pug](#html2pug)
-  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
   - [Paste and Indent](#paste-and-indent)
   - [Sort Lines](#sort-lines)
   - [Surround](#surround)
@@ -897,12 +896,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
 > Transform html to pug inside your Visual Studio Code, forget about using an external page anymore.
-
-## [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
-
-> Transform quotes of ECMAScript string literals
-
-![Transform quotes of ECMAScript string literals animation](https://cloud.githubusercontent.com/assets/970430/10563944/4cc04462-75d1-11e5-984b-41e0a21a72c3.gif)
 
 ## [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
 
