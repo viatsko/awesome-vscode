@@ -141,6 +141,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [SemanticDiff](#semanticdiff)
   - [Trunk](#trunk)
   - [Peacock](#peacock)
+  - [Camouflage](#camouflage)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -929,6 +930,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 > Subtly change the color of your VS Code workspace — ideal for telling apart identical windows or monorepo projects.
+
+## [Camouflage](https://marketplace.visualstudio.com/items?itemName=zeybek.camouflage)
+
+> Hide sensitive values in config/.env files so you can safely screen-share or record.
 
 # Formatting & Beautification
 
