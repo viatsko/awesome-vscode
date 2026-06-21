@@ -141,7 +141,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Surround](#surround)
   - [Wrap Selection](#wrap-selection)
   - [Formatting Toggle](#formatting-toggle)
-  - [Auto Import](#auto-import)
   - [shell-format](#shell-format)
   - [Vscode Google Translate](#vscode-google-translate)
   - [Explorer Icons](#explorer-icons)
@@ -924,11 +923,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
 
 > Allows you to toggle your formatter on and off with a simple click
-
-## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-> Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
-
-![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
 
 ## [shell-format](https://github.com/foxundermoon/vs-shell-format)
 > shell script & Dockerfile & dotenv format
