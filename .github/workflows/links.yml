@@ -1,0 +1,18 @@
+name: Links
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  awesome_bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+      - run: gem install awesome_bot
+      - run: awesome_bot README.md --allow-dupe --allow 429 --white-list tslint,code.visualstudio.com,awesome,microsoft.com,viatsko.me,drupal.org,camo.githubusercontent.com
