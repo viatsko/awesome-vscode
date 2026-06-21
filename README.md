@@ -62,6 +62,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
     - [IWE](#iwe)
+    - [MEO](#meo)
   - [PHP](#php)
     - [PHP Tools](#php-tools)
     - [IntelliSense](#intellisense)
@@ -496,6 +497,10 @@ With MATLAB installed:
 ### [IWE](https://marketplace.visualstudio.com/items?itemName=IWE.iwe)
 
 > A markdown knowledge base powered by a language server — backlinks, note search, and a knowledge graph over your markdown files.
+
+### [MEO](https://marketplace.visualstudio.com/items?itemName=vadimmelnicuk.meo)
+
+> A markdown editor with a single-tab live/source toggle for distraction-free writing.
 
 ## PHP
 
