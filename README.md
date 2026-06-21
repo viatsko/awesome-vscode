@@ -108,7 +108,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Find-Jump](#find-jump)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
-  - [Multiple clipboards](#multiple-clipboards)
+  - [Clipboard Manager](#clipboard-manager)
   - [ngrok for VSCode](#ngrok-for-vscode)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
   - [i18n Ally](#i18n-ally)
@@ -732,9 +732,9 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![live-server](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 
-## [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
+## [Clipboard Manager](https://marketplace.visualstudio.com/items?itemName=EdgardMessias.clipboard-manager)
 
-> Override the regular Copy and Cut commands to keep selections in a clipboard ring
+> Keeps a history of your copies and cuts so you can pick any earlier entry to paste again.
 
 ## [ngrok for VSCode](https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode)
 
