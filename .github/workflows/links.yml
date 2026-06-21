@@ -15,4 +15,4 @@ jobs:
         with:
           ruby-version: '3.3'
       - run: gem install awesome_bot
-      - run: awesome_bot README.md --allow-dupe --allow 429 --white-list tslint,code.visualstudio.com,awesome,microsoft.com,viatsko.me,drupal.org,camo.githubusercontent.com
+      - run: awesome_bot README.md --allow-dupe --allow 429 --white-list code.visualstudio.com,awesome,microsoft.com,viatsko.me,drupal.org,camo.githubusercontent.com,vscodethemes.com,citylights.xyz,twitter.com,x.com,npmjs.com
