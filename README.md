@@ -179,7 +179,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Slack](#slack)
   - [Spotify](#spotify)
   - [SVG](#svg)
-  - [SVG Viewer](#svg-viewer)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [ESDOC MDN](#esdoc-mdn)
   - [Interface generator](#interface-generator)
@@ -1147,12 +1146,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > A Powerful SVG Language Support Extension(beta). Almost all the features you need to handle SVG.
 
 ![SVG](https://raw.githubusercontent.com/lishu/vscode-svg/master/images/f1.png)
-
-## [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
-
-> View an SVG in the editor and export it as data URI scheme or PNG.
-
-![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
 
 ## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
 
