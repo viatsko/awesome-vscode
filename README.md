@@ -183,7 +183,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [JFrog](#jfrog)
   - [SARIF Explorer](#sarif-explorer)
   - [Document Viewer](#document-viewer)
-  - [genv](#genv)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -381,7 +380,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ![CSS Peek](https://raw.githubusercontent.com/pranaygp/vscode-css-peek/master/readme/symbolProvider.gif)
 
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
-- [Tachyons CSS Snippets](https://marketplace.visualstudio.com/items?itemName=thomasviaud.tachyons-snippets) - Snippets for the [Tachyons](https://tachyons.io/) functional CSS framework.
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Autocomplete, linting and hover previews for Tailwind CSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   Parse CSS,SCSS, LESS and add vendor prefixes automatically.
@@ -429,7 +427,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ![TS/JS postfix completion demo](https://raw.githubusercontent.com/ipatalas/vscode-postfix-ts/master/images/demo-multiline.gif)
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
-- [Quick Require](https://marketplace.visualstudio.com/items?itemName=milkmidi.vs-code-quick-require) - Quickly require/import JavaScript modules by relative path.
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
 ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
@@ -594,7 +591,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Ruby
 
-- [Ruby RuboCop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop) - Lint and auto-correct Ruby code with [RuboCop](https://github.com/rubocop/rubocop).
 - [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - Automatically add `end` to Ruby code blocks as you type.
 
 ## Rust
@@ -1142,10 +1138,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
 
 > View Word, Excel, PDF, Markdown and CSV files directly inside VS Code.
-
-## [genv](https://marketplace.visualstudio.com/items?itemName=run-ai.vscode-genv)
-
-> Manage and monitor GPU resources for your VS Code session (GPU environment management for ML/AI work).
 
 # Themes
 
