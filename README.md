@@ -106,7 +106,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [Jira and Bitbucket](#jira-and-bitbucket)
-  - [Jumpy](#jumpy)
+  - [Find-Jump](#find-jump)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
@@ -733,11 +733,9 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Jira and Bitbucket workflow](https://bitbucket.org/atlassianlabs/atlascode/raw/master/.readme/dev-workflow.gif)
 
-## [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
+## [Find-Jump](https://marketplace.visualstudio.com/items?itemName=usernamehw.find-jump)
 
-> Provides fast cursor movement, inspired by Atom's package of the same name.
-
-![Jumpy](https://cloud.githubusercontent.com/assets/2899448/19660934/0481c44c-9a32-11e6-87cc-1f8913922ccb.gif)
+> Fast label-based cursor movement — jump to anywhere visible by typing a few characters (in the spirit of Atom's Jumpy).
 
 ## [Kanban](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
 
