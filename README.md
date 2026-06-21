@@ -395,8 +395,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Haskell
 
-- [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
-- [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
+- [Haskell](https://marketplace.visualstudio.com/items?itemName=haskell.haskell) - Official Haskell support powered by the Haskell Language Server (HLS); supersedes the former Haskell IDE Engine and haskell-linter.
 
 ## HLSL
 
