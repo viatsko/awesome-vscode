@@ -62,7 +62,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [markdownlint](#markdownlint)
     - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
-    - [IWE](#iwe)
     - [MEO](#meo)
   - [PHP](#php)
     - [PHP Tools](#php-tools)
@@ -142,8 +141,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [SemanticDiff](#semanticdiff)
   - [Trunk](#trunk)
   - [Peacock](#peacock)
-  - [Camouflage](#camouflage)
-  - [scriptbox](#scriptbox)
   - [GitHub Copilot](#github-copilot)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
@@ -161,7 +158,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [VSCode Icons](#vscode-icons)
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
-    - [Feather Product Icons](#feather-product-icons)
 - [Uncategorized](#uncategorized)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
@@ -188,7 +184,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [SARIF Explorer](#sarif-explorer)
   - [Document Viewer](#document-viewer)
   - [genv](#genv)
-  - [CodeUI](#codeui)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -503,10 +498,6 @@ With MATLAB installed:
 
 ![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
 
-### [IWE](https://marketplace.visualstudio.com/items?itemName=IWE.iwe)
-
-> A markdown knowledge base powered by a language server — backlinks, note search, and a knowledge graph over your markdown files.
-
 ### [MEO](https://marketplace.visualstudio.com/items?itemName=vadimmelnicuk.meo)
 
 > A markdown editor with a single-tab live/source toggle for distraction-free writing.
@@ -592,8 +583,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
-- [Python Venv Activator](https://marketplace.visualstudio.com/items?itemName=krextensions.venv-activator) - Automatically activate the project's Python virtual environment in the integrated terminal.
-- [Code to Flowchart](https://marketplace.visualstudio.com/items?itemName=krextensions.code-to-flowchart) - Visualize Python code as an interactive flowchart.
 
 ### TensorFlow
 
@@ -939,14 +928,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Subtly change the color of your VS Code workspace — ideal for telling apart identical windows or monorepo projects.
 
-## [Camouflage](https://marketplace.visualstudio.com/items?itemName=zeybek.camouflage)
-
-> Hide sensitive values in config/.env files so you can safely screen-share or record.
-
-## [scriptbox](https://marketplace.visualstudio.com/items?itemName=cubicle6.scriptbox)
-
-> Automate and script VS Code with JavaScript snippets, without writing a full extension.
-
 ## [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 > AI pair programmer that suggests whole lines and functions as you type, with an in-editor chat.
@@ -1028,10 +1009,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
-
-### [Feather Product Icons](https://marketplace.visualstudio.com/items?itemName=melishev.feather-vscode)
-
-Product icon theme based on the [Feather](https://feathericons.com/) icon set.
 
 # Uncategorized
 
@@ -1169,10 +1146,6 @@ Product icon theme based on the [Feather](https://feathericons.com/) icon set.
 ## [genv](https://marketplace.visualstudio.com/items?itemName=run-ai.vscode-genv)
 
 > Manage and monitor GPU resources for your VS Code session (GPU environment management for ML/AI work).
-
-## [CodeUI](https://marketplace.visualstudio.com/items?itemName=ryanraposo.codeui)
-
-> Browse and edit your VS Code workbench theme colors through a searchable UI.
 
 # Themes
 
