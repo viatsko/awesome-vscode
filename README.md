@@ -155,6 +155,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [VSCode Icons](#vscode-icons)
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
+    - [Feather Product Icons](#feather-product-icons)
 - [Uncategorized](#uncategorized)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
@@ -994,6 +995,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
+
+### [Feather Product Icons](https://marketplace.visualstudio.com/items?itemName=melishev.feather-vscode)
+
+Product icon theme based on the [Feather](https://feathericons.com/) icon set.
 
 # Uncategorized
 
