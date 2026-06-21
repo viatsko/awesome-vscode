@@ -142,6 +142,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Trunk](#trunk)
   - [Peacock](#peacock)
   - [Camouflage](#camouflage)
+  - [scriptbox](#scriptbox)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -934,6 +935,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Camouflage](https://marketplace.visualstudio.com/items?itemName=zeybek.camouflage)
 
 > Hide sensitive values in config/.env files so you can safely screen-share or record.
+
+## [scriptbox](https://marketplace.visualstudio.com/items?itemName=cubicle6.scriptbox)
+
+> Automate and script VS Code with JavaScript snippets, without writing a full extension.
 
 # Formatting & Beautification
 
