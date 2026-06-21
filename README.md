@@ -179,6 +179,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [JFrog](#jfrog)
   - [SARIF Explorer](#sarif-explorer)
   - [Document Viewer](#document-viewer)
+  - [genv](#genv)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -1119,6 +1120,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
 
 > View Word, Excel, PDF, Markdown and CSV files directly inside VS Code.
+
+## [genv](https://marketplace.visualstudio.com/items?itemName=run-ai.vscode-genv)
+
+> Manage and monitor GPU resources for your VS Code session (GPU environment management for ML/AI work).
 
 # Themes
 
