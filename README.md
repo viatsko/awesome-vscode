@@ -408,7 +408,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## HLSL
 
 - [HLSL Tools](https://marketplace.visualstudio.com/items?itemName=TimGJones.hlsltools) - provides rich language support for editing HLSL files in VS Code
-  ![Example of statement completion using HLSL Tools for VS Code](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)
+  ![Example of statement completion using HLSL Tools for VS Code](https://raw.githubusercontent.com/tgjones/HlslTools/master/src/ShaderTools.VSCode/art/statement-completion.gif)
 
 ## Shell
 
@@ -420,13 +420,13 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
 - [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
 
-- [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
+- [Lombok](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok)
 
 ## JavaScript
 
 - [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
 
-![TS/JS postfix completion demo](https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif)
+![TS/JS postfix completion demo](https://raw.githubusercontent.com/ipatalas/vscode-postfix-ts/master/images/demo-multiline.gif)
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
@@ -565,7 +565,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Format HTML in PHP](https://raw.githubusercontent.com/RiFi2k/format-html-in-php/master/format-html-in-php.gif)
 
 - [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
-- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - XDebug extension for Visual Studio Code
+- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) - XDebug extension for Visual Studio Code
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
 - [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) - PHP CS Fixer extension for VS Code, php formatter, php code beautify tool
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
@@ -619,7 +619,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
-## [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions)
+## [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)
 
 > Shows GitHub Actions workflows and runs
 
@@ -747,7 +747,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
 
-#### [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
+#### [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
 
 > Run gradle tasks in VS Code.
 
@@ -1057,7 +1057,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Highlight web colors in your editor
 
-![Highlight web colors in your editor screenshot](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
+![Highlight web colors in your editor screenshot](https://cdn-images-1.medium.com/v2/resize:fit:1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 
 ## [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 > Syntax highlighting for the VS Code Output Panel and log files
@@ -1068,7 +1068,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Dash integration in Visual Studio Code
 
-![Dash integration screenshot](https://cdn-images-1.medium.com/max/2000/1*sqGllC-pgXNaEBfB-cxG9Q.png)
+![Dash integration screenshot](https://cdn-images-1.medium.com/v2/resize:fit:2000/1*sqGllC-pgXNaEBfB-cxG9Q.png)
 
 ## [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
 
@@ -1439,7 +1439,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [@_clarkio](https://twitter.com/_clarkio) - Developer Advocate @ Azure. Creator of VS Code release highlight videos
 - [@eamodio](https://twitter.com/eamodio) - GitLens creator
 - [@ErichGamma](https://twitter.com/ErichGamma) - VS Code Dev
-- [@IsidorN](https://twitter.com/@IsidorN) - VS Code Dev
+- [@IsidorN](https://twitter.com/IsidorN) - VS Code Dev
 - [@joaomoreno](https://twitter.com/joaomoreno) - VS Code Dev
 - [@johannesrieken](https://twitter.com/johannesrieken) - VS Code Dev
 - [@lannonbr](https://twitter.com/lannonbr) - Creator of vscode.rocks & JS Parameter Annotations extension
@@ -1459,7 +1459,7 @@ A list of Twitter accounts for various people in the VS Code Community
 ## Libraries
 
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
-- [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
+- [typed-vscode](https://www.npmjs.com/package/typed-vscode) - Generates types from contribution points of your extension manifest
 
 ## Tools
 
