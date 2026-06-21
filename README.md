@@ -177,6 +177,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [Interface generator](#interface-generator)
   - [JFrog](#jfrog)
+  - [SARIF Explorer](#sarif-explorer)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -1109,6 +1110,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Adds JFrog Xray scanning of project dependencies to your VS Code IDE. It allows developers to view panels displaying vulnerability information about the components and their dependencies directly in their VS Code IDE. The extension also allows developers to track the status of the code while it is being built, tested and scanned on the CI server.
 
 ![JFrog](https://raw.githubusercontent.com/jfrog/jfrog-vscode-extension/master/resources/readme/introduction.png)
+
+## [SARIF Explorer](https://marketplace.visualstudio.com/items?itemName=trailofbits.sarif-explorer)
+
+> Triage static-analysis results from SARIF files: view, group, filter and annotate findings. By Trail of Bits.
 
 # Themes
 
