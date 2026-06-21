@@ -373,6 +373,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
 - [Tachyons CSS Snippets](https://marketplace.visualstudio.com/items?itemName=thomasviaud.tachyons-snippets) - Snippets for the [Tachyons](https://tachyons.io/) functional CSS framework.
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Autocomplete, linting and hover previews for Tailwind CSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   Parse CSS,SCSS, LESS and add vendor prefixes automatically.
   ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
