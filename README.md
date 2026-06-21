@@ -538,6 +538,7 @@ With MATLAB installed:
 ![Support for dotenv file syntax screenshot](https://raw.githubusercontent.com/mikestead/vscode-dotenv/master/images/screenshot.png)
 
 - [Laravel Pint](https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint) - Run and configure Laravel Pint, the opinionated PHP code-style fixer for Laravel.
+- [Laravel Traveller](https://marketplace.visualstudio.com/items?itemName=freshbitsweb.laravel-traveller) - Navigate Laravel projects faster — jump between controllers, models, views and routes.
 
 ### Twig
 
