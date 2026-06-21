@@ -133,6 +133,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
   - [Timing](#timing)
+  - [httpYac](#httpyac)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -881,6 +882,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Time converter extension to convert timestamps from/to various formats and insert them on demand or just display them. It further provides a neat hover provider to beautify epoch timestamps instantly. All features are highly customizable.
 
 ![Timing](https://raw.githubusercontent.com/HaaLeo/vscode-timing/master/doc/Convert_Sample.gif)
+
+## [httpYac](https://marketplace.visualstudio.com/items?itemName=anweber.vscode-httpyac)
+
+> Send HTTP, REST, GraphQL, gRPC, WebSocket and MQTT requests directly from VS Code.
 
 # Formatting & Beautification
 
