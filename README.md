@@ -438,8 +438,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ### Framework-specific
 
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js
-![Vetur](screenshots/Vetur.png)
+- [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) - Official Vue language support (Volar). Supersedes Vetur, which is now in maintenance mode.
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
