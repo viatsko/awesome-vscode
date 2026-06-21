@@ -162,7 +162,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Indent Rainbow](#indent-rainbow)
   - [iTerm2 Theme Sync](#iterm2-theme-sync)
   - [Password Generator](#password-generator)
-  - [PlatformIO](#platformio)
+  - [PlatformIO IDE](#platformio-ide)
   - [Polacode](#polacode)
   - [carbon-now-sh](#carbon-now-sh)
   - [Quokka](#quokka)
@@ -1027,11 +1027,9 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Password Generator](https://raw.githubusercontent.com/ftonato/vscode-password-generator/master/preview.gif)
 
-## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
+## [PlatformIO IDE](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
 
-> An open source ecosystem for IoT development: supports 350+ embedded boards, 20+ development platforms, 10+ frameworks. Arduino and ARM mbed compatible.
-
-![Build using platformio animation](https://raw.githubusercontent.com/formulahendry/vscode-platformio/master/images/build.gif)
+> The official PlatformIO IDE: a cross-platform ecosystem for embedded/IoT development supporting 1000+ boards and many platforms and frameworks, with build, debug and unit testing.
 
 ## [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
