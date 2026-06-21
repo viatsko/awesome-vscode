@@ -106,7 +106,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [Jira and Bitbucket](#jira-and-bitbucket)
-  - [JS Parameter Annotations](#js-parameter-annotations)
   - [Jumpy](#jumpy)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
@@ -733,12 +732,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Bringing the power of Jira and Bitbucket to VS Code - With Atlassian for VS Code you can create and view issues, start work on issues, create pull requests, do code reviews, start builds, get build statuses and more!
 
 ![Jira and Bitbucket workflow](https://bitbucket.org/atlassianlabs/atlascode/raw/master/.readme/dev-workflow.gif)
-
-## [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations)
-
-> Provides annotations on function calls in JS/TS files to provide parameter names to arguments.
-
-![JS Parameter Annotations](https://raw.githubusercontent.com/lannonbr/vscode-js-annotations/master/jsannotations.png)
 
 ## [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
 
