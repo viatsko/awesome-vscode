@@ -78,7 +78,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Rust](#rust)
   - [Terraform](#terraform)
 - [GitHub](#github)
-  - [GitHub](#github-1)
   - [GitHub Pull Requests and Issues](#github-pull-requests-and-issues)
   - [GistPad](#gistpad)
   - [GitHub Actions](#github-actions)
@@ -602,10 +601,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
 # GitHub
-
-## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
-
-> Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
 
 ## [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 
