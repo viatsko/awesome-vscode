@@ -203,6 +203,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
     - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
     - [Mno by u29dc](#mno-by-u29dc)
+    - [Omni by Rocketseat](#omni-by-rocketseat)
     - [One Monokai by azemoh](#one-monokai-by-azemoh)
     - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
     - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
@@ -1291,6 +1292,14 @@ Minimal monochrome theme.
 
 <a href="https://vscodethemes.com/e/u29dc.mno">
   <img src="./themes/screenshots/u29dc.mno.png" width="600" />
+</a>
+
+### [Omni by Rocketseat](https://vscodethemes.com/e/rocketseat.theme-omni)
+
+A dark theme with vibrant colors by Rocketseat.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni">
+  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" width="600" />
 </a>
 
 ### [One Monokai by azemoh](https://vscodethemes.com/e/azemoh.one-monokai)
