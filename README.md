@@ -341,7 +341,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### [Shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman)
 > Bash script snippets extension
 
-![Shellman](https://raw.githubusercontent.com/yousefvand/shellman/master/images/demo.gif)
+![Shellman](https://raw.githubusercontent.com/yousefvand/shellman/master/images/banner.gif)
 
 ## C++
 
