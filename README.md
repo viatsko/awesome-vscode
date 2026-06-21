@@ -143,6 +143,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Peacock](#peacock)
   - [Camouflage](#camouflage)
   - [scriptbox](#scriptbox)
+  - [GitHub Copilot](#github-copilot)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -939,6 +940,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [scriptbox](https://marketplace.visualstudio.com/items?itemName=cubicle6.scriptbox)
 
 > Automate and script VS Code with JavaScript snippets, without writing a full extension.
+
+## [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
+> AI pair programmer that suggests whole lines and functions as you type, with an in-editor chat.
 
 # Formatting & Beautification
 
