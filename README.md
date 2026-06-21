@@ -134,6 +134,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [WakaTime](#wakatime)
   - [Timing](#timing)
   - [httpYac](#httpyac)
+  - [DevDb](#devdb)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -886,6 +887,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [httpYac](https://marketplace.visualstudio.com/items?itemName=anweber.vscode-httpyac)
 
 > Send HTTP, REST, GraphQL, gRPC, WebSocket and MQTT requests directly from VS Code.
+
+## [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb)
+
+> A zero-config database GUI that auto-loads and lets you browse your database directly inside VS Code.
 
 # Formatting & Beautification
 
