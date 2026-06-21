@@ -167,7 +167,6 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [carbon-now-sh](#carbon-now-sh)
   - [Quokka](#quokka)
   - [Runner](#runner)
-  - [Spotify](#spotify)
   - [SVG](#svg)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [ESDOC MDN](#esdoc-mdn)
@@ -1051,11 +1050,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Run various scripts right from VS Code
 
 ![Run various scripts right from VS Code animation](https://raw.githubusercontent.com/mattn/vscode-runner/master/images/screenshot.gif)
-
-## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
-> Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
-
-![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
 
 ## [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
