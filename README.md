@@ -135,6 +135,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Timing](#timing)
   - [httpYac](#httpyac)
   - [DevDb](#devdb)
+  - [Keploy](#keploy)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -891,6 +892,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb)
 
 > A zero-config database GUI that auto-loads and lets you browse your database directly inside VS Code.
+
+## [Keploy](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio)
+
+> Generate unit tests and API tests with mocks from your application traffic.
 
 # Formatting & Beautification
 
