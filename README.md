@@ -239,7 +239,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
-- [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+- [Arduino](https://marketplace.visualstudio.com/items?itemName=vscode-arduino.vscode-arduino-community)
 - [Befunge](https://marketplace.visualstudio.com/items?itemName=kagof.befunge)
 - [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
 - [Bolt](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language)
