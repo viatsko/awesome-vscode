@@ -157,7 +157,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Dash](#dash)
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
-  - [ftp-sync](#ftp-sync)
+  - [SFTP](#sftp)
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [Indent Rainbow](#indent-rainbow)
   - [iTerm2 Theme Sync](#iterm2-theme-sync)
@@ -999,11 +999,9 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Editor Config for VS Code
 
-## [ftp-sync](https://marketplace.visualstudio.com/items?itemName=lukasz-wronski.ftp-sync)
+## [SFTP](https://marketplace.visualstudio.com/items?itemName=Natizyskunk.sftp)
 
-> Auto-sync your work to remote FTP server
-
-![Auto-sync your work to remote FTP server animation](https://i.imgur.com/W9h4pwW.gif)
+> Sync files to a remote server over SFTP/FTP, with upload-on-save, diff and remote browsing. Maintained successor to the original liximomo SFTP extension.
 
 ## [Highlight JSX/HTML tags](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 
