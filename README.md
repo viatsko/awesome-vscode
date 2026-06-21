@@ -510,6 +510,8 @@ With MATLAB installed:
 
 ![Support for dotenv file syntax screenshot](https://raw.githubusercontent.com/mikestead/vscode-dotenv/master/images/screenshot.png)
 
+- [Laravel Pint](https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint) - Run and configure Laravel Pint, the opinionated PHP code-style fixer for Laravel.
+
 ### Twig
 
 - [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
