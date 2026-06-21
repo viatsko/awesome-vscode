@@ -910,7 +910,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
 
-![Todo Tree](https://thumbs.gfycat.com/PowerlessWindyCivet-size_restricted.gif)
+![Todo Tree](https://raw.githubusercontent.com/Gruntfuggly/todo-tree/master/resources/screenshot.png)
 
 ## [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 
