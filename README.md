@@ -61,6 +61,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [markdownlint](#markdownlint)
     - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
+    - [IWE](#iwe)
   - [PHP](#php)
     - [PHP Tools](#php-tools)
     - [IntelliSense](#intellisense)
@@ -491,6 +492,10 @@ With MATLAB installed:
 > Adds emoji syntax support to VS Code's built-in Markdown preview
 
 ![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
+
+### [IWE](https://marketplace.visualstudio.com/items?itemName=IWE.iwe)
+
+> A markdown knowledge base powered by a language server — backlinks, note search, and a knowledge graph over your markdown files.
 
 ## PHP
 
