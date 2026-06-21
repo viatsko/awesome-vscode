@@ -284,7 +284,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 ## [Migrating from Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
-> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode
+> **Vim Mode** - The most popular Vim emulation for VS Code: modal editing, motions, and support for many popular Vim plugins.
 
 ## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
 
