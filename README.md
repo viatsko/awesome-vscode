@@ -761,6 +761,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![live-server](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 
+## [VS Code Exact File Preview](https://marketplace.visualstudio.com/items?itemName=toris-tree.vscode-exact-file-preview)
+
+> Preview the exact selected file (HTML, SVG, Markdown, JSON, XML) in a sandboxed side panel — no server startup, no framework guessing, no live reload. Works before any toolchain is set up.
+
+
 ## [Clipboard Manager](https://marketplace.visualstudio.com/items?itemName=EdgardMessias.clipboard-manager)
 
 > Keeps a history of your copies and cuts so you can pick any earlier entry to paste again.
