@@ -1454,3 +1454,7 @@ I am providing code and resources in this repository to you under an open source
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waived all copyright and related or neighboring rights to this work.
+
+## Directories
+
+- [Toolquix](https://toolquix.com) - A curated directory of free online tools, software, and digital resources.
