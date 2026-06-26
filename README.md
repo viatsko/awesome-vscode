@@ -167,6 +167,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Dash](#dash)
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
+  - [Explicode](#explicode)
   - [SFTP](#sftp)
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [Indent Rainbow](#indent-rainbow)
@@ -1052,6 +1053,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 > Editor Config for VS Code
+
+## [Explicode](https://marketplace.visualstudio.com/items?itemName=Explicode.explicode)
+> Turn your scripts into readable docs — a modern take on literate programming.
+
+![Explicode demo](https://raw.githubusercontent.com/benatfroemming/explicode/master/media/demo.gif)
 
 ## [SFTP](https://marketplace.visualstudio.com/items?itemName=Natizyskunk.sftp)
 
