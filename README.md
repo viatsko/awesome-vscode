@@ -105,6 +105,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitLens](#gitlens)
   - [GitLab Workflow](#gitlab-workflow)
       - [Gradle Tasks](#gradle-tasks)
+  - [HydraGit](#hydragit)
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [Jira and Bitbucket](#jira-and-bitbucket)
@@ -730,6 +731,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Run gradle tasks in VS Code.
 
 ![Gradle Tasks](https://raw.githubusercontent.com/microsoft/vscode-gradle/develop/images/gradle-tasks-view.png)
+
+## [HydraGit](https://marketplace.visualstudio.com/items?itemName=vkushnarenko.hydragit)
+
+> An IntelliJ-style git panel — branch tree, commit graph, history, and inline diff in one place. Auto-snapshots your working tree before any destructive op so you can't lose changes. Free, offline, no paywall.
+
+![HydraGit](https://raw.githubusercontent.com/latte-incognito/hydragit/develop/docs/hydragit-demo.gif?v=1)
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
