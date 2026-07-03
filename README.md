@@ -159,6 +159,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Claude Code Manager](#claude-code-manager)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
@@ -1007,6 +1008,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [Claude Code Manager](https://marketplace.visualstudio.com/items?itemName=vishalguptax.claude-manager)
+
+> Manage Claude Code sessions, MCP servers, skills, slash commands, hooks, agents and accounts from a sidebar. Full-text session search with git-branch-aware resume. 100% local, zero telemetry.
+
+![Claude Code Manager demo](https://raw.githubusercontent.com/vishalguptax/claude-code-manager/main/media/demo.gif)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
