@@ -183,6 +183,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [JFrog](#jfrog)
   - [SARIF Explorer](#sarif-explorer)
   - [Document Viewer](#document-viewer)
+  - [spotilyrics](#spotilyrics)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -1138,6 +1139,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
 
 > View Word, Excel, PDF, Markdown and CSV files directly inside VS Code.
+
+## [spotilyrics](https://marketplace.visualstudio.com/items?itemName=therepanic.spotilyrics)
+
+> See synchronized Spotify lyrics inside VS Code while coding.
+
+![spotilyrics](https://github.com/therepanic/spotilyrics/raw/master/demo.png)
 
 # Themes
 
