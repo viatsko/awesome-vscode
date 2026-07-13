@@ -579,6 +579,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Python
 
+- [Django ORM Lens](https://marketplace.visualstudio.com/items?itemName=frowningdev.django-orm-lens) - Live sidebar tree, Mermaid ER diagram, and hover cards for Django models. No Django boot, no DB. Also ships a Python CLI and an MCP server so AI agents (Cursor, Aider, Claude Desktop, Zed) can explore your schema.
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
 ### TensorFlow
