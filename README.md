@@ -130,6 +130,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Remote Development](#remote-development)
   - [REST Client](#rest-client)
   - [Text Power Tools](#text-power-tools)
+  - [TodoPad](#todopad)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
@@ -877,6 +878,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
 
 ![Todo Tree](https://raw.githubusercontent.com/Gruntfuggly/todo-tree/master/resources/screenshot.png)
+
+## [TodoPad](https://marketplace.visualstudio.com/items?itemName=gitandrun.todopad)
+
+> Sidebar todo list with reminders that keep coming back until you deal with them, code TODO/FIXME scanning, and optional Jira/GitLab/GitHub integration.
+
+![TodoPad](https://raw.githubusercontent.com/gitandrun-dev/todopad/main/docs/showcase.gif)
 
 ## [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 
