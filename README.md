@@ -152,6 +152,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Wrap Selection](#wrap-selection)
   - [Formatting Toggle](#formatting-toggle)
   - [shell-format](#shell-format)
+  - [Tidy Formatter](#tidy-formatter)
   - [Vscode Google Translate](#vscode-google-translate)
   - [Explorer Icons](#explorer-icons)
     - [City Lights Icons](#city-lights-icons)
@@ -982,6 +983,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > shell script & Dockerfile & dotenv format
 
 ![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
+
+## [Tidy Formatter](https://marketplace.visualstudio.com/items?itemName=ced-lab.tidy-formatter)
+
+> A safe, consent-first formatter & beautifier for JavaScript, TypeScript, JSX/TSX, CSS, SCSS, LESS, HTML and JSON. It formats only when you ask — never auto-formatting on save or making itself your default formatter — and refuses to write any output that isn't provably equivalent to your original, so it can't silently corrupt your code. A modern, maintained alternative to the abandoned JS-CSS-HTML Formatter.
 
 ## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
 > Quickly translate selected text right in your code
