@@ -1293,6 +1293,14 @@ The most epic theme now for Visual Studio Code.
   <img src="./themes/screenshots/Equinusocio.vsc-material-theme.png" width="600" />
 </a>
 
+### [Menthol Theme](https://marketplace.visualstudio.com/items?itemName=UltraKostik.vscode-menthol-theme)
+
+A modern, minimalistic dark theme with mint accents, warm contrasting colors for focus, and optimized semantic highlighting across major programming languages.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=UltraKostik.vscode-menthol-theme">
+  <img src="https://raw.githubusercontent.com/UltraKostik/vscode-menthol-theme/main/images/readme-slide.png" width="600" />
+</a>
+
 ### [Mno by u29dc](https://vscodethemes.com/e/u29dc.mno)
 
 Minimal monochrome theme.
