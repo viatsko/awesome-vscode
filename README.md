@@ -1229,6 +1229,14 @@ Tuff but sweet theme.
   <img src="./themes/screenshots/wesbos.theme-cobalt2.png" width="600" />
 </a>
 
+### [Dancheong by Hs Yi](https://vscodethemes.com/e/dancheong.dancheong-theme)
+
+Korea's traditional temple pigment palette (dancheong) in four variants — dark, light, high contrast, muted. Every foreground/background pair is checked against WCAG contrast targets at build time.
+
+<a href="https://vscodethemes.com/e/dancheong.dancheong-theme">
+  <img src="./themes/screenshots/dancheong.dancheong-theme.png" width="600" />
+</a>
+
 ### [Dracula Official by Dracula Theme](https://vscodethemes.com/e/dracula-theme.theme-dracula)
 
 Official Dracula Theme. A dark theme for many editors, shells, and more.
