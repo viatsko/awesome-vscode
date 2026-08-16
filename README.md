@@ -655,6 +655,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Use the Microsoft Edge browser's DevTools (Elements, Network, Console) and an in-editor browser preview directly inside VS Code.
 
+## [ChangeKeeper](https://marketplace.visualstudio.com/items?itemName=argalla.changekeeper)
+
+> Review hunk by hunk and roll back every change an AI coding agent makes, including the edits it makes from the shell. Critical files such as `.env` are listed first, and a file or the whole session can be restored with an undo.
+
+![ChangeKeeper reviewing and rolling back the changes an agent made](https://raw.githubusercontent.com/TecniartGalicia/changekeeper/main/media/shots/changekeeper-demo.gif)
+
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
