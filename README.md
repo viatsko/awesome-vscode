@@ -129,6 +129,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Rainbow CSV](#rainbow-csv)
   - [Remote Development](#remote-development)
   - [REST Client](#rest-client)
+  - [SessionKeeper](#sessionkeeper)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
@@ -865,6 +866,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Allows you to send HTTP request and view the response in Visual Studio Code directly.
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
+
+## [SessionKeeper](https://marketplace.visualstudio.com/items?itemName=argalla.sessionkeeper)
+
+> Keeps a versioned local backup of your AI coding sessions (Claude Code transcripts, subagent transcripts and spilled tool outputs) and restores them when retention, an update or a crash takes them. Local-first, no telemetry.
 
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
