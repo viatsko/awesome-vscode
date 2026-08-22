@@ -90,6 +90,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
+  - [Chat Sidebar for OpenCode](#chat-sidebar-for-opencode)
   - [Microsoft Edge Tools](#microsoft-edge-tools)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
@@ -650,6 +651,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
 > Mark lines and jump to them
+
+## [Chat Sidebar for OpenCode](https://marketplace.visualstudio.com/items?itemName=SenCha930511.chat-sidebar-for-opencode)
+
+> Sidebar chat GUI for a locally running OpenCode server — multi-session streaming chat, inline permission approvals, slash commands with agent/model pickers, @-mention file attachments, todos and native diff previews. Bilingual English / Traditional Chinese UI.
+
+![Chat Sidebar for OpenCode — streaming chat with tool cards and diffs](https://raw.githubusercontent.com/SenCha930511/chat-sidebar-for-opencode/main/docs/screenshots/hero.png)
 
 ## [Microsoft Edge Tools](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 
