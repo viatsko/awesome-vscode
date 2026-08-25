@@ -735,6 +735,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
 
+## [Iconotype — icon fonts](https://marketplace.visualstudio.com/items?itemName=iconotype.iconotype-vscode)
+
+> Manage a project's icon fonts without leaving the editor: completion and inline previews of your own icons, a diagnostic when a name is typo'd or excluded from the build, workspace-wide rename with the codepoint pinned, and export straight into the paths your project file names. Imports IcoMoon projects losslessly.
+
+![Iconotype](https://iconotype.github.io/iconotype/demo.gif)
+
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 > This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
