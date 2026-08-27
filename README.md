@@ -101,6 +101,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Gi](#gi)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
+  - [Git Worktrees](#git-worktrees)
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
   - [GitLab Workflow](#gitlab-workflow)
@@ -709,6 +710,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 
 > Automatically indexes your git projects and lets you easily toggle between them
+
+## [Git Worktrees](https://marketplace.visualstudio.com/items?itemName=GitWorktrees.git-worktrees)
+
+> A VS Code extension that wraps git worktree operations for simplicity and productivity.
+
+![Git Worktrees](https://user-images.githubusercontent.com/48658768/166140848-f58e7cd6-17c1-4ed6-a29f-2295518b39da.gif)
 
 ## [GitLink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink)
 
