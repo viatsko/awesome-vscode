@@ -765,6 +765,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Keeps a history of your copies and cuts so you can pick any earlier entry to paste again.
 
+## [NEDIO - Pomodoro Timer, Focus Music and AI Review](https://marketplace.visualstudio.com/items?itemName=nedio.pomodoro-focus-music)
+> Run focused coding sprints with a Pomodoro timer, instrumental music, and weekly AI Reviews all inside VS Code or Cursor.
+
+![Pomodoro Timer & Focus Music](https://nedio.xyz/marketplace/pomodoro-timer-focus-music-vscode-demo.gif)
+
 ## [ngrok for VSCode](https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode)
 
 > ngrok allows you to expose a web server running on your local machine to the internet. Just tell ngrok what port your web server is listening on. This extension allows you to control [ngrok](https://ngrok.com/) from the VSCode command palette
