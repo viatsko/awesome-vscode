@@ -359,6 +359,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
+- [Impact](https://marketplace.visualstudio.com/items?itemName=crimsonmartin.impact) - Live unit testing for .NET: on save, runs only the tests affected by your change, hot-patched via Roslyn Edit-and-Continue into warm test hosts for sub-100ms feedback.
+
+  ![Impact](https://github.com/CrimsonMartin/dotnet-impact/raw/master/docs/demo.gif)
+
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 - [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
 - [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
