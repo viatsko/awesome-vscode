@@ -86,6 +86,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitHub Repositories](#github-repositories)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
 - [Productivity](#productivity)
+  - [Another LINQ Tool](#another-linq-tool)
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
@@ -628,6 +629,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 # Productivity
+
+## [Another LINQ Tool](https://marketplace.visualstudio.com/items?itemName=N-Tsoulos.another-linq-tool)
+
+> Free C# query and scripting extension for VS Code with project DLL references, reusable profiles, EF Core DbContext support, autocomplete, and debugging.
+
+![Query your DB using your DBContext and view results](https://i.imgur.com/QdQChSy.gif)
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
