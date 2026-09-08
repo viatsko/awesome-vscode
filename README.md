@@ -259,6 +259,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
+- [KUKA KRL](https://marketplace.visualstudio.com/items?itemName=LiskinLabs.kuka-krl-extension)
 - [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
 - [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
