@@ -63,6 +63,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
     - [MEO](#meo)
+    - [GEOKit Markdown Tools](#geokit-markdown-tools)
   - [PHP](#php)
     - [PHP Tools](#php-tools)
     - [IntelliSense](#intellisense)
@@ -498,6 +499,10 @@ With MATLAB installed:
 ### [MEO](https://marketplace.visualstudio.com/items?itemName=vadimmelnicuk.meo)
 
 > A markdown editor with a single-tab live/source toggle for distraction-free writing.
+
+### [GEOKit Markdown Tools](https://geokit.site/tools/heading-analyzer)
+
+> Free, client-side visual utilities to validate Markdown heading hierarchy, semantic structure, and `/llms.txt` specifications.
 
 ## PHP
 
