@@ -1429,6 +1429,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
+- [A11yKit](https://a11ykit.site/) - Free client-side Web accessibility and contrast toolkit for developers to audit and fix WCAG 2.2 / EAA compliance.
 - [Themer](https://themer.dev) - Easily create your own theme for VS Code (and matching ones for your other tools).
 - [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) - Microsoft's official Azure extension pack, bundling the core Azure extensions for working with Azure resources directly from VS Code.
 
