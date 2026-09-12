@@ -86,6 +86,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitHub Repositories](#github-repositories)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
 - [Productivity](#productivity)
+  - [AI Search](#ai-search)
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
@@ -628,6 +629,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 # Productivity
+
+## [AI Search](https://marketplace.visualstudio.com/items?itemName=jao.ai-semantic-search)
+
+> Search Markdown notes and code by meaning, with optional reranking to refine the result order.
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
