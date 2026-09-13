@@ -673,6 +673,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![dendron.dendron](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/graph-intro.gif)
 
+## [DevScholar](https://marketplace.visualstudio.com/items?itemName=pallaprolus.dev-scholar)
+
+> Detects research paper references (arXiv, DOI, PubMed, IEEE, Semantic Scholar, OpenAlex) in code comments and links them to the source. Hover for the abstract and citation count, preview the PDF inside the editor, search and cite papers by name with `#cite:`, export BibTeX, and sync two-way with Zotero or Mendeley.
+
+![DevScholar](https://github.com/pallaprolus/dev-scholar/raw/main/DevScholar.gif)
+
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
 > Ability to duplicate files and directories.
