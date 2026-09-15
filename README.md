@@ -651,6 +651,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Mark lines and jump to them
 
+## [Broccoli — AI Debugger](https://marketplace.visualstudio.com/items?itemName=YousefElbrolosy.project-broccoli)
+
+> An AI agent that drives VS Code's real debugger — breakpoints, stepping, live variable inspection — over the Debug Adapter Protocol, proposing fixes as diffs you approve. Also runs a localhost MCP server so Claude Code and Cursor can debug through your editor.
+
 ## [Microsoft Edge Tools](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 
 > Use the Microsoft Edge browser's DevTools (Elements, Network, Console) and an in-editor browser preview directly inside VS Code.
