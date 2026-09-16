@@ -171,6 +171,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [Indent Rainbow](#indent-rainbow)
   - [iTerm2 Theme Sync](#iterm2-theme-sync)
+  - [Nerdulator](#nerdulator)
   - [Password Generator](#password-generator)
   - [PlatformIO IDE](#platformio-ide)
   - [Polacode](#polacode)
@@ -1074,6 +1075,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Syncs selected VSCode theme with iTerm2 color profile
 
 ![iTerm2 Theme Sync](https://raw.githubusercontent.com/tusaeff/vscode-iterm2-theme-sync/master/screencast.gif)
+
+## [Nerdulator](https://marketplace.visualstudio.com/items?itemName=nerdulator.nerdulator)
+
+> Select a UUID, cron expression, colour, timestamp, date or measurement and see everything derivable from it in the side bar. Deterministic: no AI in the answer, and every reading of an ambiguous input is shown rather than one being guessed.
+
+![Nerdulator inspecting a UUID, a cron expression and a hex colour in VS Code](https://nerdulator.com/demo-vscode.gif)
 
 ## [Password Generator](https://marketplace.visualstudio.com/items?itemName=ftonato.password-generator)
 
