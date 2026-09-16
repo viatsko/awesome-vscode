@@ -579,6 +579,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Python
 
+- [Pytest Deprecation Lint (pytest 8 removals)](https://marketplace.visualstudio.com/items?itemName=readystack.pytest-deprecation-lint) - Marks the lines in your test suite that current pytest no longer runs — and the config keys it silently ignores.
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
 ### TensorFlow
