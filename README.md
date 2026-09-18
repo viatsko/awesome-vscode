@@ -99,6 +99,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Toggle](#toggle)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
     - [Gi](#gi)
+  - [Exportal](#exportal)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
@@ -701,6 +702,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Generating .gitignore files made easy.
 
 ![.gitignore generation animation](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
+
+## [Exportal](https://marketplace.visualstudio.com/items?itemName=dioniipereyraa.exportal)
+
+> Export a claude.ai, Claude Design or ChatGPT conversation to Markdown in your workspace with one click, attached to Claude Code as an @-mention. Works with a Chrome companion over a local loopback bridge, with no remote server.
+
+![Exportal demo](https://raw.githubusercontent.com/dioniipereyraa/ClaudeTool/main/docs/screenshots/exportal-demo.gif)
 
 ## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
