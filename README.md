@@ -105,6 +105,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitLens](#gitlens)
   - [GitLab Workflow](#gitlab-workflow)
       - [Gradle Tasks](#gradle-tasks)
+  - [HTTP Client Runner](#http-client-runner)
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [Jira and Bitbucket](#jira-and-bitbucket)
@@ -730,6 +731,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Run gradle tasks in VS Code.
 
 ![Gradle Tasks](https://raw.githubusercontent.com/microsoft/vscode-gradle/develop/images/gradle-tasks-view.png)
+
+## [HTTP Client Runner](https://marketplace.visualstudio.com/items?itemName=sellerkit.httprunner)
+
+> Run the `.http` files you already have. Send a single request from the editor, or run a whole file and be told only what changed: the first response becomes the baseline, and later runs are compared by structure, so ids that increment, tokens that rotate and timestamps that move stay quiet. Existing REST Client files work unchanged, and the same files run in CI with a JUnit report.
+
+![HTTP Client Runner](https://raw.githubusercontent.com/GlobalMatchHub/httprunner/main/ext/media/04-changed.png)
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
