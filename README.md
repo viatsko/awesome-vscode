@@ -91,6 +91,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
   - [Microsoft Edge Tools](#microsoft-edge-tools)
+  - [Multimeter](#multimeter)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
@@ -654,6 +655,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Microsoft Edge Tools](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 
 > Use the Microsoft Edge browser's DevTools (Elements, Network, Console) and an in-editor browser preview directly inside VS Code.
+
+## [Multimeter](https://marketplace.visualstudio.com/items?itemName=mshobeyri.multimeter)
+
+> Git-native API testing: keep HTTP requests, tests, and mocks as YAML (`.mmt`) in Git. Same files in VS Code and CI. No account.
+
+![Multimeter](https://raw.githubusercontent.com/mshobeyri/multimeter/main/res/intro.png)
 
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
