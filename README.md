@@ -1433,6 +1433,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) - Microsoft's official Azure extension pack, bundling the core Azure extensions for working with Azure resources directly from VS Code.
 
 - [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
+- [Darkmoon](https://marketplace.visualstudio.com/items?itemName=Darkmoon.darkmoon-vscode) - Autonomous AI pentest scanner that runs security scans against your project from within VS Code.
 
 # Online Courses
 
