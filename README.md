@@ -63,6 +63,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
     - [MEO](#meo)
+    - [Sanemark Markdown LSP](#sanemark-markdown-lsp)
   - [PHP](#php)
     - [PHP Tools](#php-tools)
     - [IntelliSense](#intellisense)
@@ -498,6 +499,12 @@ With MATLAB installed:
 ### [MEO](https://marketplace.visualstudio.com/items?itemName=vadimmelnicuk.meo)
 
 > A markdown editor with a single-tab live/source toggle for distraction-free writing.
+
+### [Sanemark Markdown LSP](https://marketplace.visualstudio.com/items?itemName=nkit.sanemark)
+
+> Markdown language server for note-taking with standard file-link completion, broken-link diagnostics, daily notes, and table formatting.
+
+![Sanemark file-link completion and formatting in VS Code](https://raw.githubusercontent.com/nkitsaini/sanemark/main/assets/sanemark-vscode.gif)
 
 ## PHP
 
