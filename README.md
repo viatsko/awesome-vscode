@@ -117,6 +117,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [i18n Ally](#i18n-ally)
   - [Instant Markdown](#instant-markdown)
   - [npm Intellisense](#npm-intellisense)
+  - [Outline++](#outline)
   - [Parameter Hints](#parameter-hints)
   - [Partial Diff](#partial-diff)
     - [Paste JSON as Code](#paste-json-as-code)
@@ -794,6 +795,11 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Visual Studio Code plugin that autocompletes npm modules in import statements.
 
 ![npm-intellisense](https://raw.githubusercontent.com/ChristianKohler/NpmIntellisense/master/images/auto_complete.gif)
+
+#### [Outline++](https://marketplace.visualstudio.com/items?itemName=DavidBookstaber.outline-regions-plus)
+> Navigate code regions and document symbols in a combined outline, with color-coded modifier icons.
+
+![Outline++ demo](https://raw.githubusercontent.com/dbookstaber/vscode-outline-plus/main/assets/readme-gifs/OutlinePlus.gif)
 
 ## [Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)
 
