@@ -629,6 +629,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 # Productivity
 
+## [API Performance Profiler](https://marketplace.visualstudio.com/items?itemName=nahid625.api-profiler-vscode)
+
+> Local-first API performance profiler for Express and NestJS. See real-time route latency directly next to where they are written and trigger load tests with one click.
+
+![API Performance Profiler Screenshot](https://raw.githubusercontent.com/Nahid625/api-performance-profiler/main/media/cover.png)
+
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
 > Displays a graphical preview of Azure Resource Manager (ARM) templates. The view will show all resources with the official Azure icons and also linkage between the resources.
