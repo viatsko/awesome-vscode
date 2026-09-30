@@ -660,6 +660,8 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Switch and pin Claude Code accounts per VS Code window or folder; every Claude Code session started there uses the bound account.
 
+![Clauswitch: the active account in the status bar and the account picker](https://schizm.app/listing/clauswitch-free.png)
+
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
