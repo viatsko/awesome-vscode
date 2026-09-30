@@ -89,6 +89,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
+  - [Backseat](#backseat)
   - [Bookmarks](#bookmarks)
   - [Microsoft Edge Tools](#microsoft-edge-tools)
   - [Color Tabs](#color-tabs)
@@ -646,6 +647,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Everything you need for the Azure IoT development: Interact with Azure IoT Hub, manage devices connected to Azure IoT Hub, and develop with code snippets for Azure IoT Hub
 
 ![Code snippets for Azure IoT Hub screenshot](https://raw.githubusercontent.com/formulahendry/vscode-azure-iot-toolkit/master/images/device-explorer.png)
+
+## [Backseat](https://marketplace.visualstudio.com/items?itemName=darek.backseat)
+
+> Backseat-drive Cline from your phone: Muse, Grok, or any git-capable agent queues coding tasks through a private GitHub bridge repo, and Cline runs them visibly in VS Code on your PC.
+
+![Backseat demo](https://raw.githubusercontent.com/darek225/backseat/main/vscode-bridge/images/demo.gif)
 
 ## [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
