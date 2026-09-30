@@ -91,6 +91,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
   - [Microsoft Edge Tools](#microsoft-edge-tools)
+  - [Clauswitch](#clauswitch)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
@@ -654,6 +655,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## [Microsoft Edge Tools](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 
 > Use the Microsoft Edge browser's DevTools (Elements, Network, Console) and an in-editor browser preview directly inside VS Code.
+
+## [Clauswitch](https://marketplace.visualstudio.com/items?itemName=schizm.clauswitch)
+
+> Switch and pin Claude Code accounts per VS Code window or folder; every Claude Code session started there uses the bound account.
 
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
