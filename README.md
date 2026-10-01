@@ -142,6 +142,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Trunk](#trunk)
   - [Peacock](#peacock)
   - [GitHub Copilot](#github-copilot)
+  - [twinny](#twinny)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -927,6 +928,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 > AI pair programmer that suggests whole lines and functions as you type, with an in-editor chat.
+
+## [twinny](https://marketplace.visualstudio.com/items?itemName=rjmacarthy.twinny)
+
+> Local-first AI code completion, chat, inline edit and code review using models you run yourself (Ollama, LM Studio, llama.cpp or any OpenAI-compatible server) or hosted APIs. Free, MIT-licensed, no account and no telemetry.
+
+![twinny](https://raw.githubusercontent.com/twinnydotdev/twinny-docs/main/src/assets/twinny-code-completion.gif)
 
 # Formatting & Beautification
 
