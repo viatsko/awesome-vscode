@@ -683,6 +683,9 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
 
+### [Ghost Regex](https://marketplace.visualstudio.com/items?itemName=ghost-regex.ghost-regex)
+> Work with regular expressions right inside VS Code — Railroad diagrams, Explain with AST tree, ReDoS detector with auto-fix, unit tests, and Preview on real files. All in one extension, works fully offline.
+> 
 ## [Toggle](https://marketplace.visualstudio.com/items?itemName=rebornix.toggle)
 
 > Toggle any VS Code setting by your favorite keybindings.
