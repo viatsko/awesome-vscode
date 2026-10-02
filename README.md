@@ -678,6 +678,8 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Generate source-grounded codebase maps and Markdown/HTML documentation locally in VS Code, with optional AI-enhanced explanations.
 
+![DocuMint project map](https://raw.githubusercontent.com/Wonderer-Tech/documint/main/resources/Screenshot%20From%202026-10-01%2012-19-21.png)
+
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
 > Ability to duplicate files and directories.
