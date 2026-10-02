@@ -208,6 +208,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Omni by Rocketseat](#omni-by-rocketseat)
     - [One Monokai by azemoh](#one-monokai-by-azemoh)
     - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
+    - [Nephrite by Francis Castillo](#nephrite-by-francis-castillo)
     - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
     - [Plastic by Will Stone](#plastic-by-will-stone)
     - [Nord by arcticicestudio](#nord-by-arcticicestudio)
@@ -1323,6 +1324,14 @@ Beautiful functionality for professional developers, from the author of the orig
 
 <a href="https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode">
   <img src="./themes/screenshots/1079cc76.png" width="600" />
+</a>
+
+### [Nephrite by Francis Castillo](https://vscodethemes.com/e/nephrite-theme.nephrite/nephrite-forest)
+
+A mineral-inspired dark theme designed around balance, focus, and natural color harmony.
+
+<a href="https://vscodethemes.com/e/nephrite-theme.nephrite/nephrite-forest">
+  <img src="./themes/screenshots/forest-editor.png" width="600" />
 </a>
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
