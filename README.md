@@ -159,6 +159,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [Atomic Reps](#atomic-reps)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
@@ -1007,6 +1008,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [Atomic Reps](https://marketplace.visualstudio.com/items?itemName=AtomicReps.atomicreps)
+
+> After a commit or a passing test run, asks about the change in a panel beside your terminal; you answer from memory with one key.
+
+![A question about React waiting in the panel beside the file it came from](https://atomicreps.com/vscode/question.png)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
