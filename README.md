@@ -40,7 +40,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Shellman](#shellman)
   - [C++](#c)
       - [More](#more)
-  - [C\#, ASP .NET and .NET Core](#c-asp-net-and-net-core)
+  - [C#, ASP .NET and .NET Core](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
     - [Calva](#calva)
   - [CSS](#css)
@@ -98,6 +98,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Error Lens](#error-lens)
   - [Toggle](#toggle)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
+  - [Fluid Diff](#fluid-diff)
     - [Gi](#gi)
   - [Git History](#git-history)
   - [Git Project Manager](#git-project-manager)
@@ -142,7 +143,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Trunk](#trunk)
   - [Peacock](#peacock)
   - [GitHub Copilot](#github-copilot)
-- [Formatting & Beautification](#formatting--beautification)
+- [Formatting \& Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
   - [html2pug](#html2pug)
@@ -696,6 +697,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Provides Javascript and React/Redux snippets in ES7
 
 ![es7-reactreduxgraphqlreact-native-snippets](https://user-images.githubusercontent.com/37667437/46757404-aa365800-cce7-11e8-80ca-9207b7a68dea.png)
+
+## [Fluid Diff](https://marketplace.visualstudio.com/items?itemName=steinsfu.fluid-diff)
+
+> An intuitive side-by-side diff viewer in the style of Meld and SmartGit. Compare a file with its Git HEAD version, compare any two files, or reopen a built-in VS Code diff.
+
+![Scrolling through a Fluid Diff with both panes aligned](https://raw.githubusercontent.com/SteinsFu/fluid-diff/refs/heads/main/images/demo-preview.gif)
 
 ### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
