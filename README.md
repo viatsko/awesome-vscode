@@ -183,6 +183,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [JFrog](#jfrog)
   - [SARIF Explorer](#sarif-explorer)
   - [Document Viewer](#document-viewer)
+  - [MangaBar](#mangabar)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -1138,6 +1139,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
 
 > View Word, Excel, PDF, Markdown and CSV files directly inside VS Code.
+
+## [MangaBar](https://marketplace.visualstudio.com/items?itemName=j-a-y-e-s-h.mangabar)
+
+> Offline manga, manhwa, comic & webtoon reader with 350+ sources, dual-side docking, and smooth zoom & pan directly inside VS Code.
 
 # Themes
 
