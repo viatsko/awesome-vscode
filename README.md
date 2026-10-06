@@ -183,6 +183,8 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [JFrog](#jfrog)
   - [SARIF Explorer](#sarif-explorer)
   - [Document Viewer](#document-viewer)
+  - [Narrator](#narrator)
+  - [Screenplay](#screenplay)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -1138,6 +1140,16 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
 
 > View Word, Excel, PDF, Markdown and CSV files directly inside VS Code.
+
+## [Narrator](https://marketplace.visualstudio.com/items?itemName=cratis.narrator)
+
+> Browse Cratis Chronicle event stores from VS Code: streams, namespaces, schemas, observers and projections.
+
+## [Screenplay](https://marketplace.visualstudio.com/items?itemName=cratis.screenplay)
+
+> Language support for Cratis Screenplay `.play` event-model files, with the model rendered as an event-model board that redraws as you edit.
+
+![Screenplay](https://raw.githubusercontent.com/Cratis/Screenplay/main/Documentation/screenplay/images/vscode-live-edit.gif)
 
 # Themes
 
