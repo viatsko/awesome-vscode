@@ -178,6 +178,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Quokka](#quokka)
   - [Runner](#runner)
   - [SVG](#svg)
+  - [tensorViz](#tensorviz)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
   - [Interface generator](#interface-generator)
   - [JFrog](#jfrog)
@@ -1112,6 +1113,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > A Powerful SVG Language Support Extension(beta). Almost all the features you need to handle SVG.
 
 ![SVG](https://raw.githubusercontent.com/lishu/vscode-svg/master/images/f1.png)
+
+## [tensorViz](https://marketplace.visualstudio.com/items?itemName=tensorviz.tensorviz-vscode)
+
+> Explore PyTorch model graphs, inspect shapes from a captured forward pass, and jump to the Python source in VS Code.
+
+![tensorViz model exploration and source navigation](https://raw.githubusercontent.com/tensorviz-org/tensorviz-examples/6e5cdcfc8ec3ab39c0bb1264bf534210ae5c1981/assets/marketplace-demo.gif)
 
 ## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
 
