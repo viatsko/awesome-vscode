@@ -45,6 +45,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Calva](#calva)
   - [CSS](#css)
     - [CSS Peek](#css-peek)
+  - [F#](#f)
   - [Go](#go)
   - [Groovy](#groovy)
   - [Haskell](#haskell)
@@ -359,6 +360,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
+- [CSharp.Refactor](https://marketplace.visualstudio.com/items?itemName=TuomasHietanen.csharp-refactor-vscode) - Functional refactoring quick fixes for C# that clarify code intent, built on Roslyn analyzers.
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 - [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
 - [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
@@ -388,6 +390,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [Intellisense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace. Also supports React's className attribute.
 
   ![Intellisense CSS class names](https://i.imgur.com/5crMfTj.gif)
+
+## F#
+
+- [FSharp.Refactor](https://marketplace.visualstudio.com/items?itemName=TuomasHietanen.fsharp-refactor-vscode) - Functional refactoring quick fixes for F# that clarify code intent and reduce noise.
 
 ## Go
 
