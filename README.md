@@ -57,6 +57,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Debugger for Chrome](#debugger-for-chrome)
     - [Facebook Flow](#facebook-flow)
     - [TypeScript](#typescript)
+  - [Loment](#loment)
   - [MATLAB](#matlab)
   - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
@@ -458,6 +459,12 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ### TypeScript
 
 - TSLint reached end-of-life in 2019 — use [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) with [typescript-eslint](https://typescript-eslint.io/) to lint TypeScript.
+
+## Loment
+
+- [Loment](https://marketplace.visualstudio.com/items?itemName=hooyan2022.loment) - Language support for Loment: syntax highlighting, LSP completion and go-to-definition, diagnostics, formatting, and build/run/check commands
+
+![A Loment diagnostic rendered in VS Code: the error code, the source line with a caret, then message, what went wrong, why, four numbered fixes](https://raw.githubusercontent.com/FujoJTOP/loment/main/editors/loment-diagnostic.png)
 
 ## [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
 > This extension provides support for editing MATLAB® code in Visual Studio® Code and includes features such as syntax highlighting, code analysis, navigation support, and more.
