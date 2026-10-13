@@ -92,6 +92,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Bookmarks](#bookmarks)
   - [Microsoft Edge Tools](#microsoft-edge-tools)
   - [Color Tabs](#color-tabs)
+  - [Copilot Credits](#copilot-credits)
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
   - [Duplicate Action](#duplicate-action)
@@ -660,6 +661,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
 
 ![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/coverGif.gif)
+
+## [Copilot Credits](https://marketplace.visualstudio.com/items?itemName=leonbjorklund.copilot-usage-extension)
+
+> A lightweight extension to keep track of your daily and monthly GitHub Copilot credit usage in the status bar. Hover for usage history, estimated monthly pace, and a breakdown by model.
+
+<img src="screenshots/copilot-credits.gif" width="480" alt="Copilot Credits" />
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
