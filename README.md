@@ -168,6 +168,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Edit with Shell Command](#edit-with-shell-command)
   - [Editor Config for VS Code](#editor-config-for-vs-code)
   - [SFTP](#sftp)
+  - [SideChannel](#sidechannel)
   - [Highlight JSX/HTML tags](#highlight-jsxhtml-tags)
   - [Indent Rainbow](#indent-rainbow)
   - [iTerm2 Theme Sync](#iterm2-theme-sync)
@@ -1056,6 +1057,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [SFTP](https://marketplace.visualstudio.com/items?itemName=Natizyskunk.sftp)
 
 > Sync files to a remote server over SFTP/FTP, with upload-on-save, diff and remote browsing. Maintained successor to the original liximomo SFTP extension.
+
+## [SideChannel](https://marketplace.visualstudio.com/items?itemName=SideChannel.sidechannel)
+
+> A public chat network of developers that lives in the VS Code sidebar — GitHub sign-in, 13 channels, share-my-error with local secret redaction, insert-fix-at-cursor, and a #help channel where answers marked solved earn the solver rep.
+
+![SideChannel chat in the VS Code sidebar](https://getsidechannel.com/assets/sidebar-tab-chat.png)
 
 ## [Highlight JSX/HTML tags](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 
