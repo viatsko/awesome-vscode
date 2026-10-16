@@ -731,6 +731,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Gradle Tasks](https://raw.githubusercontent.com/microsoft/vscode-gradle/develop/images/gradle-tasks-view.png)
 
+#### [Helicon](https://marketplace.visualstudio.com/items?itemName=harjjotsinghh.helicon)
+
+> Desktop app and VS Code extension for Meta's Muse Code CLI, with sessions across projects, inline diffs, approvals and per-thread cost. Open source (MIT).
+
+![Helicon](https://raw.githubusercontent.com/HarjjotSinghh/helicon/prod/docs/assets/readme-hero-light.png)
+
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
