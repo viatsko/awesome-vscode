@@ -79,6 +79,8 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Terraform](#terraform)
+  - [WGSL](#wgsl)
+    - [WGSL Linter](#wgsl-linter)
 - [GitHub](#github)
   - [GitHub Pull Requests and Issues](#github-pull-requests-and-issues)
   - [GistPad](#gistpad)
@@ -600,6 +602,13 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## Terraform
 
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
+
+## WGSL
+
+### [WGSL Linter](https://marketplace.visualstudio.com/items?itemName=Elringus.wgsl-linter)
+> Validation matching Chrome's Tint compiler, completion, hover with buffer layouts and spec docs, navigation, rename and formatting, also in JS/TS template strings
+
+![WGSL Linter](https://raw.githubusercontent.com/elringus/wgsl-linter/main/assets/screenshot.png)
 
 # GitHub
 
