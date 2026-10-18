@@ -142,6 +142,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Trunk](#trunk)
   - [Peacock](#peacock)
   - [GitHub Copilot](#github-copilot)
+  - [Lookout](#lookout)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -927,6 +928,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 > AI pair programmer that suggests whole lines and functions as you type, with an in-editor chat.
+
+## [Lookout](https://marketplace.visualstudio.com/items?itemName=nimrod-teich.lookout)
+
+> One board of every Claude Code, Codex and Copilot session: what each needs you for, one-key jump to its tab or terminal, search across conversations, usage limits in the status bar. Reads only what the agents write on disk.
+
+![Lookout](https://raw.githubusercontent.com/nimrod-teich/lookout/main/media/readme/window.png)
 
 # Formatting & Beautification
 
