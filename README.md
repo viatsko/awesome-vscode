@@ -215,6 +215,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
     - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
     - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
+    - [Tapetum Theme by Țugui Dragoș](#tapetum-theme-by-țugui-dragoș)
     - [Niketa Theme by Dejan Toteff](#niketa-theme-by-dejan-toteff)
 - [People to Follow](#people-to-follow)
 - [Resources for extension developers](#resources-for-extension-developers)
@@ -1379,6 +1380,14 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 
 <a href="https://vscodethemes.com/e/smlombardi.slime">
   <img src="./themes/screenshots/slime.png" width="600" />
+</a>
+
+### [Tapetum Theme by Țugui Dragoș](https://vscodethemes.com/e/tuguidragos.tapetum)
+
+Every colour placed by hand, then measured on the surface it sits on: 58 themes in 28 families, dark and light, plus a high contrast pair.
+
+<a href="https://vscodethemes.com/e/tuguidragos.tapetum">
+  <img src="./themes/screenshots/tuguidragos.tapetum.png" width="600" />
 </a>
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme)
