@@ -159,6 +159,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [AudioLens](#audiolens)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
@@ -1007,6 +1008,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [AudioLens](https://marketplace.visualstudio.com/items?itemName=simzhou.audiolens)
+
+> Inspect audio beside code and dataset manifests with waveforms, spectrograms, per-channel playback, and selection analysis. Supports raw PCM, Kaldi WAV Ark entries, and Remote SSH workspaces.
+
+![AudioLens](https://raw.githubusercontent.com/SimZhou/vscode-audiolens/main/docs/assets/readme/1.multi-channel_tracks_and_multi-view.en-US.gif)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
