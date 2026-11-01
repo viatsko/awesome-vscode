@@ -142,6 +142,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Trunk](#trunk)
   - [Peacock](#peacock)
   - [GitHub Copilot](#github-copilot)
+  - [Send to AI](#send-to-ai)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -927,6 +928,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 > AI pair programmer that suggests whole lines and functions as you type, with an in-editor chat.
+
+## [Send to AI](https://marketplace.visualstudio.com/items?itemName=oxainz.sendtoai)
+
+> Bundle your project into one paste for ChatGPT, Claude or Gemini (with a file tree, token count and the Problems panel), then apply the reply back to your files with a diff preview. No API key needed.
+
+![Send to AI](https://raw.githubusercontent.com/OxainZ/sendtoai-vscode/main/images/demo.gif)
 
 # Formatting & Beautification
 
