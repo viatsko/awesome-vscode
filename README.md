@@ -142,6 +142,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Trunk](#trunk)
   - [Peacock](#peacock)
   - [GitHub Copilot](#github-copilot)
+  - [deja-vu](#deja-vu)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -927,6 +928,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 > AI pair programmer that suggests whole lines and functions as you type, with an in-editor chat.
+
+## [deja-vu](https://github.com/vshulcz/deja-vu/tree/main/extensions/vscode)
+
+> Cross-agent coding session memory and status bar integration for VS Code, Cursor, and Windsurf — indexes local transcripts across 43 coding agents on disk with BM25 lexical search.
+
+![deja-vu](https://vshulcz.github.io/deja-vu/assets/demo.gif)
 
 # Formatting & Beautification
 
