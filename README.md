@@ -579,6 +579,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Python
 
+- [Denpex Diagnostics](https://marketplace.visualstudio.com/items?itemName=denpex.denpex-diagnostics) - Local GPU log diagnostics for CUDA, PyTorch, NCCL, and vLLM training and inference failures.
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
 ### TensorFlow
