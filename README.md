@@ -214,6 +214,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Rainglow by Dayle Rees](#rainglow-by-dayle-rees)
     - [Relaxed Theme by Michael Kühnel](#relaxed-theme-by-michael-kühnel)
     - [Shades of Purple by Ahmad Awais](#shades-of-purple-by-ahmad-awais)
+    - [Simple light by xseman](#simple-light-by-xseman)
     - [Slime Theme by smlombardi](#slime-theme-by-smlombardi)
     - [Niketa Theme by Dejan Toteff](#niketa-theme-by-dejan-toteff)
 - [People to Follow](#people-to-follow)
@@ -1371,6 +1372,14 @@ A relaxed theme to take a more relaxed view of things.
 
 <a href="https://vscodethemes.com/e/ahmadawais.shades-of-purple">
   <img src="./themes/screenshots/ahmadawais.shades-of-purple.png" width="600" />
+</a>
+
+### [Simple light by xseman](https://vscodethemes.com/e/xseman.simple-light)
+
+Light theme with minimal syntax highlighting, inspired by IntelliJ IDEA and GitLab.
+
+<a href="https://vscodethemes.com/e/xseman.simple-light">
+  <img src="./themes/screenshots/xseman.simple-light.png" width="600" />
 </a>
 
 ### [Slime Theme by smlombardi](https://vscodethemes.com/e/smlombardi.slime)
