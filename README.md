@@ -928,6 +928,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > AI pair programmer that suggests whole lines and functions as you type, with an in-editor chat.
 
+## [Mel – the agentic terminal](https://marketplace.visualstudio.com/items?itemName=Mel.openmel)
+
+> The agentic team for coding: a team of AI coding agents with configurable approvals, from the Mel terminal.
+
 # Formatting & Beautification
 
 ## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
