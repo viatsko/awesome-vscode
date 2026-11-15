@@ -131,6 +131,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [REST Client](#rest-client)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
+  - [TodoForge](#todoforge)
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
@@ -877,6 +878,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
 
 ![Todo Tree](https://raw.githubusercontent.com/Gruntfuggly/todo-tree/master/resources/screenshot.png)
+
+## [TodoForge](https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge)
+
+> A TODO and FIXME tree with owners, due dates, a Changes view for your branch, and theme-aware highlights. Offline, no account, no telemetry.
+
+![TodoForge](https://raw.githubusercontent.com/onurkarakus/todo-forge/main/media/screenshots/demo.gif)
 
 ## [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 
