@@ -122,6 +122,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Paste JSON as Code](#paste-json-as-code)
   - [Path Autocomplete](#path-autocomplete)
   - [Path IntelliSense](#path-intellisense)
+  - [Port Hub](#port-hub)
   - [Power Tools](#power-tools)
   - [PrintCode](#printcode)
   - [Project Manager](#project-manager)
@@ -824,6 +825,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Visual Studio Code plugin that autocompletes filenames
 
 ![Autocompletion for filenames animation](https://i.giphy.com/iaHeUiDeTUZuo.gif)
+
+## [Port Hub](https://marketplace.visualstudio.com/items?itemName=JoroGeorgiev.porthub)
+
+> See which process and project holds each port (3000, 5173, 8080…) in a panel next to the terminal, and kill it in one click. Offers "Kill & Run Again" when a command fails with "port already in use" (EADDRINUSE), and shows Docker containers by name.
+
+![Port Hub](https://raw.githubusercontent.com/jorka/porthub/19b7436141b350f9d941953fc61cbde4bd7b88f7/packages/vscode/images/demo.gif)
 
 ## [Power Tools](https://marketplace.visualstudio.com/items?itemName=egomobile.vscode-powertools)
 
