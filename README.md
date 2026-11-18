@@ -131,6 +131,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [REST Client](#rest-client)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
+  - [Todoscope](#todoscope)
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
@@ -877,6 +878,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
 
 ![Todo Tree](https://raw.githubusercontent.com/Gruntfuggly/todo-tree/master/resources/screenshot.png)
+
+## [Todoscope](https://marketplace.visualstudio.com/items?itemName=myzles.myzles-todo-lens)
+
+> Tree view and editor highlights for TODO, FIXME, BUG and HACK comments, with its own built-in scanner (no ripgrep dependency) and a one-command import of Todo Tree settings.
+
+![Todoscope](https://raw.githubusercontent.com/Myzles/todo-lens/main/media/screenshot-tree.png)
 
 ## [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 
