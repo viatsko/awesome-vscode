@@ -93,6 +93,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Microsoft Edge Tools](#microsoft-edge-tools)
   - [Color Tabs](#color-tabs)
   - [Create tests](#create-tests)
+  - [DataLoam](#dataloam)
   - [Dendron](#dendron)
   - [Duplicate Action](#duplicate-action)
   - [Error Lens](#error-lens)
@@ -666,6 +667,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > An extension to quickly generate test files.
 
 ![Create tests extension animation](https://media.giphy.com/media/1iqPhENd8SLd9SggeX/giphy.gif)
+
+#### [DataLoam](https://marketplace.visualstudio.com/items?itemName=VPALGOsro.dataloam)
+
+> A database client for VS Code.
+
+![DataLoam running in VS Code](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/fcl2ies3lpd65oyogzj9.gif)
 
 ## [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron)
 
