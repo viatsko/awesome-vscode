@@ -480,6 +480,12 @@ With MATLAB installed:
 
 ## Markdown
 
+### [Inkmap](https://marketplace.visualstudio.com/items?itemName=inkmap.inkmap-vscode)
+
+> Interactive two-way editable Markdown mind map (Markmap alternative) and inline Mermaid flowchart editor with live `.md` sync, KaTeX math, and 9 layouts.
+
+![Inkmap](https://raw.githubusercontent.com/zhiyuanvision-lang/InkMap/main/packages/vscode/images/demo-sync-en.gif)
+
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 > Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
