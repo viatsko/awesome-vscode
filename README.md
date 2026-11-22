@@ -134,6 +134,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Toggle Quotes](#toggle-quotes)
   - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
+  - [Yamori](#yamori)
   - [Timing](#timing)
   - [httpYac](#httpyac)
   - [DevDb](#devdb)
@@ -893,6 +894,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
 > Automatic time tracker and productivity dashboard showing how long you coded in each project, file, branch, and language.
+
+## [Yamori](https://marketplace.visualstudio.com/items?itemName=cowana-ai.yamori)
+
+> Read any code as numbered pseudocode beside the editor, every line linked to the source. Runs on your Claude Code or Codex plan.
+
+![Yamori](https://github.com/cowana-ai/yamori/raw/main/media/demo.gif)
 
 ## [Timing](https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing)
 
