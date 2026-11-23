@@ -86,6 +86,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitHub Repositories](#github-repositories)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
 - [Productivity](#productivity)
+  - [ADP: A Different Perspective](#adp-a-different-perspective)
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
@@ -628,6 +629,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 # Productivity
+
+## [ADP: A Different Perspective](https://marketplace.visualstudio.com/items?itemName=etalii.adp)
+
+> Opens the text files you already keep (Markdown, YAML, Freeplane .mm and more) in a view made for the task: an agent behavior tree, a causal loop diagram, a Gartner hype cycle, a requirements designer, a mind map. Every edit is written back as an ordinary text edit, so undo and git diffs keep working. Open source (Apache-2.0).
+
+![ADP: four task-specific tools in VS Code](https://raw.githubusercontent.com/etalii-adp/etalii.adp.ide.vscode/develop/media/adp-vscode-tools.png)
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
