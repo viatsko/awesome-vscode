@@ -128,6 +128,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Project Dashboard](#project-dashboard)
   - [Rainbow CSV](#rainbow-csv)
   - [Remote Development](#remote-development)
+  - [ReqBridge Local API](#reqbridge-local-api)
   - [REST Client](#rest-client)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
@@ -859,6 +860,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Allows users to open any folder in a container, on a remote machine, container or in Windows Subsystem for Linux(WSL) and take advantage of VS Code's full feature set.
 
 ![Remote SSH extension at work](https://microsoft.github.io/vscode-remote-release/images/ssh-readme.gif)
+
+## [ReqBridge Local API](https://marketplace.visualstudio.com/items?itemName=soulkey-tools.reqbridge-local-api)
+
+> Bi-directional Postman v2.1, Thunder Client, Bruno (`.bru`), OpenAPI 3.0/3.1 & cURL migration to Git-native `.http` + OpenAPI 3.1 locally, with CSV/JSON batch runs and Staging-vs-Prod schema diff.
+
+![ReqBridge Local API](https://raw.githubusercontent.com/soulkeey/reqbridge-local-api/main/extension/media/demo.gif)
 
 ## [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
